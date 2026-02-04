@@ -1,0 +1,2001 @@
+customer_id,first_name,last_name,email,signup_date,region,acquisition_cahnnel,is_active
+1,Casey,Davis,casey.davis0540@realemail.com,2020-03-11,UK,Referral,false
+2,Casey,Anderson,casey.anderson9724@realemail.com,2020-10-05,EU,Paid Social,true
+3,Jesse,Garcia,jesse.garcia7244@realemail.com,2021-11-04,UK,Organic Search,false
+4,Taylor,Hernandez,taylor.hernandez7325@realemail.com,2021-10-30,IN,Paid Social,true
+5,Cameron,Anderson,cameron.anderson8698@realemail.com,2021-02-09,CA,Paid Social,true
+6,Taylor,Martinez,taylor.martinez0665@realemail.com,2023-06-22,IN,Email,true
+7,Sage,Jackson,sage.jackson7252@realemail.com,2023-02-07,AU,Referral,true
+8,Casey,Wilson,casey.wilson6776@realemail.com,2022-01-21,AU,Organic Search,true
+9,Jamie,Rodriguez,jamie.rodriguez5211@realemail.com,2023-08-15,AU,Referral,true
+10,Elliot,Moore,elliot.moore3736@realemail.com,2021-12-07,EU,Direct,true
+11,Jordan,Martin,jordan.martin8024@realemail.com,2022-09-10,AU,Referral,true
+12,Rowan,Jackson,rowan.jackson2975@realemail.com,2023-02-18,AU,Referral,true
+13,Avery,Williams,avery.williams7071@realemail.com,2023-09-23,IN,Organic Search,true
+14,Skyler,Garcia,skyler.garcia0174@realemail.com,2022-11-22,US,Influencer,false
+15,Sam,Wilson,sam.wilson9153@realemail.com,2020-08-28,CA,Influencer,true
+16,Alex,Thomas,alex.thomas1501@realemail.com,2021-09-30,US,Organic Search,true
+17,Quinn,Brown,quinn.brown5051@realemail.com,2022-03-23,EU,Influencer,false
+18,Logan,Johnson,logan.johnson4468@realemail.com,2024-09-06,EU,Direct,true
+19,Hayden,Jones,hayden.jones4995@realemail.com,2023-09-03,AU,Referral,true
+20,Sam,Lopez,sam.lopez3861@realemail.com,2021-03-07,AU,Email,true
+21,Elliot,Martin,elliot.martin4700@realemail.com,2024-01-28,EU,Email,true
+22,Logan,Hernandez,logan.hernandez4666@realemail.com,2024-10-10,IN,Influencer,true
+23,Hayden,Brown,hayden.brown4008@realemail.com,2024-02-26,EU,Organic Search,false
+24,Jamie,Gonzalez,jamie.gonzalez6084@realemail.com,2024-12-09,AU,Influencer,true
+25,Morgan,Williams,morgan.williams7554@realemail.com,2022-06-04,AU,Referral,true
+26,Kai,Williams,kai.williams9729@realemail.com,2022-07-20,EU,Referral,true
+27,Casey,Williams,casey.williams1871@realemail.com,2022-05-15,UK,Direct,true
+28,Kai,Gonzalez,kai.gonzalez9870@realemail.com,2022-11-08,AU,Organic Search,false
+29,Sage,Lopez,sage.lopez9980@realemail.com,2020-02-18,IN,Influencer,false
+30,Rowan,Lopez,rowan.lopez7228@realemail.com,2024-07-24,US,Paid Social,true
+31,Morgan,Wilson,morgan.wilson7909@realemail.com,2021-06-27,EU,Organic Search,true
+32,Hayden,Wilson,hayden.wilson2509@realemail.com,2023-03-01,EU,Referral,true
+33,Alex,Johnson,alex.johnson4817@realemail.com,2021-07-15,UK,Organic Search,true
+34,Elliot,Anderson,elliot.anderson7250@realemail.com,2021-01-24,EU,Paid Social,true
+35,Jamie,Moore,jamie.moore4040@realemail.com,2021-06-25,AU,Paid Social,false
+36,Sam,Martinez,sam.martinez0566@realemail.com,2023-09-28,IN,Email,true
+37,Alex,Hernandez,alex.hernandez0372@realemail.com,2020-02-06,US,Email,true
+38,Jordan,Wilson,jordan.wilson9177@realemail.com,2024-06-16,CA,Direct,true
+39,Skyler,Moore,skyler.moore9116@realemail.com,2024-01-25,EU,Direct,true
+40,Taylor,Williams,taylor.williams3697@realemail.com,2023-02-19,US,Paid Social,true
+41,Drew,Hernandez,drew.hernandez0506@realemail.com,2023-08-12,IN,Influencer,true
+42,Riley,Thomas,riley.thomas7106@realemail.com,2024-05-12,AU,Email,true
+43,Logan,Martinez,logan.martinez3105@realemail.com,2020-01-25,AU,Organic Search,true
+44,Quinn,Gonzalez,quinn.gonzalez1261@realemail.com,2024-11-03,UK,Organic Search,false
+45,Cameron,Williams,cameron.williams6798@realemail.com,2023-05-02,IN,Referral,true
+46,Jesse,Wilson,jesse.wilson6820@realemail.com,2021-09-21,AU,Direct,true
+47,Rowan,Martin,rowan.martin0964@realemail.com,2021-12-28,CA,Direct,true
+48,Avery,Brown,avery.brown9965@realemail.com,2022-12-01,IN,Influencer,true
+49,Quinn,Taylor,quinn.taylor2090@realemail.com,2022-10-03,US,Organic Search,true
+50,Skyler,Martinez,skyler.martinez1167@realemail.com,2020-05-07,EU,Paid Social,true
+51,Casey,Thomas,casey.thomas7206@realemail.com,2023-01-17,UK,Referral,true
+52,Riley,Moore,riley.moore7786@realemail.com,2023-01-30,AU,Influencer,true
+53,Alex,Jackson,alex.jackson3673@realemail.com,2022-09-14,AU,Direct,true
+54,Logan,Lopez,logan.lopez6447@realemail.com,2021-10-24,IN,Paid Social,true
+55,Jordan,Thomas,jordan.thomas5141@realemail.com,2023-06-21,AU,Influencer,false
+56,Sage,Brown,sage.brown2412@realemail.com,2024-09-04,IN,Direct,true
+57,Quinn,Jackson,quinn.jackson0066@realemail.com,2024-11-08,CA,Email,true
+58,Quinn,Lopez,quinn.lopez0817@realemail.com,2024-09-29,CA,Organic Search,true
+59,Skyler,Martin,skyler.martin2496@realemail.com,2020-12-11,CA,Influencer,false
+60,Drew,Jackson,drew.jackson2492@realemail.com,2023-08-14,CA,Referral,true
+61,Kai,Moore,kai.moore7022@realemail.com,2024-01-01,EU,Organic Search,true
+62,Jordan,Martinez,jordan.martinez7365@realemail.com,2023-08-14,AU,Influencer,false
+63,Hayden,Jones,hayden.jones3178@realemail.com,2024-03-12,US,Direct,false
+64,Morgan,Jones,morgan.jones1268@realemail.com,2024-02-21,CA,Influencer,true
+65,Avery,Jackson,avery.jackson1704@realemail.com,2021-01-21,IN,Referral,true
+66,Jesse,Martin,jesse.martin8065@realemail.com,2021-04-01,EU,Paid Social,true
+67,Taylor,Wilson,taylor.wilson9392@realemail.com,2021-07-07,UK,Referral,true
+68,Kai,Jones,kai.jones4954@realemail.com,2022-05-06,US,Organic Search,true
+69,Sage,Miller,sage.miller7508@realemail.com,2020-03-16,EU,Direct,true
+70,Morgan,Gonzalez,morgan.gonzalez6250@realemail.com,2024-09-25,AU,Direct,false
+71,Drew,Moore,drew.moore9093@realemail.com,2023-01-03,AU,Referral,false
+72,Jamie,Moore,jamie.moore5768@realemail.com,2020-04-05,EU,Email,true
+73,Logan,Anderson,logan.anderson6535@realemail.com,2022-03-14,EU,Email,true
+74,Sage,Taylor,sage.taylor0711@realemail.com,2024-06-19,CA,Organic Search,true
+75,Rowan,Jones,rowan.jones1056@realemail.com,2023-09-28,AU,Referral,true
+76,Sage,Lopez,sage.lopez4425@realemail.com,2020-04-05,EU,Paid Social,true
+77,Jamie,Davis,jamie.davis7296@realemail.com,2020-08-10,UK,Organic Search,true
+78,Taylor,Davis,taylor.davis3106@realemail.com,2021-12-06,AU,Influencer,true
+79,Elliot,Lopez,elliot.lopez0004@realemail.com,2021-01-19,CA,Email,true
+80,Alex,Gonzalez,alex.gonzalez7767@realemail.com,2023-10-03,CA,Email,true
+81,Quinn,Smith,quinn.smith8491@realemail.com,2023-12-12,CA,Influencer,true
+82,Elliot,Rodriguez,elliot.rodriguez9214@realemail.com,2024-07-28,AU,Email,true
+83,Quinn,Martin,quinn.martin1255@realemail.com,2023-12-05,AU,Referral,true
+84,Drew,Smith,drew.smith2609@realemail.com,2023-06-03,UK,Email,true
+85,Taylor,Johnson,taylor.johnson5694@realemail.com,2023-12-25,CA,Referral,true
+86,Riley,Hernandez,riley.hernandez1580@realemail.com,2023-05-01,EU,Influencer,true
+87,Rowan,Brown,rowan.brown9442@realemail.com,2020-07-02,US,Email,true
+88,Alex,Johnson,alex.johnson9325@realemail.com,2022-09-06,UK,Email,true
+89,Cameron,Gonzalez,cameron.gonzalez1099@realemail.com,2023-05-30,UK,Referral,true
+90,Jamie,Gonzalez,jamie.gonzalez5118@realemail.com,2023-03-20,EU,Influencer,false
+91,Kai,Lopez,kai.lopez3346@realemail.com,2021-02-04,EU,Email,false
+92,Avery,Martin,avery.martin3627@realemail.com,2022-02-01,UK,Organic Search,true
+93,Casey,Lopez,casey.lopez0341@realemail.com,2025-01-01,IN,Influencer,false
+94,Kai,Williams,kai.williams4411@realemail.com,2022-05-03,AU,Referral,true
+95,Sam,Jones,sam.jones8160@realemail.com,2024-12-04,US,Organic Search,true
+96,Quinn,Jackson,quinn.jackson4659@realemail.com,2020-01-17,AU,Email,true
+97,Taylor,Miller,taylor.miller6514@realemail.com,2022-02-03,EU,Referral,false
+98,Casey,Williams,casey.williams6250@realemail.com,2023-08-18,EU,Direct,true
+99,Alex,Martin,alex.martin1980@realemail.com,2024-04-21,AU,Influencer,true
+100,Jesse,Johnson,jesse.johnson1786@realemail.com,2022-03-02,EU,Direct,true
+101,Casey,Wilson,casey.wilson9846@realemail.com,2020-06-27,CA,Direct,true
+102,Quinn,Rodriguez,quinn.rodriguez7204@realemail.com,2021-11-23,EU,Organic Search,true
+103,Kai,Anderson,kai.anderson3658@realemail.com,2023-09-01,IN,Email,true
+104,Skyler,Jones,skyler.jones3051@realemail.com,2022-11-08,EU,Referral,true
+105,Sage,Wilson,sage.wilson2238@realemail.com,2021-01-05,UK,Paid Social,false
+106,Morgan,Jones,morgan.jones3696@realemail.com,2022-12-24,UK,Paid Social,true
+107,Rowan,Martinez,rowan.martinez8162@realemail.com,2021-06-03,US,Email,true
+108,Jesse,Thomas,jesse.thomas9089@realemail.com,2023-08-01,US,Influencer,true
+109,Elliot,Lopez,elliot.lopez1641@realemail.com,2022-05-13,EU,Email,true
+110,Skyler,Lopez,skyler.lopez0930@realemail.com,2024-06-09,AU,Email,false
+111,Sage,Jackson,sage.jackson5411@realemail.com,2020-04-13,AU,Email,false
+112,Logan,Moore,logan.moore7003@realemail.com,2022-05-05,EU,Organic Search,true
+113,Kai,Williams,kai.williams7112@realemail.com,2023-11-01,IN,Referral,true
+114,Taylor,Garcia,taylor.garcia5249@realemail.com,2020-09-29,US,Paid Social,true
+115,Morgan,Miller,morgan.miller3936@realemail.com,2021-10-26,AU,Influencer,false
+116,Elliot,Martin,elliot.martin3837@realemail.com,2021-05-12,US,Influencer,true
+117,Quinn,Smith,quinn.smith5894@realemail.com,2024-05-07,IN,Referral,true
+118,Kai,Anderson,kai.anderson7603@realemail.com,2021-12-19,EU,Referral,true
+119,Taylor,Thomas,taylor.thomas4888@realemail.com,2021-03-27,EU,Organic Search,true
+120,Quinn,Miller,quinn.miller6364@realemail.com,2020-12-30,US,Referral,true
+121,Taylor,Brown,taylor.brown9341@realemail.com,2023-08-24,UK,Referral,true
+122,Quinn,Anderson,quinn.anderson1148@realemail.com,2020-08-24,UK,Influencer,true
+123,Skyler,Hernandez,skyler.hernandez4897@realemail.com,2024-01-11,EU,Paid Social,true
+124,Jamie,Martinez,jamie.martinez0288@realemail.com,2023-04-02,CA,Email,true
+125,Riley,Hernandez,riley.hernandez6404@realemail.com,2023-03-26,EU,Direct,false
+126,Kai,Brown,kai.brown1301@realemail.com,2020-06-14,US,Referral,true
+127,Skyler,Jones,skyler.jones9937@realemail.com,2023-01-10,AU,Referral,true
+128,Sam,Garcia,sam.garcia8423@realemail.com,2021-08-17,EU,Direct,true
+129,Casey,Taylor,casey.taylor5694@realemail.com,2023-06-06,CA,Email,true
+130,Jamie,Johnson,jamie.johnson5704@realemail.com,2023-01-25,CA,Influencer,true
+131,Morgan,Lopez,morgan.lopez0241@realemail.com,2023-08-06,US,Direct,true
+132,Logan,Rodriguez,logan.rodriguez5042@realemail.com,2020-02-21,AU,Email,true
+133,Morgan,Jackson,morgan.jackson0322@realemail.com,2021-05-20,CA,Email,true
+134,Alex,Miller,alex.miller8493@realemail.com,2020-05-02,US,Paid Social,true
+135,Alex,Taylor,alex.taylor2419@realemail.com,2022-05-13,US,Referral,false
+136,Jamie,Anderson,jamie.anderson5313@realemail.com,2023-03-06,AU,Influencer,false
+137,Riley,Johnson,riley.johnson4507@realemail.com,2020-12-18,US,Direct,true
+138,Kai,Williams,kai.williams5845@realemail.com,2021-01-08,EU,Direct,false
+139,Sage,Davis,sage.davis9766@realemail.com,2023-04-28,UK,Paid Social,false
+140,Kai,Davis,kai.davis4222@realemail.com,2024-04-08,EU,Organic Search,true
+141,Jordan,Lopez,jordan.lopez8831@realemail.com,2022-08-28,EU,Direct,true
+142,Elliot,Davis,elliot.davis8720@realemail.com,2021-08-13,AU,Referral,true
+143,Taylor,Martinez,taylor.martinez8143@realemail.com,2024-08-20,US,Referral,true
+144,Casey,Miller,casey.miller1070@realemail.com,2024-09-09,AU,Referral,true
+145,Kai,Brown,kai.brown8269@realemail.com,2023-01-10,UK,Organic Search,true
+146,Hayden,Lopez,hayden.lopez6351@realemail.com,2023-05-17,UK,Organic Search,true
+147,Avery,Jackson,avery.jackson1005@realemail.com,2023-01-17,US,Paid Social,false
+148,Sam,Williams,sam.williams7563@realemail.com,2020-12-27,IN,Email,true
+149,Jordan,Hernandez,jordan.hernandez9382@realemail.com,2020-08-15,IN,Referral,true
+150,Jamie,Anderson,jamie.anderson4813@realemail.com,2023-06-02,EU,Paid Social,true
+151,Hayden,Williams,hayden.williams3751@realemail.com,2021-10-31,AU,Direct,true
+152,Logan,Rodriguez,logan.rodriguez3738@realemail.com,2022-01-21,EU,Paid Social,true
+153,Sam,Davis,sam.davis4001@realemail.com,2020-01-07,CA,Email,true
+154,Jamie,Lopez,jamie.lopez6821@realemail.com,2020-05-01,US,Email,true
+155,Logan,Moore,logan.moore9512@realemail.com,2023-12-23,IN,Direct,false
+156,Kai,Hernandez,kai.hernandez1946@realemail.com,2023-03-23,UK,Email,true
+157,Rowan,Jackson,rowan.jackson0139@realemail.com,2020-05-12,IN,Influencer,false
+158,Quinn,Rodriguez,quinn.rodriguez6298@realemail.com,2021-10-25,CA,Direct,true
+159,Casey,Johnson,casey.johnson4544@realemail.com,2020-04-24,UK,Paid Social,true
+160,Casey,Thomas,casey.thomas6839@realemail.com,2022-04-09,US,Email,true
+161,Morgan,Jackson,morgan.jackson2349@realemail.com,2020-09-12,IN,Organic Search,true
+162,Quinn,Gonzalez,quinn.gonzalez2786@realemail.com,2021-03-21,EU,Direct,false
+163,Kai,Brown,kai.brown3996@realemail.com,2023-02-18,AU,Email,true
+164,Elliot,Garcia,elliot.garcia1082@realemail.com,2021-05-04,AU,Referral,false
+165,Logan,Gonzalez,logan.gonzalez0936@realemail.com,2020-02-11,IN,Referral,true
+166,Taylor,Johnson,taylor.johnson1614@realemail.com,2024-03-21,AU,Referral,true
+167,Drew,Jones,drew.jones8935@realemail.com,2021-03-20,US,Influencer,true
+168,Kai,Moore,kai.moore4576@realemail.com,2020-11-23,AU,Email,true
+169,Avery,Wilson,avery.wilson9612@realemail.com,2020-01-25,US,Organic Search,true
+170,Avery,Wilson,avery.wilson5220@realemail.com,2021-12-04,AU,Referral,true
+171,Jamie,Garcia,jamie.garcia3399@realemail.com,2021-10-02,AU,Organic Search,true
+172,Cameron,Moore,cameron.moore8531@realemail.com,2021-08-15,EU,Direct,true
+173,Rowan,Wilson,rowan.wilson9013@realemail.com,2022-04-14,UK,Organic Search,false
+174,Kai,Taylor,kai.taylor8949@realemail.com,2023-04-14,CA,Paid Social,true
+175,Sam,Brown,sam.brown7151@realemail.com,2020-05-04,US,Organic Search,true
+176,Hayden,Jones,hayden.jones5837@realemail.com,2020-04-04,CA,Paid Social,true
+177,Rowan,Moore,rowan.moore0247@realemail.com,2024-08-11,IN,Influencer,true
+178,Jesse,Lopez,jesse.lopez8037@realemail.com,2024-06-01,AU,Organic Search,true
+179,Avery,Rodriguez,avery.rodriguez9315@realemail.com,2020-10-30,AU,Direct,true
+180,Logan,Johnson,logan.johnson8571@realemail.com,2023-11-20,IN,Paid Social,false
+181,Taylor,Brown,taylor.brown2409@realemail.com,2021-07-05,EU,Paid Social,true
+182,Rowan,Wilson,rowan.wilson7757@realemail.com,2021-10-29,UK,Paid Social,true
+183,Casey,Jones,casey.jones9693@realemail.com,2024-04-08,IN,Direct,true
+184,Jesse,Williams,jesse.williams2416@realemail.com,2020-01-03,EU,Email,true
+185,Taylor,Johnson,taylor.johnson1760@realemail.com,2024-12-04,UK,Paid Social,true
+186,Logan,Martinez,logan.martinez3954@realemail.com,2022-06-03,US,Referral,true
+187,Drew,Jones,drew.jones5737@realemail.com,2020-12-07,UK,Referral,false
+188,Jamie,Thomas,jamie.thomas9404@realemail.com,2023-01-09,US,Paid Social,true
+189,Alex,Taylor,alex.taylor5240@realemail.com,2021-08-17,EU,Email,true
+190,Elliot,Thomas,elliot.thomas5873@realemail.com,2024-10-12,AU,Paid Social,true
+191,Quinn,Anderson,quinn.anderson0628@realemail.com,2020-06-20,UK,Referral,true
+192,Sage,Rodriguez,sage.rodriguez8889@realemail.com,2023-11-27,CA,Paid Social,true
+193,Rowan,Moore,rowan.moore7934@realemail.com,2022-08-24,IN,Influencer,true
+194,Kai,Hernandez,kai.hernandez6090@realemail.com,2023-11-07,EU,Organic Search,true
+195,Jamie,Lopez,jamie.lopez5451@realemail.com,2021-12-08,UK,Referral,true
+196,Avery,Taylor,avery.taylor4439@realemail.com,2022-09-13,AU,Influencer,true
+197,Avery,Rodriguez,avery.rodriguez1492@realemail.com,2020-08-11,EU,Referral,true
+198,Logan,Garcia,logan.garcia0699@realemail.com,2020-12-17,US,Paid Social,true
+199,Quinn,Moore,quinn.moore8860@realemail.com,2020-03-17,US,Email,true
+200,Logan,Thomas,logan.thomas6866@realemail.com,2024-08-17,IN,Organic Search,false
+201,Jamie,Miller,jamie.miller2064@realemail.com,2022-10-13,IN,Paid Social,true
+202,Taylor,Lopez,taylor.lopez1043@realemail.com,2021-05-06,AU,Paid Social,true
+203,Rowan,Smith,rowan.smith7902@realemail.com,2020-11-07,CA,Organic Search,true
+204,Drew,Jackson,drew.jackson1547@realemail.com,2024-06-25,IN,Organic Search,true
+205,Casey,Gonzalez,casey.gonzalez4488@realemail.com,2021-05-18,AU,Email,true
+206,Jesse,Johnson,jesse.johnson2928@realemail.com,2024-03-02,UK,Referral,true
+207,Jordan,Martin,jordan.martin7643@realemail.com,2021-12-29,UK,Direct,true
+208,Taylor,Garcia,taylor.garcia8554@realemail.com,2021-07-29,AU,Referral,false
+209,Sam,Hernandez,sam.hernandez1438@realemail.com,2020-05-01,EU,Organic Search,true
+210,Sage,Anderson,sage.anderson7133@realemail.com,2021-10-06,IN,Referral,true
+211,Jamie,Anderson,jamie.anderson4465@realemail.com,2021-11-19,UK,Paid Social,true
+212,Avery,Thomas,avery.thomas5293@realemail.com,2023-05-07,CA,Organic Search,false
+213,Kai,Hernandez,kai.hernandez1907@realemail.com,2022-02-13,US,Direct,true
+214,Sage,Miller,sage.miller9806@realemail.com,2020-07-23,UK,Referral,true
+215,Sam,Jones,sam.jones8794@realemail.com,2024-06-27,IN,Email,true
+216,Skyler,Garcia,skyler.garcia4841@realemail.com,2021-11-22,EU,Influencer,true
+217,Sam,Martin,sam.martin7609@realemail.com,2023-11-06,CA,Referral,true
+218,Riley,Lopez,riley.lopez7107@realemail.com,2020-09-22,EU,Referral,true
+219,Drew,Martin,drew.martin9391@realemail.com,2021-11-02,US,Organic Search,false
+220,Taylor,Garcia,taylor.garcia3698@realemail.com,2020-02-08,CA,Influencer,false
+221,Sage,Thomas,sage.thomas8809@realemail.com,2024-11-22,AU,Referral,false
+222,Quinn,Hernandez,quinn.hernandez9027@realemail.com,2024-11-22,US,Referral,true
+223,Riley,Johnson,riley.johnson8678@realemail.com,2024-10-01,IN,Organic Search,false
+224,Riley,Brown,riley.brown6225@realemail.com,2020-01-22,UK,Paid Social,true
+225,Drew,Smith,drew.smith6657@realemail.com,2021-09-22,IN,Paid Social,true
+226,Sage,Brown,sage.brown4575@realemail.com,2020-08-07,CA,Influencer,true
+227,Cameron,Smith,cameron.smith6479@realemail.com,2023-02-05,IN,Organic Search,false
+228,Morgan,Garcia,morgan.garcia5071@realemail.com,2021-10-15,US,Email,true
+229,Cameron,Martinez,cameron.martinez2655@realemail.com,2021-11-26,IN,Direct,true
+230,Drew,Hernandez,drew.hernandez8110@realemail.com,2020-12-11,EU,Influencer,true
+231,Hayden,Gonzalez,hayden.gonzalez8786@realemail.com,2024-05-17,UK,Paid Social,true
+232,Rowan,Garcia,rowan.garcia0395@realemail.com,2022-07-16,US,Influencer,true
+233,Skyler,Williams,skyler.williams8350@realemail.com,2021-06-04,US,Direct,true
+234,Rowan,Wilson,rowan.wilson3402@realemail.com,2020-09-04,US,Paid Social,false
+235,Hayden,Anderson,hayden.anderson1746@realemail.com,2023-03-28,UK,Paid Social,true
+236,Logan,Brown,logan.brown0445@realemail.com,2023-10-16,UK,Email,true
+237,Avery,Smith,avery.smith7882@realemail.com,2023-05-15,IN,Referral,true
+238,Jesse,Hernandez,jesse.hernandez1833@realemail.com,2021-05-12,IN,Influencer,true
+239,Rowan,Rodriguez,rowan.rodriguez4214@realemail.com,2020-11-19,US,Referral,true
+240,Taylor,Gonzalez,taylor.gonzalez3210@realemail.com,2022-07-15,UK,Paid Social,true
+241,Kai,Miller,kai.miller6303@realemail.com,2023-10-28,US,Organic Search,true
+242,Skyler,Wilson,skyler.wilson8659@realemail.com,2020-05-28,CA,Influencer,true
+243,Taylor,Williams,taylor.williams0766@realemail.com,2024-04-23,AU,Referral,true
+244,Quinn,Hernandez,quinn.hernandez7377@realemail.com,2020-09-04,UK,Email,true
+245,Morgan,Hernandez,morgan.hernandez4358@realemail.com,2023-08-16,AU,Organic Search,true
+246,Sam,Anderson,sam.anderson2876@realemail.com,2021-01-18,EU,Organic Search,true
+247,Alex,Gonzalez,alex.gonzalez2165@realemail.com,2020-09-15,IN,Referral,false
+248,Casey,Lopez,casey.lopez1524@realemail.com,2024-06-15,AU,Organic Search,true
+249,Hayden,Hernandez,hayden.hernandez1515@realemail.com,2023-11-13,CA,Referral,true
+250,Jesse,Hernandez,jesse.hernandez6888@realemail.com,2023-09-06,EU,Referral,true
+251,Jesse,Anderson,jesse.anderson4431@realemail.com,2021-07-12,US,Organic Search,true
+252,Jordan,Anderson,jordan.anderson0862@realemail.com,2024-09-19,US,Organic Search,true
+253,Jamie,Davis,jamie.davis4305@realemail.com,2021-02-15,AU,Organic Search,true
+254,Quinn,Taylor,quinn.taylor5355@realemail.com,2023-09-01,CA,Organic Search,true
+255,Jordan,Johnson,jordan.johnson7398@realemail.com,2020-06-06,EU,Organic Search,true
+256,Drew,Gonzalez,drew.gonzalez3760@realemail.com,2023-11-20,CA,Influencer,true
+257,Sage,Lopez,sage.lopez7006@realemail.com,2021-03-28,AU,Email,false
+258,Sam,Hernandez,sam.hernandez7074@realemail.com,2020-04-29,CA,Direct,false
+259,Sam,Rodriguez,sam.rodriguez7237@realemail.com,2023-04-09,EU,Organic Search,true
+260,Hayden,Jones,hayden.jones8168@realemail.com,2022-04-30,EU,Paid Social,true
+261,Logan,Jones,logan.jones7385@realemail.com,2023-10-07,UK,Organic Search,true
+262,Quinn,Gonzalez,quinn.gonzalez8530@realemail.com,2021-11-26,AU,Influencer,false
+263,Jordan,Moore,jordan.moore4619@realemail.com,2021-05-08,IN,Organic Search,true
+264,Kai,Garcia,kai.garcia7151@realemail.com,2023-02-17,EU,Referral,true
+265,Taylor,Johnson,taylor.johnson0279@realemail.com,2023-12-02,CA,Paid Social,true
+266,Taylor,Gonzalez,taylor.gonzalez6085@realemail.com,2022-11-12,CA,Direct,false
+267,Cameron,Williams,cameron.williams3016@realemail.com,2022-02-15,CA,Email,true
+268,Rowan,Gonzalez,rowan.gonzalez6579@realemail.com,2024-06-10,AU,Paid Social,false
+269,Sage,Martinez,sage.martinez5707@realemail.com,2021-08-12,CA,Direct,true
+270,Taylor,Anderson,taylor.anderson7156@realemail.com,2022-12-29,IN,Organic Search,true
+271,Quinn,Brown,quinn.brown8438@realemail.com,2023-12-06,AU,Referral,true
+272,Sage,Anderson,sage.anderson0494@realemail.com,2020-07-31,IN,Direct,true
+273,Taylor,Brown,taylor.brown4919@realemail.com,2023-11-21,CA,Email,true
+274,Logan,Hernandez,logan.hernandez1938@realemail.com,2024-04-08,UK,Direct,true
+275,Jesse,Hernandez,jesse.hernandez3123@realemail.com,2021-05-09,AU,Referral,true
+276,Sage,Smith,sage.smith8784@realemail.com,2021-10-27,UK,Paid Social,false
+277,Quinn,Lopez,quinn.lopez0363@realemail.com,2021-04-04,AU,Organic Search,true
+278,Skyler,Taylor,skyler.taylor5634@realemail.com,2024-09-18,IN,Direct,false
+279,Kai,Davis,kai.davis1305@realemail.com,2020-07-16,AU,Email,true
+280,Quinn,Garcia,quinn.garcia0630@realemail.com,2023-06-03,EU,Referral,true
+281,Jesse,Garcia,jesse.garcia3058@realemail.com,2020-02-20,IN,Organic Search,false
+282,Cameron,Garcia,cameron.garcia8534@realemail.com,2020-04-26,UK,Organic Search,false
+283,Jordan,Taylor,jordan.taylor6070@realemail.com,2023-04-15,CA,Paid Social,true
+284,Quinn,Williams,quinn.williams6066@realemail.com,2020-03-13,EU,Influencer,true
+285,Avery,Gonzalez,avery.gonzalez0806@realemail.com,2022-02-02,EU,Email,true
+286,Sage,Lopez,sage.lopez5680@realemail.com,2020-10-09,IN,Influencer,false
+287,Cameron,Smith,cameron.smith2026@realemail.com,2020-06-27,EU,Paid Social,false
+288,Casey,Brown,casey.brown3252@realemail.com,2020-03-12,US,Email,true
+289,Cameron,Anderson,cameron.anderson7416@realemail.com,2024-07-17,US,Email,true
+290,Riley,Martin,riley.martin6732@realemail.com,2020-02-21,CA,Direct,true
+291,Casey,Anderson,casey.anderson2782@realemail.com,2020-08-24,CA,Referral,true
+292,Jordan,Gonzalez,jordan.gonzalez7116@realemail.com,2022-11-24,UK,Referral,false
+293,Avery,Gonzalez,avery.gonzalez7839@realemail.com,2024-01-11,EU,Organic Search,true
+294,Cameron,Miller,cameron.miller7535@realemail.com,2020-08-31,US,Organic Search,false
+295,Kai,Williams,kai.williams5324@realemail.com,2024-08-25,IN,Organic Search,true
+296,Alex,Wilson,alex.wilson8381@realemail.com,2023-09-04,IN,Referral,true
+297,Drew,Johnson,drew.johnson7627@realemail.com,2022-05-12,CA,Email,false
+298,Jesse,Gonzalez,jesse.gonzalez1670@realemail.com,2023-02-11,IN,Email,false
+299,Sam,Rodriguez,sam.rodriguez8003@realemail.com,2024-07-17,AU,Organic Search,true
+300,Casey,Rodriguez,casey.rodriguez6316@realemail.com,2022-02-09,UK,Referral,true
+301,Morgan,Hernandez,morgan.hernandez2704@realemail.com,2021-09-26,IN,Referral,true
+302,Kai,Anderson,kai.anderson9216@realemail.com,2021-01-17,CA,Email,false
+303,Taylor,Brown,taylor.brown0194@realemail.com,2023-11-19,UK,Referral,true
+304,Sam,Miller,sam.miller0059@realemail.com,2022-03-23,AU,Organic Search,true
+305,Elliot,Martinez,elliot.martinez5341@realemail.com,2022-07-05,UK,Paid Social,true
+306,Jesse,Taylor,jesse.taylor3382@realemail.com,2022-08-09,CA,Referral,true
+307,Quinn,Lopez,quinn.lopez7037@realemail.com,2021-02-11,AU,Influencer,true
+308,Cameron,Brown,cameron.brown0216@realemail.com,2020-10-16,IN,Influencer,true
+309,Elliot,Miller,elliot.miller6916@realemail.com,2023-12-16,US,Influencer,true
+310,Hayden,Lopez,hayden.lopez3470@realemail.com,2023-02-15,CA,Referral,true
+311,Elliot,Jones,elliot.jones1999@realemail.com,2021-09-23,AU,Organic Search,true
+312,Alex,Jackson,alex.jackson4565@realemail.com,2021-03-01,US,Influencer,true
+313,Hayden,Anderson,hayden.anderson7137@realemail.com,2022-04-23,AU,Email,true
+314,Drew,Smith,drew.smith3035@realemail.com,2024-12-12,CA,Email,true
+315,Jordan,Williams,jordan.williams2874@realemail.com,2021-10-11,AU,Referral,true
+316,Elliot,Jones,elliot.jones7226@realemail.com,2023-01-02,AU,Direct,true
+317,Jamie,Miller,jamie.miller9439@realemail.com,2022-03-20,US,Referral,true
+318,Kai,Johnson,kai.johnson6097@realemail.com,2021-06-27,US,Influencer,false
+319,Sam,Garcia,sam.garcia4803@realemail.com,2021-12-06,IN,Email,true
+320,Jamie,Wilson,jamie.wilson4628@realemail.com,2023-07-10,US,Organic Search,true
+321,Jamie,Miller,jamie.miller6626@realemail.com,2020-11-04,AU,Referral,true
+322,Sage,Wilson,sage.wilson6374@realemail.com,2024-07-10,CA,Organic Search,true
+323,Logan,Moore,logan.moore5318@realemail.com,2020-04-04,IN,Organic Search,false
+324,Jamie,Davis,jamie.davis1478@realemail.com,2024-07-10,US,Influencer,true
+325,Avery,Thomas,avery.thomas4373@realemail.com,2020-12-04,IN,Paid Social,true
+326,Elliot,Davis,elliot.davis3921@realemail.com,2020-09-09,US,Direct,true
+327,Morgan,Martinez,morgan.martinez6817@realemail.com,2021-07-19,EU,Influencer,true
+328,Avery,Lopez,avery.lopez2850@realemail.com,2022-12-07,EU,Email,true
+329,Jamie,Johnson,jamie.johnson8159@realemail.com,2023-09-12,CA,Influencer,true
+330,Jesse,Thomas,jesse.thomas4256@realemail.com,2024-07-13,AU,Direct,true
+331,Hayden,Williams,hayden.williams0415@realemail.com,2021-06-29,IN,Direct,true
+332,Sage,Jackson,sage.jackson8250@realemail.com,2023-11-15,AU,Influencer,true
+333,Sam,Martin,sam.martin9938@realemail.com,2021-04-28,AU,Email,true
+334,Drew,Hernandez,drew.hernandez8184@realemail.com,2022-01-18,UK,Direct,true
+335,Drew,Jones,drew.jones3381@realemail.com,2020-11-14,US,Influencer,true
+336,Jesse,Brown,jesse.brown4324@realemail.com,2023-09-12,UK,Paid Social,true
+337,Hayden,Hernandez,hayden.hernandez1512@realemail.com,2024-02-07,IN,Direct,true
+338,Hayden,Hernandez,hayden.hernandez7027@realemail.com,2021-08-16,AU,Organic Search,true
+339,Quinn,Johnson,quinn.johnson4294@realemail.com,2022-10-15,US,Influencer,true
+340,Morgan,Thomas,morgan.thomas9420@realemail.com,2022-03-24,UK,Organic Search,true
+341,Jesse,Martinez,jesse.martinez5511@realemail.com,2021-03-07,US,Email,true
+342,Rowan,Taylor,rowan.taylor2975@realemail.com,2022-01-18,IN,Influencer,true
+343,Skyler,Wilson,skyler.wilson9208@realemail.com,2020-06-18,EU,Influencer,true
+344,Kai,Brown,kai.brown7952@realemail.com,2024-01-08,UK,Direct,true
+345,Jamie,Jackson,jamie.jackson9772@realemail.com,2021-03-30,UK,Influencer,true
+346,Jordan,Gonzalez,jordan.gonzalez2239@realemail.com,2022-04-27,US,Paid Social,true
+347,Sage,Lopez,sage.lopez7740@realemail.com,2022-12-05,EU,Influencer,false
+348,Taylor,Taylor,taylor.taylor0109@realemail.com,2024-03-20,UK,Paid Social,true
+349,Avery,Williams,avery.williams6684@realemail.com,2023-08-31,IN,Influencer,true
+350,Sam,Lopez,sam.lopez5484@realemail.com,2024-03-21,EU,Paid Social,true
+351,Quinn,Johnson,quinn.johnson0690@realemail.com,2024-04-20,US,Email,true
+352,Sage,Smith,sage.smith8179@realemail.com,2024-12-08,AU,Direct,true
+353,Morgan,Lopez,morgan.lopez2082@realemail.com,2022-03-31,UK,Direct,true
+354,Jamie,Williams,jamie.williams3472@realemail.com,2021-08-03,CA,Email,true
+355,Jesse,Jones,jesse.jones4421@realemail.com,2023-05-22,US,Email,true
+356,Jesse,Garcia,jesse.garcia7276@realemail.com,2023-03-26,EU,Influencer,true
+357,Kai,Rodriguez,kai.rodriguez8424@realemail.com,2020-02-21,CA,Influencer,true
+358,Kai,Taylor,kai.taylor2591@realemail.com,2020-04-02,AU,Direct,true
+359,Casey,Hernandez,casey.hernandez5856@realemail.com,2022-07-02,IN,Email,true
+360,Hayden,Miller,hayden.miller9322@realemail.com,2023-12-26,AU,Email,false
+361,Kai,Thomas,kai.thomas4815@realemail.com,2023-02-17,IN,Paid Social,true
+362,Avery,Johnson,avery.johnson8699@realemail.com,2024-10-30,IN,Direct,false
+363,Jesse,Miller,jesse.miller0821@realemail.com,2022-11-24,US,Direct,true
+364,Alex,Gonzalez,alex.gonzalez7969@realemail.com,2021-09-09,US,Paid Social,true
+365,Cameron,Gonzalez,cameron.gonzalez7982@realemail.com,2023-12-12,US,Referral,true
+366,Alex,Jackson,alex.jackson3278@realemail.com,2021-04-01,UK,Direct,false
+367,Logan,Jackson,logan.jackson1651@realemail.com,2021-05-01,CA,Organic Search,true
+368,Jordan,Martin,jordan.martin0142@realemail.com,2023-10-04,US,Email,true
+369,Jordan,Jackson,jordan.jackson2823@realemail.com,2022-01-18,EU,Influencer,true
+370,Sam,Anderson,sam.anderson7389@realemail.com,2020-02-26,US,Influencer,true
+371,Skyler,Martin,skyler.martin6242@realemail.com,2021-02-25,UK,Email,true
+372,Skyler,Davis,skyler.davis1197@realemail.com,2021-07-08,CA,Referral,true
+373,Kai,Wilson,kai.wilson0185@realemail.com,2020-06-11,EU,Organic Search,true
+374,Kai,Anderson,kai.anderson0407@realemail.com,2021-11-23,EU,Email,true
+375,Jesse,Anderson,jesse.anderson2869@realemail.com,2024-10-02,US,Influencer,true
+376,Jesse,Johnson,jesse.johnson5801@realemail.com,2021-08-07,EU,Referral,true
+377,Taylor,Gonzalez,taylor.gonzalez0841@realemail.com,2023-01-09,US,Direct,true
+378,Skyler,Davis,skyler.davis0806@realemail.com,2020-05-15,CA,Paid Social,true
+379,Casey,Martin,casey.martin5081@realemail.com,2022-05-06,CA,Referral,true
+380,Quinn,Gonzalez,quinn.gonzalez0516@realemail.com,2024-12-29,UK,Referral,true
+381,Skyler,Lopez,skyler.lopez2675@realemail.com,2020-12-27,EU,Direct,true
+382,Elliot,Thomas,elliot.thomas2794@realemail.com,2023-05-23,EU,Direct,false
+383,Jamie,Thomas,jamie.thomas8875@realemail.com,2020-05-13,EU,Paid Social,true
+384,Cameron,Brown,cameron.brown0425@realemail.com,2021-07-03,EU,Email,true
+385,Sam,Davis,sam.davis3417@realemail.com,2023-12-05,EU,Paid Social,true
+386,Quinn,Brown,quinn.brown0054@realemail.com,2021-11-20,US,Email,true
+387,Cameron,Miller,cameron.miller0568@realemail.com,2020-10-08,CA,Direct,true
+388,Rowan,Hernandez,rowan.hernandez6457@realemail.com,2020-03-02,IN,Referral,false
+389,Sam,Taylor,sam.taylor0382@realemail.com,2021-07-10,US,Email,false
+390,Elliot,Smith,elliot.smith1832@realemail.com,2024-06-26,CA,Referral,true
+391,Morgan,Lopez,morgan.lopez1088@realemail.com,2022-10-30,AU,Direct,false
+392,Hayden,Hernandez,hayden.hernandez6232@realemail.com,2021-06-03,IN,Paid Social,false
+393,Morgan,Taylor,morgan.taylor3627@realemail.com,2020-05-13,EU,Direct,true
+394,Jesse,Taylor,jesse.taylor8583@realemail.com,2021-10-17,AU,Organic Search,true
+395,Skyler,Thomas,skyler.thomas0908@realemail.com,2020-03-20,CA,Paid Social,true
+396,Sage,Smith,sage.smith6322@realemail.com,2022-09-16,US,Organic Search,false
+397,Sage,Lopez,sage.lopez5197@realemail.com,2021-01-28,IN,Email,true
+398,Hayden,Williams,hayden.williams4183@realemail.com,2022-09-13,US,Organic Search,true
+399,Morgan,Williams,morgan.williams7806@realemail.com,2021-12-23,CA,Referral,true
+400,Cameron,Gonzalez,cameron.gonzalez1774@realemail.com,2022-12-10,CA,Influencer,true
+401,Jamie,Gonzalez,jamie.gonzalez5798@realemail.com,2022-01-04,UK,Email,true
+402,Morgan,Taylor,morgan.taylor0043@realemail.com,2022-06-06,AU,Organic Search,true
+403,Cameron,Williams,cameron.williams0259@realemail.com,2022-07-14,UK,Email,true
+404,Logan,Miller,logan.miller0886@realemail.com,2020-08-25,AU,Influencer,true
+405,Morgan,Anderson,morgan.anderson6123@realemail.com,2023-02-18,EU,Direct,true
+406,Riley,Johnson,riley.johnson2427@realemail.com,2022-02-10,US,Influencer,true
+407,Cameron,Jackson,cameron.jackson8387@realemail.com,2023-09-25,UK,Referral,true
+408,Casey,Hernandez,casey.hernandez1599@realemail.com,2024-02-04,CA,Direct,true
+409,Logan,Davis,logan.davis8985@realemail.com,2021-04-07,UK,Organic Search,false
+410,Casey,Jones,casey.jones3348@realemail.com,2022-06-07,EU,Referral,true
+411,Cameron,Lopez,cameron.lopez3931@realemail.com,2023-10-10,IN,Referral,true
+412,Riley,Thomas,riley.thomas2447@realemail.com,2021-02-04,IN,Organic Search,true
+413,Sage,Taylor,sage.taylor2297@realemail.com,2021-05-25,US,Direct,true
+414,Jamie,Miller,jamie.miller0291@realemail.com,2023-03-22,US,Email,true
+415,Logan,Gonzalez,logan.gonzalez2993@realemail.com,2021-01-27,EU,Direct,true
+416,Jordan,Taylor,jordan.taylor2855@realemail.com,2024-06-25,US,Direct,true
+417,Elliot,Garcia,elliot.garcia3189@realemail.com,2023-07-27,IN,Email,true
+418,Avery,Rodriguez,avery.rodriguez8934@realemail.com,2020-06-28,IN,Direct,true
+419,Taylor,Garcia,taylor.garcia7394@realemail.com,2021-09-02,CA,Direct,false
+420,Taylor,Martinez,taylor.martinez2668@realemail.com,2020-01-13,EU,Email,true
+421,Logan,Jackson,logan.jackson0661@realemail.com,2024-09-19,US,Email,true
+422,Cameron,Miller,cameron.miller5010@realemail.com,2023-09-15,UK,Referral,true
+423,Sage,Moore,sage.moore3175@realemail.com,2023-06-30,UK,Organic Search,true
+424,Sam,Rodriguez,sam.rodriguez2498@realemail.com,2022-05-24,AU,Paid Social,true
+425,Jordan,Moore,jordan.moore0229@realemail.com,2020-10-28,UK,Email,true
+426,Sam,Jackson,sam.jackson1334@realemail.com,2024-06-20,AU,Paid Social,false
+427,Elliot,Smith,elliot.smith3071@realemail.com,2024-12-20,CA,Direct,false
+428,Alex,Jackson,alex.jackson3636@realemail.com,2024-01-23,US,Email,true
+429,Alex,Jones,alex.jones4384@realemail.com,2024-10-16,IN,Direct,true
+430,Casey,Jackson,casey.jackson1165@realemail.com,2022-10-07,AU,Influencer,true
+431,Taylor,Garcia,taylor.garcia9854@realemail.com,2022-07-01,IN,Direct,true
+432,Avery,Garcia,avery.garcia4422@realemail.com,2021-10-31,US,Organic Search,true
+433,Jordan,Martin,jordan.martin2986@realemail.com,2022-06-25,CA,Influencer,true
+434,Jordan,Johnson,jordan.johnson6506@realemail.com,2022-01-16,IN,Direct,true
+435,Skyler,Rodriguez,skyler.rodriguez0276@realemail.com,2022-10-27,UK,Direct,true
+436,Rowan,Davis,rowan.davis9865@realemail.com,2020-06-08,AU,Email,true
+437,Casey,Brown,casey.brown3488@realemail.com,2023-10-10,AU,Paid Social,false
+438,Morgan,Taylor,morgan.taylor5782@realemail.com,2020-01-05,UK,Paid Social,true
+439,Logan,Jackson,logan.jackson7997@realemail.com,2024-06-05,AU,Influencer,true
+440,Alex,Gonzalez,alex.gonzalez7443@realemail.com,2022-04-01,AU,Email,true
+441,Skyler,Brown,skyler.brown2546@realemail.com,2020-06-07,CA,Influencer,true
+442,Elliot,Taylor,elliot.taylor3615@realemail.com,2021-09-15,AU,Influencer,true
+443,Sage,Gonzalez,sage.gonzalez8993@realemail.com,2022-03-06,EU,Email,false
+444,Drew,Martinez,drew.martinez9216@realemail.com,2023-04-20,CA,Direct,false
+445,Avery,Gonzalez,avery.gonzalez1925@realemail.com,2021-02-03,EU,Direct,false
+446,Skyler,Davis,skyler.davis2677@realemail.com,2020-06-27,UK,Direct,true
+447,Taylor,Rodriguez,taylor.rodriguez0604@realemail.com,2022-05-20,IN,Paid Social,true
+448,Jesse,Taylor,jesse.taylor3005@realemail.com,2021-02-12,IN,Influencer,true
+449,Cameron,Smith,cameron.smith2751@realemail.com,2022-09-14,IN,Paid Social,true
+450,Jesse,Davis,jesse.davis6287@realemail.com,2021-06-06,UK,Direct,true
+451,Cameron,Johnson,cameron.johnson6842@realemail.com,2021-09-17,AU,Referral,true
+452,Avery,Hernandez,avery.hernandez1091@realemail.com,2024-10-22,AU,Direct,true
+453,Drew,Brown,drew.brown5042@realemail.com,2020-12-11,EU,Paid Social,true
+454,Cameron,Johnson,cameron.johnson0128@realemail.com,2023-09-21,AU,Paid Social,true
+455,Morgan,Miller,morgan.miller1135@realemail.com,2023-05-31,IN,Email,true
+456,Taylor,Wilson,taylor.wilson9690@realemail.com,2023-07-11,US,Organic Search,true
+457,Elliot,Wilson,elliot.wilson4210@realemail.com,2021-03-24,IN,Direct,false
+458,Casey,Hernandez,casey.hernandez4727@realemail.com,2022-07-02,EU,Paid Social,false
+459,Riley,Smith,riley.smith3606@realemail.com,2024-08-23,UK,Referral,true
+460,Riley,Anderson,riley.anderson5519@realemail.com,2021-06-28,UK,Email,true
+461,Jesse,Moore,jesse.moore9589@realemail.com,2024-05-16,UK,Direct,true
+462,Logan,Moore,logan.moore1333@realemail.com,2023-11-25,EU,Influencer,false
+463,Avery,Wilson,avery.wilson2360@realemail.com,2023-08-17,US,Organic Search,true
+464,Jesse,Smith,jesse.smith8410@realemail.com,2022-06-04,IN,Referral,true
+465,Elliot,Taylor,elliot.taylor0523@realemail.com,2023-06-02,EU,Paid Social,true
+466,Alex,Miller,alex.miller9853@realemail.com,2024-02-17,AU,Organic Search,true
+467,Skyler,Jackson,skyler.jackson7081@realemail.com,2024-07-13,IN,Influencer,true
+468,Kai,Martinez,kai.martinez3376@realemail.com,2020-01-29,IN,Referral,true
+469,Hayden,Williams,hayden.williams0738@realemail.com,2020-03-22,AU,Organic Search,false
+470,Jamie,Martin,jamie.martin5092@realemail.com,2024-02-03,UK,Email,true
+471,Elliot,Davis,elliot.davis1701@realemail.com,2021-09-27,CA,Paid Social,false
+472,Jordan,Moore,jordan.moore9735@realemail.com,2023-08-02,US,Direct,true
+473,Jamie,Garcia,jamie.garcia9079@realemail.com,2022-11-09,EU,Organic Search,true
+474,Riley,Martinez,riley.martinez7004@realemail.com,2025-01-01,US,Email,true
+475,Cameron,Miller,cameron.miller2961@realemail.com,2021-07-27,UK,Paid Social,false
+476,Elliot,Williams,elliot.williams8980@realemail.com,2022-02-14,US,Email,true
+477,Jordan,Gonzalez,jordan.gonzalez4680@realemail.com,2020-01-15,AU,Direct,true
+478,Elliot,Taylor,elliot.taylor9641@realemail.com,2021-05-24,IN,Influencer,true
+479,Casey,Johnson,casey.johnson2362@realemail.com,2020-12-11,AU,Influencer,true
+480,Logan,Hernandez,logan.hernandez8976@realemail.com,2023-10-01,EU,Organic Search,true
+481,Skyler,Smith,skyler.smith7195@realemail.com,2020-11-28,US,Email,true
+482,Avery,Wilson,avery.wilson8429@realemail.com,2020-02-22,US,Referral,false
+483,Jamie,Martinez,jamie.martinez0628@realemail.com,2024-02-22,IN,Influencer,true
+484,Rowan,Martinez,rowan.martinez9221@realemail.com,2022-10-26,EU,Influencer,true
+485,Kai,Miller,kai.miller5045@realemail.com,2022-01-10,IN,Direct,true
+486,Sam,Davis,sam.davis6847@realemail.com,2021-03-08,UK,Referral,true
+487,Rowan,Brown,rowan.brown2110@realemail.com,2020-04-07,AU,Referral,true
+488,Morgan,Smith,morgan.smith5411@realemail.com,2023-05-31,IN,Organic Search,false
+489,Sage,Thomas,sage.thomas9533@realemail.com,2023-03-20,AU,Paid Social,true
+490,Sage,Garcia,sage.garcia3262@realemail.com,2020-02-23,US,Email,false
+491,Hayden,Taylor,hayden.taylor3666@realemail.com,2024-09-19,US,Email,true
+492,Logan,Jackson,logan.jackson7233@realemail.com,2020-11-27,UK,Direct,true
+493,Quinn,Davis,quinn.davis7459@realemail.com,2021-04-03,US,Referral,true
+494,Jesse,Rodriguez,jesse.rodriguez7533@realemail.com,2024-06-10,US,Organic Search,true
+495,Kai,Anderson,kai.anderson1334@realemail.com,2023-04-04,IN,Referral,true
+496,Drew,Jackson,drew.jackson2034@realemail.com,2023-02-09,EU,Organic Search,false
+497,Hayden,Brown,hayden.brown7319@realemail.com,2021-04-30,IN,Paid Social,false
+498,Cameron,Garcia,cameron.garcia2519@realemail.com,2021-03-14,AU,Influencer,true
+499,Jamie,Rodriguez,jamie.rodriguez2894@realemail.com,2020-04-18,EU,Organic Search,false
+500,Morgan,Hernandez,morgan.hernandez2461@realemail.com,2020-02-04,IN,Referral,true
+501,Taylor,Jackson,taylor.jackson8788@realemail.com,2022-04-10,UK,Influencer,true
+502,Taylor,Jackson,taylor.jackson3473@realemail.com,2022-01-08,IN,Paid Social,false
+503,Jordan,Gonzalez,jordan.gonzalez6036@realemail.com,2021-02-01,UK,Organic Search,true
+504,Alex,Garcia,alex.garcia7429@realemail.com,2020-02-09,CA,Email,true
+505,Taylor,Miller,taylor.miller3240@realemail.com,2023-02-25,IN,Influencer,true
+506,Jesse,Johnson,jesse.johnson0209@realemail.com,2023-11-28,IN,Direct,true
+507,Jesse,Smith,jesse.smith2937@realemail.com,2021-07-19,UK,Direct,true
+508,Taylor,Davis,taylor.davis1342@realemail.com,2020-04-11,US,Referral,true
+509,Jamie,Moore,jamie.moore4773@realemail.com,2021-04-30,UK,Referral,true
+510,Sage,Jones,sage.jones5935@realemail.com,2021-03-05,AU,Paid Social,false
+511,Alex,Jones,alex.jones6247@realemail.com,2023-04-15,EU,Influencer,true
+512,Morgan,Smith,morgan.smith5548@realemail.com,2023-07-21,US,Direct,true
+513,Logan,Martinez,logan.martinez8441@realemail.com,2021-08-11,CA,Direct,true
+514,Casey,Miller,casey.miller9524@realemail.com,2020-10-21,IN,Influencer,true
+515,Quinn,Anderson,quinn.anderson3885@realemail.com,2023-11-26,IN,Email,true
+516,Jordan,Rodriguez,jordan.rodriguez7384@realemail.com,2021-07-23,CA,Direct,true
+517,Jesse,Wilson,jesse.wilson6171@realemail.com,2020-03-29,EU,Paid Social,false
+518,Casey,Gonzalez,casey.gonzalez8589@realemail.com,2021-03-03,CA,Email,true
+519,Riley,Lopez,riley.lopez0011@realemail.com,2022-03-28,IN,Paid Social,true
+520,Jesse,Jones,jesse.jones2244@realemail.com,2023-03-30,AU,Direct,true
+521,Sage,Wilson,sage.wilson4423@realemail.com,2022-06-04,IN,Direct,true
+522,Jesse,Gonzalez,jesse.gonzalez9621@realemail.com,2022-02-11,US,Organic Search,false
+523,Sam,Brown,sam.brown9954@realemail.com,2022-05-24,UK,Influencer,true
+524,Quinn,Rodriguez,quinn.rodriguez1518@realemail.com,2020-01-20,UK,Influencer,true
+525,Rowan,Jackson,rowan.jackson4233@realemail.com,2021-04-29,CA,Direct,true
+526,Casey,Jackson,casey.jackson8862@realemail.com,2024-03-04,EU,Referral,true
+527,Sam,Miller,sam.miller3031@realemail.com,2022-07-16,IN,Organic Search,true
+528,Jesse,Gonzalez,jesse.gonzalez1245@realemail.com,2020-11-30,AU,Influencer,true
+529,Jesse,Davis,jesse.davis9333@realemail.com,2022-02-01,AU,Email,true
+530,Alex,Gonzalez,alex.gonzalez3886@realemail.com,2023-03-17,US,Email,true
+531,Jesse,Taylor,jesse.taylor4649@realemail.com,2021-11-20,EU,Paid Social,true
+532,Sam,Martinez,sam.martinez5448@realemail.com,2020-09-04,US,Direct,true
+533,Drew,Moore,drew.moore8452@realemail.com,2023-03-31,EU,Referral,true
+534,Jamie,Hernandez,jamie.hernandez1585@realemail.com,2020-06-24,CA,Email,false
+535,Skyler,Garcia,skyler.garcia3299@realemail.com,2020-10-03,US,Paid Social,true
+536,Casey,Hernandez,casey.hernandez3001@realemail.com,2023-03-16,IN,Direct,true
+537,Riley,Anderson,riley.anderson1430@realemail.com,2021-06-22,EU,Paid Social,false
+538,Avery,Thomas,avery.thomas3189@realemail.com,2020-01-20,UK,Referral,true
+539,Jamie,Miller,jamie.miller8952@realemail.com,2020-07-15,EU,Influencer,true
+540,Taylor,Rodriguez,taylor.rodriguez9643@realemail.com,2021-10-02,EU,Organic Search,true
+541,Alex,Taylor,alex.taylor4899@realemail.com,2020-06-09,CA,Email,true
+542,Cameron,Rodriguez,cameron.rodriguez4369@realemail.com,2021-07-03,IN,Organic Search,true
+543,Hayden,Rodriguez,hayden.rodriguez6510@realemail.com,2023-06-11,AU,Direct,true
+544,Drew,Martinez,drew.martinez4822@realemail.com,2023-12-22,US,Organic Search,true
+545,Jesse,Moore,jesse.moore7789@realemail.com,2021-03-25,UK,Referral,true
+546,Drew,Gonzalez,drew.gonzalez1451@realemail.com,2024-10-30,UK,Organic Search,true
+547,Sage,Moore,sage.moore2856@realemail.com,2022-06-19,US,Referral,true
+548,Hayden,Davis,hayden.davis5799@realemail.com,2022-04-05,US,Influencer,true
+549,Jesse,Jackson,jesse.jackson9591@realemail.com,2024-03-22,IN,Influencer,true
+550,Drew,Garcia,drew.garcia3182@realemail.com,2021-04-19,IN,Referral,false
+551,Sam,Miller,sam.miller0947@realemail.com,2020-04-05,IN,Direct,true
+552,Jesse,Brown,jesse.brown0245@realemail.com,2023-08-07,UK,Referral,true
+553,Skyler,Martin,skyler.martin7567@realemail.com,2022-01-10,EU,Organic Search,false
+554,Casey,Wilson,casey.wilson9638@realemail.com,2021-12-21,AU,Influencer,false
+555,Taylor,Lopez,taylor.lopez1464@realemail.com,2021-10-15,US,Paid Social,true
+556,Quinn,Moore,quinn.moore8966@realemail.com,2022-08-13,AU,Direct,true
+557,Elliot,Martinez,elliot.martinez3694@realemail.com,2022-01-12,CA,Referral,true
+558,Sage,Lopez,sage.lopez7123@realemail.com,2020-01-06,AU,Email,true
+559,Riley,Brown,riley.brown7871@realemail.com,2020-06-28,UK,Influencer,true
+560,Quinn,Martinez,quinn.martinez5962@realemail.com,2021-10-21,UK,Influencer,true
+561,Quinn,Martin,quinn.martin1111@realemail.com,2022-02-01,UK,Organic Search,true
+562,Hayden,Martin,hayden.martin4336@realemail.com,2022-12-03,AU,Referral,true
+563,Kai,Johnson,kai.johnson2588@realemail.com,2024-05-19,US,Influencer,true
+564,Taylor,Anderson,taylor.anderson6862@realemail.com,2020-10-16,IN,Paid Social,true
+565,Hayden,Garcia,hayden.garcia7429@realemail.com,2022-06-21,CA,Paid Social,true
+566,Hayden,Jones,hayden.jones3027@realemail.com,2021-08-27,IN,Influencer,false
+567,Elliot,Smith,elliot.smith7872@realemail.com,2020-01-04,EU,Paid Social,false
+568,Jamie,Anderson,jamie.anderson7695@realemail.com,2021-05-01,AU,Direct,false
+569,Rowan,Johnson,rowan.johnson9519@realemail.com,2020-12-15,UK,Influencer,false
+570,Cameron,Wilson,cameron.wilson8993@realemail.com,2021-08-02,EU,Direct,true
+571,Hayden,Smith,hayden.smith2521@realemail.com,2022-05-21,US,Referral,true
+572,Kai,Martin,kai.martin7758@realemail.com,2023-08-03,IN,Referral,true
+573,Morgan,Martinez,morgan.martinez8698@realemail.com,2021-04-01,IN,Organic Search,true
+574,Elliot,Lopez,elliot.lopez6787@realemail.com,2023-03-07,AU,Direct,true
+575,Cameron,Davis,cameron.davis3037@realemail.com,2023-04-15,IN,Email,true
+576,Jamie,Moore,jamie.moore7098@realemail.com,2020-09-03,UK,Direct,true
+577,Riley,Martinez,riley.martinez9734@realemail.com,2022-10-09,CA,Email,true
+578,Morgan,Miller,morgan.miller7439@realemail.com,2022-07-06,IN,Paid Social,false
+579,Elliot,Lopez,elliot.lopez1891@realemail.com,2020-08-28,IN,Email,true
+580,Hayden,Jackson,hayden.jackson6345@realemail.com,2022-09-05,EU,Organic Search,false
+581,Jesse,Martin,jesse.martin9051@realemail.com,2021-11-08,CA,Paid Social,true
+582,Logan,Moore,logan.moore6093@realemail.com,2022-03-18,AU,Referral,true
+583,Morgan,Johnson,morgan.johnson3171@realemail.com,2023-01-06,CA,Referral,false
+584,Morgan,Garcia,morgan.garcia8883@realemail.com,2021-08-26,CA,Email,true
+585,Sam,Gonzalez,sam.gonzalez1560@realemail.com,2020-06-02,EU,Influencer,true
+586,Morgan,Rodriguez,morgan.rodriguez9279@realemail.com,2022-10-05,AU,Influencer,true
+587,Elliot,Martinez,elliot.martinez3817@realemail.com,2022-03-18,EU,Referral,true
+588,Morgan,Williams,morgan.williams4526@realemail.com,2024-07-28,US,Email,true
+589,Kai,Davis,kai.davis5383@realemail.com,2021-11-03,AU,Email,true
+590,Riley,Davis,riley.davis7608@realemail.com,2024-10-31,CA,Paid Social,true
+591,Hayden,Rodriguez,hayden.rodriguez7222@realemail.com,2020-08-27,US,Email,true
+592,Rowan,Williams,rowan.williams2997@realemail.com,2023-11-25,CA,Referral,true
+593,Avery,Martinez,avery.martinez0847@realemail.com,2020-08-12,US,Paid Social,true
+594,Skyler,Taylor,skyler.taylor2870@realemail.com,2023-02-19,US,Influencer,true
+595,Hayden,Martinez,hayden.martinez4657@realemail.com,2020-08-14,US,Organic Search,true
+596,Avery,Hernandez,avery.hernandez3677@realemail.com,2021-04-17,AU,Email,true
+597,Casey,Lopez,casey.lopez0936@realemail.com,2022-11-27,UK,Influencer,false
+598,Jesse,Davis,jesse.davis6232@realemail.com,2022-09-17,UK,Referral,true
+599,Jesse,Taylor,jesse.taylor1161@realemail.com,2023-12-14,CA,Organic Search,true
+600,Elliot,Anderson,elliot.anderson4479@realemail.com,2023-11-28,CA,Direct,true
+601,Kai,Moore,kai.moore6458@realemail.com,2022-09-02,AU,Direct,true
+602,Sam,Smith,sam.smith2905@realemail.com,2024-05-17,EU,Direct,false
+603,Sam,Smith,sam.smith4192@realemail.com,2022-05-05,IN,Influencer,false
+604,Riley,Taylor,riley.taylor3350@realemail.com,2023-03-23,CA,Referral,true
+605,Elliot,Wilson,elliot.wilson6725@realemail.com,2021-09-07,US,Email,true
+606,Riley,Wilson,riley.wilson4319@realemail.com,2021-10-03,AU,Direct,false
+607,Sam,Martinez,sam.martinez9041@realemail.com,2021-09-07,IN,Direct,true
+608,Logan,Garcia,logan.garcia1943@realemail.com,2023-03-15,US,Referral,true
+609,Avery,Miller,avery.miller4697@realemail.com,2024-03-09,AU,Paid Social,true
+610,Logan,Thomas,logan.thomas3135@realemail.com,2021-06-12,UK,Email,true
+611,Cameron,Taylor,cameron.taylor8777@realemail.com,2023-08-07,EU,Referral,true
+612,Jamie,Miller,jamie.miller6746@realemail.com,2023-07-09,UK,Direct,true
+613,Quinn,Martinez,quinn.martinez3217@realemail.com,2024-01-10,UK,Influencer,true
+614,Quinn,Rodriguez,quinn.rodriguez7018@realemail.com,2024-07-27,UK,Direct,true
+615,Skyler,Moore,skyler.moore0226@realemail.com,2023-02-21,CA,Organic Search,true
+616,Casey,Smith,casey.smith1606@realemail.com,2020-03-15,EU,Referral,false
+617,Avery,Garcia,avery.garcia0844@realemail.com,2024-08-06,EU,Email,false
+618,Skyler,Gonzalez,skyler.gonzalez7130@realemail.com,2020-07-25,EU,Influencer,true
+619,Sage,Gonzalez,sage.gonzalez9122@realemail.com,2021-11-26,IN,Organic Search,true
+620,Hayden,Martin,hayden.martin9618@realemail.com,2022-11-11,UK,Direct,false
+621,Kai,Thomas,kai.thomas4289@realemail.com,2024-07-27,EU,Paid Social,false
+622,Elliot,Williams,elliot.williams8120@realemail.com,2022-01-14,AU,Direct,true
+623,Hayden,Lopez,hayden.lopez8558@realemail.com,2020-02-05,US,Email,true
+624,Morgan,Davis,morgan.davis5381@realemail.com,2024-06-23,CA,Referral,true
+625,Logan,Moore,logan.moore9045@realemail.com,2023-10-12,AU,Referral,true
+626,Riley,Lopez,riley.lopez5511@realemail.com,2020-11-11,EU,Direct,true
+627,Rowan,Smith,rowan.smith7182@realemail.com,2023-04-04,EU,Direct,true
+628,Riley,Johnson,riley.johnson9591@realemail.com,2021-02-24,CA,Direct,true
+629,Jordan,Wilson,jordan.wilson0050@realemail.com,2023-05-04,UK,Referral,true
+630,Hayden,Johnson,hayden.johnson6049@realemail.com,2023-05-05,US,Email,true
+631,Hayden,Taylor,hayden.taylor7105@realemail.com,2020-04-23,IN,Direct,true
+632,Elliot,Wilson,elliot.wilson1485@realemail.com,2021-09-25,UK,Organic Search,true
+633,Logan,Smith,logan.smith3290@realemail.com,2023-11-09,IN,Paid Social,true
+634,Kai,Rodriguez,kai.rodriguez2938@realemail.com,2021-05-16,CA,Referral,true
+635,Jamie,Martin,jamie.martin3899@realemail.com,2022-01-12,IN,Email,true
+636,Logan,Garcia,logan.garcia4191@realemail.com,2021-12-03,US,Referral,true
+637,Alex,Jackson,alex.jackson9150@realemail.com,2024-08-15,IN,Direct,false
+638,Elliot,Smith,elliot.smith4236@realemail.com,2024-03-16,UK,Influencer,true
+639,Elliot,Thomas,elliot.thomas1249@realemail.com,2024-12-16,CA,Direct,true
+640,Morgan,Lopez,morgan.lopez0529@realemail.com,2023-03-25,UK,Referral,true
+641,Sam,Lopez,sam.lopez1212@realemail.com,2021-06-08,UK,Email,true
+642,Jesse,Garcia,jesse.garcia7609@realemail.com,2021-03-29,CA,Referral,true
+643,Sage,Martinez,sage.martinez1471@realemail.com,2020-10-19,EU,Email,false
+644,Logan,Brown,logan.brown8833@realemail.com,2021-05-07,AU,Direct,false
+645,Taylor,Johnson,taylor.johnson6601@realemail.com,2023-11-11,US,Direct,false
+646,Kai,Taylor,kai.taylor1216@realemail.com,2022-09-13,AU,Organic Search,false
+647,Jamie,Jones,jamie.jones6527@realemail.com,2021-07-19,CA,Email,true
+648,Skyler,Miller,skyler.miller6369@realemail.com,2022-12-13,IN,Organic Search,true
+649,Riley,Gonzalez,riley.gonzalez0802@realemail.com,2024-05-17,UK,Direct,true
+650,Logan,Jones,logan.jones1479@realemail.com,2022-04-29,AU,Email,true
+651,Casey,Jackson,casey.jackson1230@realemail.com,2021-10-06,US,Influencer,true
+652,Elliot,Brown,elliot.brown7055@realemail.com,2021-05-16,US,Email,true
+653,Morgan,Williams,morgan.williams1923@realemail.com,2023-06-30,EU,Organic Search,true
+654,Logan,Jackson,logan.jackson2154@realemail.com,2024-12-30,UK,Influencer,false
+655,Jesse,Anderson,jesse.anderson8247@realemail.com,2024-08-11,EU,Influencer,false
+656,Jesse,Hernandez,jesse.hernandez8231@realemail.com,2024-08-20,UK,Influencer,true
+657,Sam,Johnson,sam.johnson8588@realemail.com,2023-09-24,EU,Referral,true
+658,Jordan,Wilson,jordan.wilson0903@realemail.com,2020-05-03,UK,Organic Search,true
+659,Quinn,Taylor,quinn.taylor3564@realemail.com,2021-06-03,US,Influencer,true
+660,Hayden,Brown,hayden.brown2871@realemail.com,2022-12-13,IN,Direct,true
+661,Morgan,Smith,morgan.smith4748@realemail.com,2020-08-10,IN,Direct,true
+662,Sage,Johnson,sage.johnson3481@realemail.com,2023-03-09,UK,Organic Search,false
+663,Quinn,Hernandez,quinn.hernandez1642@realemail.com,2023-07-15,UK,Referral,false
+664,Riley,Smith,riley.smith8685@realemail.com,2023-12-20,CA,Paid Social,true
+665,Taylor,Garcia,taylor.garcia7862@realemail.com,2023-04-28,IN,Referral,true
+666,Casey,Wilson,casey.wilson1270@realemail.com,2023-02-28,CA,Referral,true
+667,Jamie,Garcia,jamie.garcia2222@realemail.com,2022-12-25,CA,Referral,true
+668,Elliot,Lopez,elliot.lopez6807@realemail.com,2023-11-04,CA,Organic Search,false
+669,Taylor,Johnson,taylor.johnson1030@realemail.com,2024-02-29,US,Organic Search,false
+670,Riley,Taylor,riley.taylor0166@realemail.com,2024-12-05,IN,Paid Social,true
+671,Elliot,Williams,elliot.williams9400@realemail.com,2021-06-24,UK,Direct,false
+672,Jordan,Jackson,jordan.jackson4168@realemail.com,2023-12-23,UK,Referral,true
+673,Logan,Anderson,logan.anderson0648@realemail.com,2020-04-10,EU,Email,true
+674,Riley,Thomas,riley.thomas2075@realemail.com,2020-02-23,AU,Referral,false
+675,Taylor,Lopez,taylor.lopez3369@realemail.com,2021-12-03,CA,Direct,true
+676,Avery,Williams,avery.williams1385@realemail.com,2023-07-18,AU,Influencer,true
+677,Jordan,Thomas,jordan.thomas0763@realemail.com,2022-12-28,AU,Referral,true
+678,Elliot,Rodriguez,elliot.rodriguez0277@realemail.com,2023-12-12,UK,Paid Social,true
+679,Hayden,Martinez,hayden.martinez7702@realemail.com,2022-03-27,EU,Direct,true
+680,Casey,Johnson,casey.johnson6212@realemail.com,2024-01-07,EU,Organic Search,true
+681,Quinn,Lopez,quinn.lopez5466@realemail.com,2024-08-27,EU,Email,false
+682,Drew,Davis,drew.davis6038@realemail.com,2020-02-03,AU,Influencer,true
+683,Jamie,Davis,jamie.davis6305@realemail.com,2024-04-06,AU,Organic Search,false
+684,Casey,Lopez,casey.lopez0729@realemail.com,2022-10-14,UK,Email,true
+685,Drew,Taylor,drew.taylor6688@realemail.com,2021-04-09,EU,Paid Social,true
+686,Sam,Gonzalez,sam.gonzalez5479@realemail.com,2024-10-09,IN,Referral,true
+687,Hayden,Davis,hayden.davis1943@realemail.com,2020-09-21,CA,Influencer,false
+688,Logan,Johnson,logan.johnson2561@realemail.com,2023-02-26,EU,Referral,true
+689,Drew,Martin,drew.martin9655@realemail.com,2020-03-12,US,Organic Search,true
+690,Riley,Jones,riley.jones7748@realemail.com,2022-02-13,EU,Paid Social,false
+691,Casey,Jackson,casey.jackson4748@realemail.com,2023-06-21,UK,Email,false
+692,Jordan,Gonzalez,jordan.gonzalez9338@realemail.com,2023-07-21,AU,Referral,true
+693,Jamie,Lopez,jamie.lopez1045@realemail.com,2023-04-20,CA,Paid Social,true
+694,Elliot,Anderson,elliot.anderson7708@realemail.com,2023-08-19,UK,Influencer,false
+695,Sage,Garcia,sage.garcia0414@realemail.com,2022-06-07,US,Organic Search,true
+696,Alex,Lopez,alex.lopez1380@realemail.com,2022-08-16,EU,Influencer,true
+697,Sam,Wilson,sam.wilson5455@realemail.com,2022-03-20,US,Referral,true
+698,Jamie,Garcia,jamie.garcia2101@realemail.com,2021-01-31,UK,Influencer,true
+699,Morgan,Williams,morgan.williams4239@realemail.com,2022-09-26,AU,Organic Search,true
+700,Hayden,Taylor,hayden.taylor0771@realemail.com,2020-02-20,IN,Email,true
+701,Skyler,Jackson,skyler.jackson2586@realemail.com,2021-05-12,EU,Direct,false
+702,Sage,Davis,sage.davis0350@realemail.com,2022-11-15,CA,Influencer,true
+703,Kai,Miller,kai.miller4292@realemail.com,2021-03-17,IN,Email,true
+704,Cameron,Wilson,cameron.wilson0344@realemail.com,2021-01-25,CA,Direct,true
+705,Quinn,Jackson,quinn.jackson6123@realemail.com,2023-03-15,US,Organic Search,false
+706,Hayden,Taylor,hayden.taylor4866@realemail.com,2021-07-13,AU,Direct,true
+707,Logan,Taylor,logan.taylor2914@realemail.com,2022-12-15,IN,Paid Social,false
+708,Rowan,Martin,rowan.martin8103@realemail.com,2021-10-30,EU,Organic Search,true
+709,Casey,Taylor,casey.taylor9866@realemail.com,2020-10-15,EU,Organic Search,false
+710,Riley,Davis,riley.davis6953@realemail.com,2022-04-14,EU,Referral,true
+711,Kai,Miller,kai.miller6894@realemail.com,2023-10-25,IN,Referral,true
+712,Jordan,Garcia,jordan.garcia2095@realemail.com,2024-10-13,EU,Influencer,true
+713,Jamie,Taylor,jamie.taylor4192@realemail.com,2024-05-17,UK,Influencer,true
+714,Avery,Anderson,avery.anderson0307@realemail.com,2020-10-23,UK,Influencer,true
+715,Jamie,Jones,jamie.jones7008@realemail.com,2020-10-03,AU,Email,true
+716,Sam,Taylor,sam.taylor4136@realemail.com,2020-04-06,AU,Paid Social,true
+717,Cameron,Thomas,cameron.thomas5700@realemail.com,2022-02-01,UK,Email,true
+718,Logan,Hernandez,logan.hernandez9596@realemail.com,2020-03-27,IN,Email,true
+719,Elliot,Miller,elliot.miller4723@realemail.com,2020-03-04,AU,Paid Social,true
+720,Kai,Anderson,kai.anderson9782@realemail.com,2020-02-22,US,Paid Social,true
+721,Jordan,Martin,jordan.martin6549@realemail.com,2023-01-14,EU,Organic Search,true
+722,Alex,Lopez,alex.lopez2188@realemail.com,2023-02-10,EU,Direct,true
+723,Skyler,Martinez,skyler.martinez7682@realemail.com,2023-06-23,US,Referral,true
+724,Cameron,Miller,cameron.miller9624@realemail.com,2020-07-14,IN,Influencer,true
+725,Elliot,Davis,elliot.davis3254@realemail.com,2022-09-18,AU,Organic Search,true
+726,Rowan,Williams,rowan.williams3498@realemail.com,2021-04-30,IN,Direct,true
+727,Jesse,Brown,jesse.brown8122@realemail.com,2022-07-12,US,Email,true
+728,Hayden,Rodriguez,hayden.rodriguez5145@realemail.com,2021-04-22,AU,Paid Social,true
+729,Drew,Taylor,drew.taylor9774@realemail.com,2021-11-30,IN,Referral,true
+730,Alex,Johnson,alex.johnson4239@realemail.com,2024-01-10,UK,Email,true
+731,Taylor,Garcia,taylor.garcia7558@realemail.com,2021-10-17,IN,Paid Social,false
+732,Alex,Lopez,alex.lopez6882@realemail.com,2024-09-19,US,Influencer,true
+733,Jesse,Thomas,jesse.thomas5744@realemail.com,2021-02-13,IN,Referral,true
+734,Sage,Lopez,sage.lopez3843@realemail.com,2024-12-22,CA,Email,true
+735,Jesse,Brown,jesse.brown7840@realemail.com,2024-06-22,AU,Paid Social,true
+736,Casey,Rodriguez,casey.rodriguez9378@realemail.com,2022-12-17,CA,Email,true
+737,Jesse,Gonzalez,jesse.gonzalez7050@realemail.com,2023-06-28,US,Paid Social,true
+738,Drew,Davis,drew.davis8836@realemail.com,2023-03-26,EU,Direct,true
+739,Quinn,Garcia,quinn.garcia6334@realemail.com,2022-02-06,EU,Influencer,true
+740,Sam,Johnson,sam.johnson8285@realemail.com,2020-02-14,US,Referral,true
+741,Casey,Rodriguez,casey.rodriguez4619@realemail.com,2020-01-25,UK,Organic Search,false
+742,Morgan,Taylor,morgan.taylor6614@realemail.com,2024-10-10,UK,Paid Social,true
+743,Sam,Jackson,sam.jackson3745@realemail.com,2023-05-01,UK,Email,true
+744,Jesse,Lopez,jesse.lopez8120@realemail.com,2020-09-18,IN,Direct,true
+745,Rowan,Smith,rowan.smith7825@realemail.com,2022-03-17,AU,Paid Social,false
+746,Rowan,Martin,rowan.martin2464@realemail.com,2021-10-26,IN,Referral,true
+747,Cameron,Hernandez,cameron.hernandez7229@realemail.com,2021-11-11,AU,Referral,false
+748,Casey,Gonzalez,casey.gonzalez5108@realemail.com,2021-07-16,IN,Email,true
+749,Jesse,Anderson,jesse.anderson0916@realemail.com,2020-04-08,UK,Email,false
+750,Quinn,Thomas,quinn.thomas9995@realemail.com,2023-04-04,EU,Email,false
+751,Cameron,Johnson,cameron.johnson8101@realemail.com,2021-07-27,AU,Paid Social,true
+752,Morgan,Garcia,morgan.garcia8569@realemail.com,2024-06-30,UK,Email,true
+753,Cameron,Williams,cameron.williams7781@realemail.com,2021-11-07,IN,Direct,true
+754,Jamie,Miller,jamie.miller8380@realemail.com,2020-10-28,AU,Organic Search,true
+755,Riley,Brown,riley.brown8816@realemail.com,2021-03-23,EU,Influencer,true
+756,Riley,Martin,riley.martin5686@realemail.com,2020-10-02,AU,Organic Search,false
+757,Jamie,Hernandez,jamie.hernandez7360@realemail.com,2020-04-24,CA,Direct,true
+758,Drew,Williams,drew.williams4987@realemail.com,2021-10-10,US,Email,true
+759,Jesse,Thomas,jesse.thomas3724@realemail.com,2020-07-25,US,Influencer,true
+760,Sage,Jones,sage.jones6473@realemail.com,2020-02-15,IN,Referral,true
+761,Quinn,Gonzalez,quinn.gonzalez0808@realemail.com,2022-08-09,US,Organic Search,false
+762,Avery,Williams,avery.williams4147@realemail.com,2022-02-28,US,Organic Search,true
+763,Casey,Hernandez,casey.hernandez6783@realemail.com,2022-12-13,UK,Email,false
+764,Alex,Hernandez,alex.hernandez8315@realemail.com,2023-12-18,AU,Paid Social,false
+765,Drew,Jones,drew.jones9864@realemail.com,2022-01-22,IN,Organic Search,true
+766,Taylor,Brown,taylor.brown7081@realemail.com,2022-03-30,UK,Paid Social,true
+767,Morgan,Taylor,morgan.taylor0863@realemail.com,2020-11-07,AU,Influencer,true
+768,Rowan,Lopez,rowan.lopez9808@realemail.com,2021-02-12,AU,Direct,true
+769,Morgan,Rodriguez,morgan.rodriguez6056@realemail.com,2023-07-19,US,Influencer,false
+770,Skyler,Johnson,skyler.johnson7577@realemail.com,2024-02-25,US,Influencer,true
+771,Rowan,Jones,rowan.jones8795@realemail.com,2021-05-15,AU,Organic Search,true
+772,Sam,Brown,sam.brown8185@realemail.com,2022-11-10,AU,Email,true
+773,Rowan,Anderson,rowan.anderson7703@realemail.com,2020-08-02,EU,Direct,true
+774,Cameron,Martin,cameron.martin3116@realemail.com,2024-12-14,AU,Organic Search,true
+775,Kai,Thomas,kai.thomas3760@realemail.com,2024-12-04,UK,Email,true
+776,Jordan,Thomas,jordan.thomas7584@realemail.com,2024-02-01,AU,Influencer,true
+777,Jamie,Rodriguez,jamie.rodriguez8292@realemail.com,2023-06-19,UK,Referral,true
+778,Sam,Jones,sam.jones8719@realemail.com,2023-03-20,AU,Direct,false
+779,Riley,Gonzalez,riley.gonzalez1966@realemail.com,2022-02-28,IN,Influencer,true
+780,Cameron,Rodriguez,cameron.rodriguez9037@realemail.com,2023-09-27,CA,Direct,false
+781,Jesse,Taylor,jesse.taylor1108@realemail.com,2022-07-13,IN,Direct,true
+782,Cameron,Thomas,cameron.thomas8397@realemail.com,2020-05-06,CA,Email,true
+783,Rowan,Williams,rowan.williams3249@realemail.com,2021-03-23,AU,Direct,true
+784,Morgan,Smith,morgan.smith9429@realemail.com,2024-04-20,US,Paid Social,false
+785,Skyler,Martinez,skyler.martinez6420@realemail.com,2022-05-01,CA,Direct,true
+786,Elliot,Miller,elliot.miller8172@realemail.com,2022-01-11,US,Email,true
+787,Hayden,Jackson,hayden.jackson2014@realemail.com,2023-11-22,IN,Referral,true
+788,Sage,Lopez,sage.lopez8255@realemail.com,2023-10-25,EU,Referral,true
+789,Elliot,Jackson,elliot.jackson7087@realemail.com,2020-01-08,US,Influencer,true
+790,Avery,Smith,avery.smith4729@realemail.com,2022-11-29,AU,Email,true
+791,Skyler,Smith,skyler.smith6189@realemail.com,2024-07-16,UK,Organic Search,false
+792,Quinn,Johnson,quinn.johnson2036@realemail.com,2023-06-25,UK,Paid Social,true
+793,Rowan,Hernandez,rowan.hernandez2457@realemail.com,2022-01-18,UK,Paid Social,true
+794,Drew,Moore,drew.moore4289@realemail.com,2024-09-21,AU,Email,true
+795,Cameron,Thomas,cameron.thomas7462@realemail.com,2024-01-29,IN,Paid Social,false
+796,Jordan,Hernandez,jordan.hernandez4409@realemail.com,2020-08-05,UK,Referral,true
+797,Alex,Thomas,alex.thomas7602@realemail.com,2023-05-10,CA,Email,true
+798,Sage,Rodriguez,sage.rodriguez9162@realemail.com,2021-06-19,IN,Referral,true
+799,Taylor,Lopez,taylor.lopez8835@realemail.com,2021-08-13,IN,Email,true
+800,Kai,Taylor,kai.taylor6641@realemail.com,2020-11-13,CA,Email,true
+801,Sage,Wilson,sage.wilson5439@realemail.com,2021-06-20,CA,Organic Search,true
+802,Avery,Martin,avery.martin3451@realemail.com,2021-04-12,US,Direct,true
+803,Hayden,Jackson,hayden.jackson8173@realemail.com,2023-07-22,EU,Email,false
+804,Cameron,Martin,cameron.martin7999@realemail.com,2024-05-26,US,Organic Search,true
+805,Skyler,Anderson,skyler.anderson6831@realemail.com,2024-02-26,US,Organic Search,false
+806,Riley,Moore,riley.moore7028@realemail.com,2024-08-03,EU,Paid Social,false
+807,Avery,Martin,avery.martin9815@realemail.com,2022-11-18,IN,Email,true
+808,Kai,Martin,kai.martin5133@realemail.com,2024-05-07,CA,Email,true
+809,Riley,Hernandez,riley.hernandez9742@realemail.com,2023-07-04,CA,Influencer,true
+810,Elliot,Davis,elliot.davis0921@realemail.com,2022-02-17,US,Email,false
+811,Kai,Williams,kai.williams2121@realemail.com,2023-03-20,UK,Email,true
+812,Morgan,Rodriguez,morgan.rodriguez0580@realemail.com,2022-10-04,IN,Organic Search,false
+813,Cameron,Taylor,cameron.taylor4414@realemail.com,2021-10-26,UK,Direct,true
+814,Jesse,Taylor,jesse.taylor1832@realemail.com,2023-05-19,CA,Organic Search,true
+815,Rowan,Gonzalez,rowan.gonzalez4162@realemail.com,2020-09-15,CA,Referral,false
+816,Taylor,Rodriguez,taylor.rodriguez2892@realemail.com,2023-08-30,IN,Email,true
+817,Skyler,Martin,skyler.martin8490@realemail.com,2023-01-08,IN,Organic Search,false
+818,Logan,Jackson,logan.jackson5813@realemail.com,2021-01-01,IN,Referral,true
+819,Morgan,Jackson,morgan.jackson3093@realemail.com,2020-09-30,IN,Referral,true
+820,Logan,Rodriguez,logan.rodriguez0700@realemail.com,2022-07-11,CA,Referral,true
+821,Elliot,Williams,elliot.williams8528@realemail.com,2022-04-06,AU,Organic Search,false
+822,Rowan,Brown,rowan.brown2942@realemail.com,2021-04-03,CA,Direct,true
+823,Jordan,Gonzalez,jordan.gonzalez0564@realemail.com,2020-02-13,US,Influencer,true
+824,Logan,Jones,logan.jones1295@realemail.com,2023-11-12,UK,Influencer,true
+825,Hayden,Thomas,hayden.thomas7000@realemail.com,2023-12-19,UK,Direct,false
+826,Jordan,Martinez,jordan.martinez3637@realemail.com,2020-01-28,IN,Referral,true
+827,Skyler,Gonzalez,skyler.gonzalez8087@realemail.com,2024-04-27,AU,Influencer,true
+828,Alex,Smith,alex.smith0013@realemail.com,2022-06-10,US,Paid Social,true
+829,Taylor,Brown,taylor.brown8045@realemail.com,2021-08-11,EU,Direct,true
+830,Avery,Moore,avery.moore4728@realemail.com,2024-12-14,AU,Organic Search,true
+831,Elliot,Garcia,elliot.garcia2846@realemail.com,2023-06-18,US,Email,true
+832,Kai,Martin,kai.martin2750@realemail.com,2021-12-08,AU,Direct,true
+833,Hayden,Smith,hayden.smith9500@realemail.com,2021-02-07,IN,Influencer,true
+834,Taylor,Rodriguez,taylor.rodriguez3493@realemail.com,2021-04-05,IN,Paid Social,true
+835,Sam,Smith,sam.smith0084@realemail.com,2022-05-25,UK,Referral,true
+836,Sage,Rodriguez,sage.rodriguez2946@realemail.com,2022-07-20,UK,Referral,true
+837,Cameron,Hernandez,cameron.hernandez1178@realemail.com,2023-06-19,UK,Referral,true
+838,Kai,Jones,kai.jones1004@realemail.com,2021-02-06,EU,Influencer,true
+839,Avery,Hernandez,avery.hernandez5391@realemail.com,2024-04-11,IN,Direct,true
+840,Drew,Williams,drew.williams9490@realemail.com,2023-08-10,IN,Paid Social,true
+841,Jamie,Moore,jamie.moore1085@realemail.com,2024-10-10,AU,Direct,true
+842,Avery,Davis,avery.davis9657@realemail.com,2023-03-01,UK,Referral,false
+843,Riley,Martin,riley.martin9359@realemail.com,2020-07-21,IN,Paid Social,false
+844,Morgan,Jackson,morgan.jackson5472@realemail.com,2023-10-10,UK,Influencer,true
+845,Logan,Smith,logan.smith1775@realemail.com,2021-04-06,EU,Paid Social,true
+846,Casey,Gonzalez,casey.gonzalez1445@realemail.com,2023-04-06,EU,Influencer,true
+847,Alex,Gonzalez,alex.gonzalez5314@realemail.com,2020-10-25,AU,Referral,true
+848,Quinn,Johnson,quinn.johnson2140@realemail.com,2020-12-26,EU,Influencer,false
+849,Hayden,Hernandez,hayden.hernandez6818@realemail.com,2022-01-13,UK,Paid Social,true
+850,Cameron,Williams,cameron.williams9877@realemail.com,2023-07-22,CA,Organic Search,false
+851,Casey,Anderson,casey.anderson9042@realemail.com,2020-09-16,US,Direct,true
+852,Cameron,Jackson,cameron.jackson0334@realemail.com,2021-01-29,IN,Influencer,true
+853,Quinn,Martinez,quinn.martinez3786@realemail.com,2022-01-02,AU,Organic Search,true
+854,Logan,Williams,logan.williams1092@realemail.com,2024-01-20,UK,Referral,true
+855,Logan,Hernandez,logan.hernandez0954@realemail.com,2024-03-21,EU,Organic Search,false
+856,Skyler,Rodriguez,skyler.rodriguez8756@realemail.com,2020-07-15,IN,Email,true
+857,Jordan,Thomas,jordan.thomas8924@realemail.com,2023-11-14,CA,Direct,true
+858,Elliot,Williams,elliot.williams0715@realemail.com,2020-11-29,UK,Referral,true
+859,Jordan,Hernandez,jordan.hernandez0463@realemail.com,2022-09-23,CA,Direct,true
+860,Sam,Lopez,sam.lopez3634@realemail.com,2023-01-22,CA,Influencer,true
+861,Quinn,Miller,quinn.miller6188@realemail.com,2024-06-04,EU,Organic Search,true
+862,Kai,Smith,kai.smith8741@realemail.com,2023-07-05,CA,Organic Search,true
+863,Morgan,Jones,morgan.jones3053@realemail.com,2020-04-14,AU,Email,true
+864,Jamie,Smith,jamie.smith2309@realemail.com,2021-11-21,EU,Referral,false
+865,Jesse,Williams,jesse.williams6048@realemail.com,2024-07-14,IN,Influencer,true
+866,Jesse,Johnson,jesse.johnson9339@realemail.com,2022-10-25,AU,Referral,true
+867,Logan,Anderson,logan.anderson4767@realemail.com,2024-06-25,AU,Organic Search,true
+868,Casey,Miller,casey.miller0392@realemail.com,2024-08-29,UK,Referral,true
+869,Taylor,Martinez,taylor.martinez8065@realemail.com,2022-02-07,US,Direct,true
+870,Logan,Hernandez,logan.hernandez3010@realemail.com,2021-09-06,AU,Paid Social,true
+871,Jesse,Brown,jesse.brown9939@realemail.com,2024-03-21,CA,Paid Social,true
+872,Rowan,Miller,rowan.miller3341@realemail.com,2020-11-12,US,Direct,false
+873,Drew,Wilson,drew.wilson5416@realemail.com,2021-12-10,UK,Email,true
+874,Sam,Thomas,sam.thomas2613@realemail.com,2022-07-17,UK,Referral,true
+875,Casey,Miller,casey.miller2365@realemail.com,2023-03-04,EU,Email,false
+876,Logan,Garcia,logan.garcia1635@realemail.com,2021-01-05,UK,Organic Search,false
+877,Jesse,Hernandez,jesse.hernandez8935@realemail.com,2024-05-30,US,Email,true
+878,Alex,Jackson,alex.jackson0809@realemail.com,2023-07-18,UK,Influencer,true
+879,Taylor,Gonzalez,taylor.gonzalez5252@realemail.com,2021-10-29,IN,Organic Search,true
+880,Taylor,Miller,taylor.miller6087@realemail.com,2024-07-06,IN,Paid Social,true
+881,Jamie,Smith,jamie.smith5930@realemail.com,2022-07-05,IN,Influencer,false
+882,Logan,Lopez,logan.lopez8696@realemail.com,2024-06-13,CA,Email,true
+883,Jordan,Williams,jordan.williams9355@realemail.com,2023-07-17,US,Organic Search,false
+884,Cameron,Jackson,cameron.jackson8633@realemail.com,2021-05-30,AU,Paid Social,true
+885,Riley,Taylor,riley.taylor3596@realemail.com,2021-09-28,EU,Paid Social,true
+886,Rowan,Taylor,rowan.taylor7894@realemail.com,2020-03-02,AU,Influencer,true
+887,Quinn,Rodriguez,quinn.rodriguez5711@realemail.com,2023-08-19,AU,Referral,true
+888,Drew,Rodriguez,drew.rodriguez2051@realemail.com,2023-11-14,UK,Direct,true
+889,Jamie,Moore,jamie.moore0049@realemail.com,2023-09-11,IN,Direct,false
+890,Skyler,Martin,skyler.martin6389@realemail.com,2024-10-31,US,Paid Social,true
+891,Sage,Lopez,sage.lopez3479@realemail.com,2023-07-06,US,Referral,true
+892,Casey,Lopez,casey.lopez7666@realemail.com,2022-04-06,IN,Email,true
+893,Jamie,Brown,jamie.brown5864@realemail.com,2023-03-04,UK,Influencer,true
+894,Alex,Thomas,alex.thomas5385@realemail.com,2021-02-06,IN,Email,true
+895,Jesse,Williams,jesse.williams2574@realemail.com,2020-10-30,AU,Organic Search,true
+896,Rowan,Martinez,rowan.martinez9029@realemail.com,2021-09-13,US,Paid Social,true
+897,Quinn,Taylor,quinn.taylor1497@realemail.com,2021-07-14,CA,Direct,false
+898,Jesse,Jones,jesse.jones4886@realemail.com,2023-05-23,EU,Paid Social,true
+899,Sam,Lopez,sam.lopez0698@realemail.com,2023-03-19,IN,Paid Social,true
+900,Kai,Rodriguez,kai.rodriguez0933@realemail.com,2021-10-17,US,Referral,false
+901,Morgan,Williams,morgan.williams2909@realemail.com,2024-07-08,EU,Organic Search,true
+902,Drew,Williams,drew.williams3950@realemail.com,2021-05-10,CA,Referral,false
+903,Rowan,Taylor,rowan.taylor0403@realemail.com,2021-04-02,CA,Email,true
+904,Riley,Lopez,riley.lopez2685@realemail.com,2022-01-10,AU,Paid Social,true
+905,Kai,Anderson,kai.anderson4581@realemail.com,2021-04-26,IN,Organic Search,true
+906,Morgan,Garcia,morgan.garcia2057@realemail.com,2023-04-12,UK,Direct,true
+907,Quinn,Davis,quinn.davis5786@realemail.com,2021-11-08,UK,Influencer,true
+908,Cameron,Martinez,cameron.martinez6520@realemail.com,2020-08-25,AU,Referral,true
+909,Jamie,Smith,jamie.smith2060@realemail.com,2020-02-12,AU,Organic Search,true
+910,Jordan,Gonzalez,jordan.gonzalez4526@realemail.com,2023-09-26,US,Email,true
+911,Skyler,Garcia,skyler.garcia7139@realemail.com,2024-01-15,US,Organic Search,true
+912,Avery,Jones,avery.jones2016@realemail.com,2020-01-22,IN,Influencer,true
+913,Hayden,Martin,hayden.martin4244@realemail.com,2020-06-29,US,Organic Search,true
+914,Morgan,Moore,morgan.moore7981@realemail.com,2022-01-14,IN,Direct,true
+915,Rowan,Hernandez,rowan.hernandez8829@realemail.com,2020-12-12,CA,Direct,false
+916,Casey,Wilson,casey.wilson9331@realemail.com,2023-12-17,EU,Influencer,true
+917,Hayden,Jones,hayden.jones2881@realemail.com,2021-01-22,IN,Influencer,true
+918,Quinn,Lopez,quinn.lopez0597@realemail.com,2021-04-18,US,Referral,true
+919,Hayden,Lopez,hayden.lopez0711@realemail.com,2024-07-26,IN,Referral,true
+920,Riley,Gonzalez,riley.gonzalez9940@realemail.com,2023-08-10,UK,Referral,false
+921,Riley,Jones,riley.jones4026@realemail.com,2022-05-29,EU,Direct,true
+922,Quinn,Jackson,quinn.jackson1285@realemail.com,2020-01-13,UK,Influencer,false
+923,Avery,Johnson,avery.johnson7044@realemail.com,2021-08-04,IN,Influencer,true
+924,Riley,Williams,riley.williams8613@realemail.com,2022-02-19,EU,Direct,true
+925,Sage,Hernandez,sage.hernandez0380@realemail.com,2020-06-11,AU,Paid Social,true
+926,Hayden,Gonzalez,hayden.gonzalez0621@realemail.com,2020-05-27,US,Referral,true
+927,Hayden,Moore,hayden.moore2778@realemail.com,2021-04-30,CA,Email,false
+928,Cameron,Thomas,cameron.thomas2304@realemail.com,2023-07-11,AU,Paid Social,true
+929,Alex,Thomas,alex.thomas3273@realemail.com,2024-07-06,EU,Direct,true
+930,Alex,Wilson,alex.wilson0047@realemail.com,2020-04-20,IN,Referral,true
+931,Skyler,Martinez,skyler.martinez7473@realemail.com,2021-11-08,EU,Direct,true
+932,Morgan,Moore,morgan.moore5489@realemail.com,2023-09-29,AU,Referral,true
+933,Logan,Miller,logan.miller7229@realemail.com,2023-02-02,EU,Influencer,false
+934,Jamie,Rodriguez,jamie.rodriguez1146@realemail.com,2023-08-03,UK,Referral,true
+935,Taylor,Miller,taylor.miller4027@realemail.com,2023-03-13,CA,Email,true
+936,Quinn,Gonzalez,quinn.gonzalez4101@realemail.com,2021-10-08,CA,Referral,false
+937,Riley,Gonzalez,riley.gonzalez2051@realemail.com,2024-08-15,US,Influencer,true
+938,Alex,Garcia,alex.garcia4304@realemail.com,2022-10-12,AU,Organic Search,true
+939,Quinn,Lopez,quinn.lopez4601@realemail.com,2023-01-14,AU,Influencer,false
+940,Avery,Thomas,avery.thomas3096@realemail.com,2024-07-08,EU,Email,true
+941,Elliot,Garcia,elliot.garcia5405@realemail.com,2023-10-04,CA,Paid Social,true
+942,Morgan,Davis,morgan.davis3846@realemail.com,2022-03-13,UK,Email,true
+943,Sam,Thomas,sam.thomas0128@realemail.com,2023-12-23,US,Email,true
+944,Elliot,Lopez,elliot.lopez2501@realemail.com,2021-01-13,US,Direct,true
+945,Taylor,Anderson,taylor.anderson8608@realemail.com,2023-11-09,IN,Email,true
+946,Avery,Martin,avery.martin9025@realemail.com,2024-07-21,AU,Organic Search,true
+947,Morgan,Miller,morgan.miller3912@realemail.com,2024-01-18,IN,Organic Search,true
+948,Elliot,Taylor,elliot.taylor0059@realemail.com,2024-08-22,EU,Influencer,true
+949,Avery,Moore,avery.moore2133@realemail.com,2024-05-11,UK,Referral,true
+950,Rowan,Miller,rowan.miller3931@realemail.com,2024-10-24,IN,Referral,true
+951,Morgan,Johnson,morgan.johnson0984@realemail.com,2022-11-06,AU,Organic Search,true
+952,Sage,Davis,sage.davis3543@realemail.com,2025-01-01,CA,Referral,true
+953,Casey,Hernandez,casey.hernandez0459@realemail.com,2021-10-23,US,Organic Search,true
+954,Kai,Miller,kai.miller6353@realemail.com,2021-02-10,CA,Referral,false
+955,Skyler,Jackson,skyler.jackson6670@realemail.com,2024-05-07,EU,Email,true
+956,Skyler,Jackson,skyler.jackson0160@realemail.com,2024-04-01,CA,Email,true
+957,Casey,Wilson,casey.wilson8891@realemail.com,2024-03-31,IN,Influencer,true
+958,Cameron,Johnson,cameron.johnson0481@realemail.com,2024-12-03,CA,Organic Search,true
+959,Drew,Jackson,drew.jackson7343@realemail.com,2024-01-12,UK,Influencer,false
+960,Avery,Jones,avery.jones5238@realemail.com,2020-10-19,IN,Paid Social,false
+961,Elliot,Martin,elliot.martin9516@realemail.com,2021-09-24,UK,Organic Search,true
+962,Sam,Martinez,sam.martinez7482@realemail.com,2021-03-13,CA,Organic Search,true
+963,Morgan,Davis,morgan.davis5703@realemail.com,2021-06-12,UK,Direct,true
+964,Morgan,Taylor,morgan.taylor7013@realemail.com,2023-06-19,IN,Organic Search,true
+965,Drew,Miller,drew.miller5478@realemail.com,2024-06-13,US,Referral,false
+966,Alex,Martin,alex.martin1367@realemail.com,2020-11-15,AU,Influencer,true
+967,Elliot,Rodriguez,elliot.rodriguez6074@realemail.com,2020-06-12,EU,Email,true
+968,Quinn,Martin,quinn.martin8551@realemail.com,2021-04-23,UK,Organic Search,true
+969,Casey,Martinez,casey.martinez1854@realemail.com,2022-01-17,UK,Referral,true
+970,Riley,Gonzalez,riley.gonzalez5811@realemail.com,2023-05-01,EU,Referral,true
+971,Elliot,Davis,elliot.davis8156@realemail.com,2020-06-09,IN,Organic Search,true
+972,Kai,Smith,kai.smith9612@realemail.com,2020-01-19,CA,Influencer,true
+973,Jordan,Gonzalez,jordan.gonzalez7281@realemail.com,2022-05-06,AU,Email,true
+974,Rowan,Anderson,rowan.anderson9660@realemail.com,2024-11-18,EU,Direct,true
+975,Jesse,Davis,jesse.davis6864@realemail.com,2024-05-16,AU,Email,true
+976,Elliot,Jones,elliot.jones9709@realemail.com,2022-11-28,UK,Email,true
+977,Sage,Williams,sage.williams7138@realemail.com,2022-12-07,CA,Organic Search,true
+978,Sam,Brown,sam.brown4903@realemail.com,2020-07-11,AU,Email,true
+979,Jamie,Garcia,jamie.garcia1093@realemail.com,2023-04-23,UK,Paid Social,true
+980,Morgan,Thomas,morgan.thomas0418@realemail.com,2023-05-29,IN,Email,true
+981,Alex,Thomas,alex.thomas3773@realemail.com,2020-02-28,CA,Referral,true
+982,Casey,Johnson,casey.johnson3920@realemail.com,2020-01-04,US,Paid Social,false
+983,Elliot,Wilson,elliot.wilson6551@realemail.com,2021-05-24,CA,Email,false
+984,Hayden,Hernandez,hayden.hernandez0401@realemail.com,2023-11-19,IN,Direct,true
+985,Logan,Taylor,logan.taylor7872@realemail.com,2024-05-10,US,Paid Social,true
+986,Kai,Gonzalez,kai.gonzalez6059@realemail.com,2022-01-25,CA,Influencer,true
+987,Logan,Hernandez,logan.hernandez0906@realemail.com,2022-02-09,UK,Email,true
+988,Logan,Hernandez,logan.hernandez6367@realemail.com,2022-02-22,EU,Email,true
+989,Quinn,Jones,quinn.jones6278@realemail.com,2020-01-29,CA,Email,true
+990,Quinn,Lopez,quinn.lopez3422@realemail.com,2021-09-15,AU,Paid Social,true
+991,Jordan,Jones,jordan.jones4237@realemail.com,2020-07-11,IN,Email,true
+992,Logan,Wilson,logan.wilson0462@realemail.com,2020-02-28,UK,Influencer,true
+993,Quinn,Martinez,quinn.martinez6115@realemail.com,2023-01-25,EU,Influencer,false
+994,Drew,Rodriguez,drew.rodriguez1414@realemail.com,2020-11-08,CA,Organic Search,false
+995,Avery,Wilson,avery.wilson2921@realemail.com,2021-03-27,EU,Referral,true
+996,Drew,Thomas,drew.thomas3922@realemail.com,2020-09-22,IN,Paid Social,false
+997,Sam,Rodriguez,sam.rodriguez4173@realemail.com,2024-02-28,IN,Paid Social,false
+998,Morgan,Taylor,morgan.taylor3281@realemail.com,2023-06-22,UK,Organic Search,false
+999,Drew,Thomas,drew.thomas4155@realemail.com,2020-01-31,US,Influencer,true
+1000,Morgan,Williams,morgan.williams9334@realemail.com,2023-11-26,IN,Influencer,true
+1001,Quinn,Moore,quinn.moore4694@realemail.com,2020-07-17,UK,Influencer,true
+1002,Drew,Johnson,drew.johnson0925@realemail.com,2022-09-14,UK,Organic Search,true
+1003,Quinn,Moore,quinn.moore4525@realemail.com,2022-01-22,AU,Referral,true
+1004,Logan,Brown,logan.brown7461@realemail.com,2020-06-20,AU,Direct,true
+1005,Riley,Martin,riley.martin6437@realemail.com,2020-11-14,AU,Email,true
+1006,Quinn,Hernandez,quinn.hernandez5710@realemail.com,2024-05-25,US,Paid Social,true
+1007,Jordan,Garcia,jordan.garcia7849@realemail.com,2021-06-18,UK,Organic Search,true
+1008,Skyler,Smith,skyler.smith0762@realemail.com,2023-04-27,IN,Referral,true
+1009,Casey,Garcia,casey.garcia7889@realemail.com,2022-06-15,EU,Organic Search,true
+1010,Avery,Jones,avery.jones0440@realemail.com,2021-02-11,UK,Referral,true
+1011,Skyler,Davis,skyler.davis0071@realemail.com,2023-02-13,UK,Organic Search,false
+1012,Jesse,Thomas,jesse.thomas0442@realemail.com,2023-09-15,IN,Influencer,true
+1013,Alex,Hernandez,alex.hernandez7775@realemail.com,2020-01-16,AU,Referral,false
+1014,Logan,Gonzalez,logan.gonzalez2201@realemail.com,2022-01-25,EU,Organic Search,true
+1015,Elliot,Moore,elliot.moore1283@realemail.com,2024-10-13,UK,Referral,true
+1016,Hayden,Williams,hayden.williams2799@realemail.com,2023-04-23,AU,Direct,true
+1017,Jordan,Anderson,jordan.anderson8919@realemail.com,2020-08-24,EU,Organic Search,true
+1018,Hayden,Wilson,hayden.wilson4518@realemail.com,2021-04-30,AU,Organic Search,false
+1019,Logan,Johnson,logan.johnson8978@realemail.com,2023-06-17,EU,Paid Social,true
+1020,Riley,Miller,riley.miller7062@realemail.com,2021-05-18,AU,Direct,true
+1021,Elliot,Lopez,elliot.lopez3775@realemail.com,2022-06-07,US,Organic Search,false
+1022,Rowan,Smith,rowan.smith1583@realemail.com,2023-09-17,US,Referral,true
+1023,Riley,Wilson,riley.wilson2212@realemail.com,2024-11-27,AU,Email,true
+1024,Sage,Gonzalez,sage.gonzalez3860@realemail.com,2021-06-17,AU,Direct,false
+1025,Riley,Hernandez,riley.hernandez9410@realemail.com,2020-10-01,CA,Referral,false
+1026,Sage,Martin,sage.martin9351@realemail.com,2021-07-18,US,Organic Search,true
+1027,Jordan,Lopez,jordan.lopez8691@realemail.com,2020-02-24,US,Organic Search,false
+1028,Jamie,Thomas,jamie.thomas8592@realemail.com,2021-06-09,IN,Email,true
+1029,Casey,Thomas,casey.thomas9062@realemail.com,2021-01-24,US,Influencer,true
+1030,Cameron,Garcia,cameron.garcia1513@realemail.com,2022-01-05,IN,Referral,true
+1031,Alex,Brown,alex.brown5621@realemail.com,2020-12-12,EU,Referral,true
+1032,Sage,Lopez,sage.lopez4695@realemail.com,2023-10-09,US,Direct,true
+1033,Avery,Johnson,avery.johnson3061@realemail.com,2023-11-01,CA,Referral,true
+1034,Cameron,Rodriguez,cameron.rodriguez9064@realemail.com,2020-05-23,AU,Referral,true
+1035,Riley,Lopez,riley.lopez5793@realemail.com,2021-03-20,UK,Referral,true
+1036,Sam,Lopez,sam.lopez4487@realemail.com,2021-01-05,UK,Email,true
+1037,Quinn,Anderson,quinn.anderson1393@realemail.com,2022-02-12,US,Organic Search,true
+1038,Avery,Wilson,avery.wilson0440@realemail.com,2021-12-27,IN,Organic Search,true
+1039,Riley,Lopez,riley.lopez6214@realemail.com,2023-07-08,IN,Influencer,true
+1040,Jamie,Johnson,jamie.johnson1363@realemail.com,2020-06-19,US,Direct,true
+1041,Sage,Garcia,sage.garcia1498@realemail.com,2022-11-01,IN,Paid Social,true
+1042,Kai,Davis,kai.davis5129@realemail.com,2020-08-30,IN,Influencer,true
+1043,Logan,Miller,logan.miller1508@realemail.com,2022-01-26,CA,Direct,true
+1044,Jordan,Williams,jordan.williams0379@realemail.com,2023-03-16,EU,Direct,true
+1045,Sage,Martinez,sage.martinez3313@realemail.com,2022-05-24,US,Influencer,true
+1046,Hayden,Brown,hayden.brown2615@realemail.com,2020-06-25,IN,Referral,true
+1047,Skyler,Anderson,skyler.anderson4417@realemail.com,2024-06-02,UK,Paid Social,true
+1048,Drew,Moore,drew.moore6710@realemail.com,2022-04-02,EU,Email,true
+1049,Jesse,Martinez,jesse.martinez7091@realemail.com,2024-08-14,US,Paid Social,false
+1050,Hayden,Anderson,hayden.anderson3286@realemail.com,2021-02-13,CA,Email,true
+1051,Logan,Williams,logan.williams1891@realemail.com,2021-04-17,AU,Referral,true
+1052,Cameron,Martinez,cameron.martinez6421@realemail.com,2024-04-01,IN,Paid Social,true
+1053,Drew,Jones,drew.jones0228@realemail.com,2024-01-17,CA,Referral,false
+1054,Jesse,Martin,jesse.martin0977@realemail.com,2021-02-22,CA,Influencer,true
+1055,Jamie,Taylor,jamie.taylor1915@realemail.com,2024-10-15,IN,Direct,false
+1056,Alex,Williams,alex.williams6894@realemail.com,2021-02-22,CA,Referral,true
+1057,Sage,Jones,sage.jones4148@realemail.com,2020-01-10,CA,Influencer,true
+1058,Logan,Wilson,logan.wilson4767@realemail.com,2024-07-21,AU,Paid Social,true
+1059,Cameron,Smith,cameron.smith7479@realemail.com,2022-07-15,US,Influencer,true
+1060,Drew,Taylor,drew.taylor2977@realemail.com,2022-11-07,CA,Referral,true
+1061,Alex,Anderson,alex.anderson4073@realemail.com,2024-10-16,IN,Influencer,true
+1062,Taylor,Hernandez,taylor.hernandez7907@realemail.com,2020-06-30,CA,Influencer,true
+1063,Kai,Martinez,kai.martinez3296@realemail.com,2020-11-16,AU,Organic Search,true
+1064,Taylor,Rodriguez,taylor.rodriguez3083@realemail.com,2022-06-19,EU,Direct,true
+1065,Casey,Brown,casey.brown4876@realemail.com,2020-11-11,CA,Direct,true
+1066,Riley,Lopez,riley.lopez3095@realemail.com,2022-05-25,AU,Influencer,false
+1067,Hayden,Jackson,hayden.jackson8265@realemail.com,2021-07-29,EU,Referral,true
+1068,Elliot,Garcia,elliot.garcia6267@realemail.com,2024-03-21,EU,Email,true
+1069,Rowan,Anderson,rowan.anderson7216@realemail.com,2020-05-16,US,Organic Search,true
+1070,Rowan,Taylor,rowan.taylor3362@realemail.com,2021-05-11,UK,Paid Social,false
+1071,Hayden,Davis,hayden.davis4909@realemail.com,2022-09-22,UK,Paid Social,true
+1072,Logan,Rodriguez,logan.rodriguez6351@realemail.com,2025-01-01,AU,Organic Search,true
+1073,Riley,Williams,riley.williams5109@realemail.com,2020-07-29,UK,Email,true
+1074,Sam,Taylor,sam.taylor4045@realemail.com,2021-01-11,CA,Influencer,true
+1075,Logan,Garcia,logan.garcia8518@realemail.com,2022-02-01,AU,Direct,true
+1076,Rowan,Rodriguez,rowan.rodriguez9368@realemail.com,2022-10-16,UK,Organic Search,true
+1077,Skyler,Jackson,skyler.jackson7826@realemail.com,2020-01-13,AU,Organic Search,true
+1078,Kai,Wilson,kai.wilson4535@realemail.com,2023-02-18,US,Direct,true
+1079,Sam,Johnson,sam.johnson0905@realemail.com,2023-02-06,US,Organic Search,true
+1080,Cameron,Hernandez,cameron.hernandez7786@realemail.com,2021-03-30,AU,Paid Social,true
+1081,Morgan,Jones,morgan.jones9732@realemail.com,2024-03-30,CA,Direct,false
+1082,Sage,Rodriguez,sage.rodriguez0348@realemail.com,2022-01-25,US,Organic Search,true
+1083,Jordan,Martin,jordan.martin1264@realemail.com,2023-07-29,IN,Organic Search,true
+1084,Sam,Johnson,sam.johnson6447@realemail.com,2024-02-24,US,Paid Social,true
+1085,Skyler,Jackson,skyler.jackson2796@realemail.com,2021-09-17,CA,Referral,false
+1086,Cameron,Gonzalez,cameron.gonzalez9706@realemail.com,2020-06-05,CA,Paid Social,true
+1087,Jordan,Martinez,jordan.martinez2498@realemail.com,2023-07-28,EU,Influencer,true
+1088,Morgan,Moore,morgan.moore1752@realemail.com,2024-08-05,UK,Email,false
+1089,Riley,Anderson,riley.anderson0604@realemail.com,2020-04-15,CA,Influencer,true
+1090,Cameron,Lopez,cameron.lopez4201@realemail.com,2023-11-26,UK,Referral,true
+1091,Cameron,Martinez,cameron.martinez0995@realemail.com,2023-09-08,IN,Influencer,true
+1092,Hayden,Jackson,hayden.jackson8309@realemail.com,2021-09-14,AU,Referral,true
+1093,Riley,Jackson,riley.jackson0188@realemail.com,2021-11-05,AU,Email,false
+1094,Logan,Jackson,logan.jackson6691@realemail.com,2024-06-14,EU,Influencer,true
+1095,Alex,Williams,alex.williams9623@realemail.com,2024-04-02,IN,Email,true
+1096,Logan,Gonzalez,logan.gonzalez4517@realemail.com,2020-02-06,IN,Organic Search,true
+1097,Elliot,Brown,elliot.brown0420@realemail.com,2024-10-05,CA,Direct,true
+1098,Avery,Miller,avery.miller2554@realemail.com,2022-12-10,EU,Influencer,true
+1099,Jordan,Garcia,jordan.garcia3356@realemail.com,2021-06-02,IN,Organic Search,true
+1100,Logan,Rodriguez,logan.rodriguez2706@realemail.com,2020-10-24,UK,Direct,true
+1101,Rowan,Rodriguez,rowan.rodriguez7210@realemail.com,2024-11-03,US,Influencer,true
+1102,Logan,Miller,logan.miller6482@realemail.com,2020-04-03,US,Direct,false
+1103,Casey,Davis,casey.davis0638@realemail.com,2024-11-07,AU,Direct,true
+1104,Cameron,Taylor,cameron.taylor4527@realemail.com,2020-08-03,US,Paid Social,true
+1105,Morgan,Johnson,morgan.johnson2082@realemail.com,2024-10-10,IN,Organic Search,false
+1106,Jordan,Wilson,jordan.wilson9787@realemail.com,2022-11-25,UK,Referral,false
+1107,Logan,Jackson,logan.jackson1839@realemail.com,2023-08-01,US,Organic Search,true
+1108,Taylor,Smith,taylor.smith1308@realemail.com,2022-02-02,AU,Direct,true
+1109,Drew,Smith,drew.smith6107@realemail.com,2022-09-28,AU,Paid Social,true
+1110,Jesse,Martin,jesse.martin3129@realemail.com,2024-04-29,IN,Email,true
+1111,Jordan,Gonzalez,jordan.gonzalez6277@realemail.com,2022-09-27,AU,Influencer,true
+1112,Elliot,Rodriguez,elliot.rodriguez2068@realemail.com,2022-09-18,CA,Paid Social,true
+1113,Elliot,Thomas,elliot.thomas2313@realemail.com,2023-01-30,AU,Referral,true
+1114,Cameron,Taylor,cameron.taylor3008@realemail.com,2024-07-24,AU,Email,true
+1115,Casey,Johnson,casey.johnson3515@realemail.com,2021-11-26,CA,Paid Social,true
+1116,Avery,Gonzalez,avery.gonzalez4519@realemail.com,2020-12-26,CA,Organic Search,true
+1117,Avery,Thomas,avery.thomas3603@realemail.com,2024-12-24,EU,Influencer,true
+1118,Quinn,Rodriguez,quinn.rodriguez9520@realemail.com,2021-09-27,IN,Email,false
+1119,Logan,Miller,logan.miller3295@realemail.com,2022-01-12,US,Email,false
+1120,Rowan,Martin,rowan.martin7371@realemail.com,2022-10-10,AU,Direct,true
+1121,Jordan,Moore,jordan.moore6332@realemail.com,2021-03-05,CA,Paid Social,false
+1122,Logan,Williams,logan.williams4449@realemail.com,2020-09-19,EU,Email,true
+1123,Taylor,Garcia,taylor.garcia0037@realemail.com,2023-11-08,US,Email,true
+1124,Sage,Jackson,sage.jackson9225@realemail.com,2023-03-24,AU,Paid Social,true
+1125,Avery,Smith,avery.smith3720@realemail.com,2021-12-23,US,Paid Social,true
+1126,Rowan,Jackson,rowan.jackson9143@realemail.com,2024-03-07,AU,Referral,false
+1127,Jamie,Anderson,jamie.anderson0828@realemail.com,2023-12-25,CA,Email,false
+1128,Morgan,Jones,morgan.jones7719@realemail.com,2024-05-26,IN,Paid Social,true
+1129,Rowan,Johnson,rowan.johnson0830@realemail.com,2021-06-17,AU,Referral,false
+1130,Logan,Thomas,logan.thomas3647@realemail.com,2022-08-14,UK,Referral,true
+1131,Riley,Hernandez,riley.hernandez0614@realemail.com,2021-01-26,UK,Organic Search,true
+1132,Logan,Smith,logan.smith2281@realemail.com,2024-02-13,EU,Influencer,true
+1133,Alex,Miller,alex.miller0733@realemail.com,2024-03-24,AU,Referral,true
+1134,Logan,Smith,logan.smith4893@realemail.com,2024-02-18,UK,Organic Search,true
+1135,Jesse,Davis,jesse.davis9978@realemail.com,2020-06-09,AU,Organic Search,true
+1136,Morgan,Martinez,morgan.martinez9532@realemail.com,2022-06-01,AU,Email,true
+1137,Alex,Lopez,alex.lopez4044@realemail.com,2023-09-23,UK,Paid Social,true
+1138,Logan,Lopez,logan.lopez8099@realemail.com,2020-01-24,IN,Paid Social,true
+1139,Jamie,Jones,jamie.jones7723@realemail.com,2022-03-29,EU,Referral,true
+1140,Alex,Rodriguez,alex.rodriguez1495@realemail.com,2022-02-14,IN,Organic Search,true
+1141,Alex,Garcia,alex.garcia0684@realemail.com,2024-09-28,IN,Influencer,true
+1142,Riley,Martinez,riley.martinez8919@realemail.com,2023-01-19,AU,Organic Search,true
+1143,Cameron,Thomas,cameron.thomas1215@realemail.com,2023-06-17,IN,Influencer,true
+1144,Jesse,Rodriguez,jesse.rodriguez6481@realemail.com,2024-05-29,EU,Organic Search,true
+1145,Quinn,Jones,quinn.jones7613@realemail.com,2021-05-15,US,Email,true
+1146,Jamie,Jackson,jamie.jackson2220@realemail.com,2020-03-11,CA,Email,true
+1147,Casey,Miller,casey.miller6630@realemail.com,2023-07-08,IN,Influencer,true
+1148,Avery,Miller,avery.miller6819@realemail.com,2021-07-22,UK,Email,true
+1149,Riley,Thomas,riley.thomas7425@realemail.com,2024-05-20,AU,Influencer,true
+1150,Jesse,Jackson,jesse.jackson1984@realemail.com,2020-01-01,UK,Email,false
+1151,Kai,Lopez,kai.lopez8110@realemail.com,2022-05-01,EU,Influencer,true
+1152,Jordan,Jones,jordan.jones6061@realemail.com,2021-02-15,US,Email,true
+1153,Jesse,Moore,jesse.moore3393@realemail.com,2023-05-15,UK,Referral,true
+1154,Rowan,Jones,rowan.jones6212@realemail.com,2023-08-08,AU,Influencer,true
+1155,Cameron,Brown,cameron.brown4862@realemail.com,2022-01-20,IN,Direct,true
+1156,Riley,Rodriguez,riley.rodriguez4853@realemail.com,2024-09-16,AU,Direct,false
+1157,Logan,Jones,logan.jones9015@realemail.com,2020-07-20,US,Paid Social,true
+1158,Skyler,Johnson,skyler.johnson6726@realemail.com,2020-02-10,AU,Referral,false
+1159,Elliot,Brown,elliot.brown6699@realemail.com,2021-11-19,IN,Paid Social,true
+1160,Taylor,Rodriguez,taylor.rodriguez9928@realemail.com,2024-10-14,IN,Referral,false
+1161,Quinn,Thomas,quinn.thomas8421@realemail.com,2022-10-10,IN,Direct,false
+1162,Rowan,Jones,rowan.jones3972@realemail.com,2020-04-13,AU,Organic Search,true
+1163,Logan,Johnson,logan.johnson0707@realemail.com,2022-09-25,EU,Direct,true
+1164,Drew,Smith,drew.smith7314@realemail.com,2024-09-23,EU,Influencer,true
+1165,Kai,Brown,kai.brown8321@realemail.com,2023-06-09,CA,Paid Social,true
+1166,Jesse,Lopez,jesse.lopez3515@realemail.com,2024-10-29,CA,Email,true
+1167,Drew,Miller,drew.miller2485@realemail.com,2023-01-24,AU,Organic Search,false
+1168,Hayden,Garcia,hayden.garcia5649@realemail.com,2023-05-14,CA,Referral,true
+1169,Logan,Johnson,logan.johnson6148@realemail.com,2023-01-27,CA,Organic Search,true
+1170,Jordan,Rodriguez,jordan.rodriguez3377@realemail.com,2023-06-10,US,Email,true
+1171,Sage,Wilson,sage.wilson2686@realemail.com,2024-11-22,CA,Organic Search,true
+1172,Alex,Martin,alex.martin1492@realemail.com,2020-01-29,IN,Organic Search,false
+1173,Sage,Hernandez,sage.hernandez1929@realemail.com,2020-08-26,UK,Influencer,true
+1174,Riley,Johnson,riley.johnson0789@realemail.com,2020-02-17,CA,Influencer,true
+1175,Sage,Taylor,sage.taylor0066@realemail.com,2024-10-01,AU,Email,true
+1176,Sage,Johnson,sage.johnson7792@realemail.com,2022-02-09,AU,Email,true
+1177,Elliot,Wilson,elliot.wilson8566@realemail.com,2024-06-14,US,Influencer,true
+1178,Elliot,Moore,elliot.moore6025@realemail.com,2024-02-02,IN,Organic Search,true
+1179,Sage,Davis,sage.davis1162@realemail.com,2022-03-11,CA,Referral,true
+1180,Morgan,Jackson,morgan.jackson8090@realemail.com,2023-11-18,EU,Direct,true
+1181,Avery,Jones,avery.jones5674@realemail.com,2024-06-20,CA,Email,false
+1182,Alex,Gonzalez,alex.gonzalez7961@realemail.com,2020-06-04,EU,Direct,false
+1183,Drew,Anderson,drew.anderson1061@realemail.com,2020-11-25,UK,Referral,true
+1184,Taylor,Williams,taylor.williams6827@realemail.com,2020-05-18,CA,Influencer,true
+1185,Logan,Thomas,logan.thomas1166@realemail.com,2023-12-31,IN,Influencer,true
+1186,Jamie,Jones,jamie.jones9621@realemail.com,2022-02-16,US,Paid Social,true
+1187,Avery,Martin,avery.martin4146@realemail.com,2022-08-24,EU,Paid Social,true
+1188,Quinn,Lopez,quinn.lopez4370@realemail.com,2020-09-06,AU,Referral,false
+1189,Alex,Taylor,alex.taylor8032@realemail.com,2020-01-31,IN,Direct,true
+1190,Drew,Lopez,drew.lopez7546@realemail.com,2023-11-19,CA,Referral,true
+1191,Alex,Anderson,alex.anderson4447@realemail.com,2023-07-26,AU,Direct,true
+1192,Jesse,Davis,jesse.davis5785@realemail.com,2023-12-21,US,Email,true
+1193,Sage,Garcia,sage.garcia4821@realemail.com,2024-09-02,UK,Referral,true
+1194,Jesse,Jones,jesse.jones3763@realemail.com,2021-07-26,EU,Referral,true
+1195,Rowan,Garcia,rowan.garcia7848@realemail.com,2020-05-01,UK,Referral,false
+1196,Jesse,Miller,jesse.miller9537@realemail.com,2023-11-23,CA,Referral,true
+1197,Skyler,Martinez,skyler.martinez3779@realemail.com,2024-05-11,UK,Referral,true
+1198,Cameron,Hernandez,cameron.hernandez5985@realemail.com,2022-11-07,UK,Influencer,true
+1199,Hayden,Gonzalez,hayden.gonzalez3791@realemail.com,2022-10-28,IN,Influencer,false
+1200,Alex,Jackson,alex.jackson4389@realemail.com,2023-03-06,CA,Direct,true
+1201,Taylor,Lopez,taylor.lopez9345@realemail.com,2020-08-24,UK,Paid Social,false
+1202,Logan,Lopez,logan.lopez6460@realemail.com,2023-09-17,UK,Organic Search,true
+1203,Riley,Moore,riley.moore3164@realemail.com,2021-08-04,UK,Email,true
+1204,Sage,Moore,sage.moore2746@realemail.com,2023-10-02,US,Email,true
+1205,Morgan,Williams,morgan.williams3935@realemail.com,2022-11-18,IN,Direct,true
+1206,Morgan,Martin,morgan.martin8134@realemail.com,2023-03-11,EU,Organic Search,true
+1207,Morgan,Garcia,morgan.garcia0943@realemail.com,2020-08-04,CA,Direct,false
+1208,Cameron,Martin,cameron.martin0032@realemail.com,2024-07-01,AU,Organic Search,false
+1209,Jordan,Gonzalez,jordan.gonzalez6699@realemail.com,2024-11-15,EU,Organic Search,true
+1210,Jesse,Garcia,jesse.garcia0306@realemail.com,2024-01-21,EU,Email,false
+1211,Kai,Jones,kai.jones7572@realemail.com,2023-05-23,IN,Referral,true
+1212,Taylor,Jones,taylor.jones2378@realemail.com,2022-11-09,AU,Referral,false
+1213,Quinn,Wilson,quinn.wilson8741@realemail.com,2022-08-07,AU,Referral,true
+1214,Casey,Garcia,casey.garcia5849@realemail.com,2023-02-17,AU,Email,false
+1215,Quinn,Garcia,quinn.garcia9938@realemail.com,2023-12-29,EU,Email,true
+1216,Sam,Lopez,sam.lopez8968@realemail.com,2022-06-26,AU,Direct,true
+1217,Jamie,Anderson,jamie.anderson9726@realemail.com,2021-10-21,CA,Paid Social,true
+1218,Sam,Johnson,sam.johnson7975@realemail.com,2023-03-02,UK,Direct,true
+1219,Alex,Jones,alex.jones4973@realemail.com,2020-01-21,IN,Organic Search,true
+1220,Avery,Thomas,avery.thomas9431@realemail.com,2023-07-22,US,Influencer,true
+1221,Kai,Thomas,kai.thomas8999@realemail.com,2021-06-24,AU,Email,true
+1222,Elliot,Brown,elliot.brown9335@realemail.com,2021-06-18,CA,Organic Search,true
+1223,Skyler,Martinez,skyler.martinez9748@realemail.com,2022-11-18,EU,Referral,true
+1224,Jesse,Miller,jesse.miller3458@realemail.com,2024-11-25,EU,Paid Social,true
+1225,Rowan,Moore,rowan.moore8836@realemail.com,2021-09-05,US,Referral,true
+1226,Jamie,Hernandez,jamie.hernandez4224@realemail.com,2023-04-21,IN,Paid Social,true
+1227,Quinn,Davis,quinn.davis4677@realemail.com,2020-10-23,EU,Direct,true
+1228,Quinn,Thomas,quinn.thomas5203@realemail.com,2024-06-30,EU,Referral,true
+1229,Riley,Wilson,riley.wilson4131@realemail.com,2021-11-17,EU,Influencer,true
+1230,Elliot,Garcia,elliot.garcia1848@realemail.com,2022-09-19,CA,Referral,true
+1231,Skyler,Johnson,skyler.johnson0563@realemail.com,2022-11-02,IN,Email,true
+1232,Jordan,Johnson,jordan.johnson6807@realemail.com,2022-11-15,CA,Influencer,true
+1233,Rowan,Smith,rowan.smith0070@realemail.com,2020-05-28,UK,Influencer,true
+1234,Hayden,Johnson,hayden.johnson4567@realemail.com,2020-04-25,US,Email,true
+1235,Jesse,Thomas,jesse.thomas1904@realemail.com,2020-03-05,IN,Referral,true
+1236,Drew,Smith,drew.smith4499@realemail.com,2020-02-12,CA,Email,true
+1237,Elliot,Smith,elliot.smith4034@realemail.com,2021-04-19,EU,Influencer,false
+1238,Casey,Taylor,casey.taylor6710@realemail.com,2021-06-09,CA,Referral,true
+1239,Riley,Davis,riley.davis1924@realemail.com,2021-02-17,EU,Influencer,true
+1240,Casey,Wilson,casey.wilson7283@realemail.com,2021-01-28,IN,Email,true
+1241,Kai,Brown,kai.brown3919@realemail.com,2022-04-24,US,Referral,true
+1242,Jesse,Anderson,jesse.anderson9562@realemail.com,2023-11-23,US,Influencer,true
+1243,Hayden,Johnson,hayden.johnson6427@realemail.com,2021-04-21,UK,Direct,false
+1244,Alex,Lopez,alex.lopez1473@realemail.com,2023-12-07,CA,Referral,true
+1245,Drew,Jones,drew.jones9339@realemail.com,2024-12-10,EU,Influencer,true
+1246,Casey,Moore,casey.moore7832@realemail.com,2020-12-06,UK,Direct,true
+1247,Drew,Thomas,drew.thomas2040@realemail.com,2022-06-01,EU,Organic Search,false
+1248,Riley,Martin,riley.martin1564@realemail.com,2021-08-21,AU,Direct,true
+1249,Sam,Anderson,sam.anderson2836@realemail.com,2020-04-05,IN,Influencer,true
+1250,Jesse,Thomas,jesse.thomas3813@realemail.com,2020-05-11,EU,Organic Search,true
+1251,Alex,Hernandez,alex.hernandez4417@realemail.com,2021-06-09,AU,Email,false
+1252,Casey,Gonzalez,casey.gonzalez5151@realemail.com,2022-07-09,IN,Direct,false
+1253,Kai,Hernandez,kai.hernandez8631@realemail.com,2020-07-24,AU,Organic Search,true
+1254,Avery,Garcia,avery.garcia7242@realemail.com,2022-02-16,AU,Organic Search,true
+1255,Quinn,Jackson,quinn.jackson5110@realemail.com,2022-08-03,CA,Email,true
+1256,Casey,Jones,casey.jones8059@realemail.com,2023-07-13,AU,Paid Social,true
+1257,Quinn,Smith,quinn.smith1896@realemail.com,2022-12-24,EU,Paid Social,true
+1258,Drew,Davis,drew.davis5516@realemail.com,2021-09-24,US,Influencer,true
+1259,Cameron,Taylor,cameron.taylor6475@realemail.com,2023-12-11,UK,Direct,true
+1260,Taylor,Davis,taylor.davis9497@realemail.com,2024-07-31,US,Direct,true
+1261,Morgan,Jones,morgan.jones0502@realemail.com,2021-05-30,UK,Email,true
+1262,Jesse,Williams,jesse.williams8152@realemail.com,2024-05-12,US,Direct,true
+1263,Kai,Wilson,kai.wilson2734@realemail.com,2022-10-11,CA,Paid Social,true
+1264,Sage,Brown,sage.brown3701@realemail.com,2020-07-22,CA,Paid Social,true
+1265,Logan,Davis,logan.davis8724@realemail.com,2020-09-25,EU,Organic Search,false
+1266,Kai,Smith,kai.smith1419@realemail.com,2022-12-08,AU,Organic Search,true
+1267,Alex,Lopez,alex.lopez3913@realemail.com,2022-01-29,EU,Organic Search,true
+1268,Riley,Smith,riley.smith6351@realemail.com,2020-08-16,IN,Referral,true
+1269,Kai,Wilson,kai.wilson6682@realemail.com,2021-01-12,CA,Paid Social,true
+1270,Morgan,Johnson,morgan.johnson4451@realemail.com,2022-09-24,UK,Referral,true
+1271,Jamie,Taylor,jamie.taylor8735@realemail.com,2020-03-22,US,Direct,true
+1272,Riley,Smith,riley.smith3954@realemail.com,2023-12-02,EU,Paid Social,true
+1273,Logan,Miller,logan.miller0161@realemail.com,2021-05-24,EU,Influencer,true
+1274,Morgan,Moore,morgan.moore3569@realemail.com,2021-12-08,UK,Referral,true
+1275,Elliot,Smith,elliot.smith0479@realemail.com,2021-03-10,IN,Influencer,true
+1276,Elliot,Brown,elliot.brown3504@realemail.com,2024-11-18,CA,Direct,false
+1277,Elliot,Martin,elliot.martin6445@realemail.com,2021-07-06,IN,Organic Search,true
+1278,Casey,Davis,casey.davis0248@realemail.com,2021-07-08,IN,Email,true
+1279,Alex,Hernandez,alex.hernandez2910@realemail.com,2021-06-03,IN,Referral,true
+1280,Cameron,Jackson,cameron.jackson3214@realemail.com,2021-07-15,IN,Email,true
+1281,Logan,Taylor,logan.taylor6833@realemail.com,2020-04-29,IN,Paid Social,true
+1282,Kai,Taylor,kai.taylor7204@realemail.com,2020-02-09,UK,Influencer,false
+1283,Sam,Davis,sam.davis9301@realemail.com,2021-02-04,UK,Influencer,false
+1284,Jamie,Johnson,jamie.johnson9387@realemail.com,2022-08-25,EU,Organic Search,true
+1285,Avery,Moore,avery.moore8154@realemail.com,2021-02-21,AU,Organic Search,true
+1286,Skyler,Williams,skyler.williams0070@realemail.com,2024-03-22,UK,Email,false
+1287,Alex,Martinez,alex.martinez0830@realemail.com,2022-08-23,CA,Direct,true
+1288,Jordan,Hernandez,jordan.hernandez3939@realemail.com,2020-01-28,CA,Influencer,true
+1289,Sage,Jones,sage.jones4731@realemail.com,2022-07-23,EU,Influencer,false
+1290,Kai,Anderson,kai.anderson8973@realemail.com,2022-07-04,IN,Influencer,true
+1291,Quinn,Hernandez,quinn.hernandez3610@realemail.com,2022-11-29,EU,Organic Search,true
+1292,Cameron,Jones,cameron.jones1983@realemail.com,2021-03-12,CA,Influencer,true
+1293,Avery,Johnson,avery.johnson9765@realemail.com,2023-10-19,IN,Paid Social,true
+1294,Jesse,Gonzalez,jesse.gonzalez8618@realemail.com,2022-06-18,UK,Email,true
+1295,Logan,Wilson,logan.wilson0326@realemail.com,2021-06-11,EU,Paid Social,true
+1296,Sam,Davis,sam.davis0716@realemail.com,2022-04-12,UK,Referral,true
+1297,Logan,Gonzalez,logan.gonzalez2802@realemail.com,2022-03-10,US,Influencer,true
+1298,Kai,Thomas,kai.thomas2054@realemail.com,2022-07-29,CA,Email,true
+1299,Alex,Wilson,alex.wilson0998@realemail.com,2020-10-14,IN,Email,true
+1300,Jesse,Brown,jesse.brown7237@realemail.com,2021-06-01,UK,Organic Search,false
+1301,Rowan,Thomas,rowan.thomas8982@realemail.com,2022-06-01,CA,Paid Social,true
+1302,Morgan,Jones,morgan.jones1934@realemail.com,2024-12-03,IN,Email,true
+1303,Taylor,Moore,taylor.moore9034@realemail.com,2023-10-10,US,Email,true
+1304,Sage,Moore,sage.moore0790@realemail.com,2020-10-29,CA,Direct,true
+1305,Jordan,Smith,jordan.smith3233@realemail.com,2024-09-11,US,Influencer,true
+1306,Elliot,Williams,elliot.williams6532@realemail.com,2020-01-06,CA,Influencer,true
+1307,Riley,Moore,riley.moore7608@realemail.com,2021-11-21,US,Influencer,true
+1308,Elliot,Martinez,elliot.martinez1377@realemail.com,2024-05-18,US,Paid Social,true
+1309,Rowan,Lopez,rowan.lopez3532@realemail.com,2022-08-09,IN,Direct,true
+1310,Kai,Brown,kai.brown5144@realemail.com,2020-01-10,US,Email,true
+1311,Taylor,Thomas,taylor.thomas2053@realemail.com,2023-02-28,UK,Referral,true
+1312,Hayden,Miller,hayden.miller1020@realemail.com,2020-04-01,UK,Direct,true
+1313,Avery,Garcia,avery.garcia6830@realemail.com,2020-04-27,US,Influencer,true
+1314,Taylor,Anderson,taylor.anderson3922@realemail.com,2020-07-08,IN,Referral,false
+1315,Riley,Garcia,riley.garcia1528@realemail.com,2022-04-05,UK,Influencer,true
+1316,Rowan,Johnson,rowan.johnson5305@realemail.com,2023-04-05,US,Paid Social,true
+1317,Sam,Garcia,sam.garcia4145@realemail.com,2024-04-23,CA,Referral,true
+1318,Quinn,Jones,quinn.jones3411@realemail.com,2021-07-28,CA,Organic Search,true
+1319,Taylor,Anderson,taylor.anderson7170@realemail.com,2021-07-14,IN,Email,true
+1320,Sam,Hernandez,sam.hernandez9982@realemail.com,2024-07-06,AU,Direct,true
+1321,Riley,Jackson,riley.jackson4784@realemail.com,2023-12-27,IN,Paid Social,true
+1322,Alex,Moore,alex.moore5132@realemail.com,2020-01-05,CA,Organic Search,false
+1323,Alex,Jackson,alex.jackson9894@realemail.com,2024-10-11,EU,Paid Social,true
+1324,Taylor,Brown,taylor.brown9258@realemail.com,2021-02-09,UK,Direct,true
+1325,Kai,Garcia,kai.garcia0548@realemail.com,2023-03-13,CA,Direct,true
+1326,Logan,Miller,logan.miller2686@realemail.com,2024-06-15,CA,Organic Search,true
+1327,Logan,Rodriguez,logan.rodriguez6592@realemail.com,2020-11-07,CA,Organic Search,true
+1328,Sage,Williams,sage.williams3758@realemail.com,2022-08-27,US,Direct,true
+1329,Jesse,Rodriguez,jesse.rodriguez8936@realemail.com,2020-04-26,CA,Paid Social,true
+1330,Casey,Gonzalez,casey.gonzalez1176@realemail.com,2023-11-24,IN,Influencer,false
+1331,Drew,Smith,drew.smith2032@realemail.com,2023-11-18,CA,Organic Search,false
+1332,Rowan,Rodriguez,rowan.rodriguez2312@realemail.com,2022-12-01,CA,Influencer,true
+1333,Casey,Garcia,casey.garcia0514@realemail.com,2022-08-18,US,Paid Social,true
+1334,Jordan,Wilson,jordan.wilson0293@realemail.com,2020-08-23,US,Organic Search,true
+1335,Alex,Smith,alex.smith8018@realemail.com,2024-07-23,IN,Organic Search,true
+1336,Cameron,Martin,cameron.martin6054@realemail.com,2023-05-19,US,Direct,true
+1337,Logan,Taylor,logan.taylor0881@realemail.com,2021-03-16,AU,Organic Search,true
+1338,Morgan,Thomas,morgan.thomas4407@realemail.com,2022-07-13,UK,Paid Social,true
+1339,Jordan,Davis,jordan.davis4830@realemail.com,2020-08-07,CA,Email,true
+1340,Logan,Jones,logan.jones6710@realemail.com,2023-09-23,US,Referral,true
+1341,Jesse,Jones,jesse.jones1531@realemail.com,2023-12-22,EU,Organic Search,true
+1342,Jordan,Williams,jordan.williams1523@realemail.com,2024-07-15,CA,Email,true
+1343,Taylor,Miller,taylor.miller4434@realemail.com,2021-04-12,AU,Referral,true
+1344,Sage,Hernandez,sage.hernandez0818@realemail.com,2023-10-06,AU,Email,true
+1345,Drew,Miller,drew.miller2545@realemail.com,2024-07-12,CA,Paid Social,true
+1346,Quinn,Jones,quinn.jones0398@realemail.com,2022-02-15,CA,Referral,true
+1347,Alex,Smith,alex.smith1851@realemail.com,2023-06-22,EU,Influencer,true
+1348,Hayden,Miller,hayden.miller3510@realemail.com,2022-05-25,AU,Direct,true
+1349,Riley,Lopez,riley.lopez7270@realemail.com,2023-01-17,AU,Paid Social,true
+1350,Drew,Davis,drew.davis4191@realemail.com,2020-10-03,US,Influencer,true
+1351,Sam,Garcia,sam.garcia1450@realemail.com,2024-06-12,UK,Email,true
+1352,Rowan,Rodriguez,rowan.rodriguez2459@realemail.com,2021-09-03,EU,Organic Search,true
+1353,Elliot,Anderson,elliot.anderson1052@realemail.com,2024-08-05,IN,Email,true
+1354,Casey,Rodriguez,casey.rodriguez6741@realemail.com,2021-08-23,EU,Email,true
+1355,Hayden,Miller,hayden.miller5835@realemail.com,2024-07-24,EU,Influencer,true
+1356,Rowan,Thomas,rowan.thomas6486@realemail.com,2023-02-19,UK,Direct,true
+1357,Elliot,Anderson,elliot.anderson8007@realemail.com,2022-10-26,IN,Referral,false
+1358,Sage,Martinez,sage.martinez3005@realemail.com,2022-10-27,EU,Organic Search,true
+1359,Sam,Taylor,sam.taylor3022@realemail.com,2023-07-02,UK,Referral,true
+1360,Quinn,Martinez,quinn.martinez7568@realemail.com,2021-11-06,IN,Organic Search,true
+1361,Logan,Brown,logan.brown8898@realemail.com,2022-03-20,CA,Influencer,true
+1362,Taylor,Davis,taylor.davis2810@realemail.com,2022-01-30,AU,Paid Social,true
+1363,Hayden,Thomas,hayden.thomas0134@realemail.com,2022-12-05,AU,Paid Social,true
+1364,Logan,Jackson,logan.jackson1642@realemail.com,2024-04-26,US,Referral,true
+1365,Rowan,Thomas,rowan.thomas4341@realemail.com,2020-02-01,CA,Influencer,true
+1366,Taylor,Rodriguez,taylor.rodriguez9336@realemail.com,2024-10-02,CA,Organic Search,true
+1367,Casey,Moore,casey.moore7489@realemail.com,2020-03-10,IN,Direct,true
+1368,Taylor,Miller,taylor.miller8464@realemail.com,2021-10-09,IN,Direct,true
+1369,Casey,Jackson,casey.jackson7169@realemail.com,2020-12-20,US,Influencer,true
+1370,Sage,Jones,sage.jones6728@realemail.com,2020-09-13,UK,Email,true
+1371,Morgan,Anderson,morgan.anderson4501@realemail.com,2022-09-06,CA,Influencer,true
+1372,Drew,Thomas,drew.thomas5419@realemail.com,2022-11-29,CA,Influencer,true
+1373,Kai,Hernandez,kai.hernandez9683@realemail.com,2022-08-23,CA,Email,true
+1374,Hayden,Hernandez,hayden.hernandez2262@realemail.com,2023-10-27,EU,Influencer,true
+1375,Logan,Hernandez,logan.hernandez7372@realemail.com,2024-05-24,AU,Paid Social,true
+1376,Quinn,Brown,quinn.brown5289@realemail.com,2022-06-14,UK,Referral,true
+1377,Elliot,Rodriguez,elliot.rodriguez5814@realemail.com,2020-02-20,AU,Direct,false
+1378,Cameron,Miller,cameron.miller0197@realemail.com,2022-05-26,CA,Organic Search,true
+1379,Casey,Smith,casey.smith9705@realemail.com,2024-08-14,UK,Referral,false
+1380,Rowan,Martinez,rowan.martinez8130@realemail.com,2021-02-03,UK,Influencer,true
+1381,Casey,Brown,casey.brown5809@realemail.com,2023-08-11,EU,Referral,true
+1382,Sage,Miller,sage.miller0600@realemail.com,2023-10-21,CA,Referral,true
+1383,Taylor,Taylor,taylor.taylor5068@realemail.com,2020-11-29,IN,Direct,false
+1384,Alex,Rodriguez,alex.rodriguez1541@realemail.com,2021-01-18,US,Direct,true
+1385,Morgan,Garcia,morgan.garcia1242@realemail.com,2020-12-11,US,Direct,true
+1386,Hayden,Martin,hayden.martin8497@realemail.com,2020-05-16,CA,Referral,true
+1387,Quinn,Davis,quinn.davis8139@realemail.com,2020-06-26,US,Referral,true
+1388,Jesse,Wilson,jesse.wilson9223@realemail.com,2023-02-07,EU,Influencer,true
+1389,Skyler,Johnson,skyler.johnson2702@realemail.com,2024-04-11,EU,Organic Search,true
+1390,Logan,Taylor,logan.taylor4966@realemail.com,2021-11-30,IN,Paid Social,true
+1391,Logan,Martinez,logan.martinez5741@realemail.com,2022-06-07,IN,Organic Search,true
+1392,Cameron,Taylor,cameron.taylor0758@realemail.com,2022-08-01,UK,Influencer,true
+1393,Rowan,Martin,rowan.martin2197@realemail.com,2021-07-20,IN,Influencer,true
+1394,Kai,Moore,kai.moore5741@realemail.com,2021-11-07,UK,Direct,true
+1395,Rowan,Taylor,rowan.taylor8451@realemail.com,2021-12-30,IN,Paid Social,true
+1396,Cameron,Taylor,cameron.taylor6616@realemail.com,2024-04-27,UK,Email,true
+1397,Sage,Miller,sage.miller6821@realemail.com,2020-01-31,UK,Referral,true
+1398,Drew,Garcia,drew.garcia0329@realemail.com,2023-04-26,UK,Influencer,true
+1399,Jordan,Jackson,jordan.jackson1623@realemail.com,2023-09-25,AU,Referral,true
+1400,Quinn,Lopez,quinn.lopez1174@realemail.com,2022-08-15,CA,Organic Search,true
+1401,Jordan,Smith,jordan.smith8272@realemail.com,2021-07-03,US,Direct,true
+1402,Kai,Wilson,kai.wilson7650@realemail.com,2020-05-06,CA,Paid Social,true
+1403,Kai,Rodriguez,kai.rodriguez5750@realemail.com,2024-08-15,IN,Organic Search,true
+1404,Casey,Thomas,casey.thomas2938@realemail.com,2020-06-23,CA,Influencer,true
+1405,Quinn,Brown,quinn.brown8643@realemail.com,2020-08-26,CA,Referral,true
+1406,Skyler,Garcia,skyler.garcia9260@realemail.com,2020-09-25,EU,Paid Social,true
+1407,Jesse,Martinez,jesse.martinez7879@realemail.com,2020-09-30,CA,Email,true
+1408,Rowan,Gonzalez,rowan.gonzalez7231@realemail.com,2021-02-25,EU,Email,false
+1409,Rowan,Gonzalez,rowan.gonzalez0585@realemail.com,2024-09-19,AU,Email,true
+1410,Quinn,Martin,quinn.martin6336@realemail.com,2024-02-13,UK,Referral,false
+1411,Elliot,Hernandez,elliot.hernandez3905@realemail.com,2021-03-29,AU,Email,true
+1412,Jordan,Martinez,jordan.martinez6392@realemail.com,2021-06-10,UK,Paid Social,true
+1413,Logan,Johnson,logan.johnson2702@realemail.com,2022-06-02,AU,Paid Social,true
+1414,Alex,Smith,alex.smith4082@realemail.com,2023-03-18,CA,Email,true
+1415,Alex,Jones,alex.jones8252@realemail.com,2021-09-15,CA,Organic Search,true
+1416,Jamie,Wilson,jamie.wilson9562@realemail.com,2024-02-08,UK,Direct,true
+1417,Casey,Johnson,casey.johnson4114@realemail.com,2024-04-11,EU,Organic Search,true
+1418,Elliot,Thomas,elliot.thomas6829@realemail.com,2022-09-24,EU,Direct,false
+1419,Taylor,Johnson,taylor.johnson1844@realemail.com,2022-02-27,UK,Referral,true
+1420,Quinn,Garcia,quinn.garcia5668@realemail.com,2024-08-06,UK,Organic Search,true
+1421,Sage,Davis,sage.davis7974@realemail.com,2024-11-03,AU,Email,true
+1422,Taylor,Martin,taylor.martin4828@realemail.com,2020-02-03,AU,Organic Search,true
+1423,Riley,Garcia,riley.garcia5791@realemail.com,2024-08-18,EU,Organic Search,true
+1424,Casey,Johnson,casey.johnson7655@realemail.com,2021-06-24,IN,Direct,true
+1425,Sam,Wilson,sam.wilson6034@realemail.com,2020-12-30,IN,Email,true
+1426,Skyler,Garcia,skyler.garcia6435@realemail.com,2022-01-12,IN,Organic Search,true
+1427,Jamie,Jones,jamie.jones9985@realemail.com,2022-12-01,US,Paid Social,true
+1428,Skyler,Taylor,skyler.taylor2101@realemail.com,2023-07-19,CA,Influencer,true
+1429,Sam,Taylor,sam.taylor5378@realemail.com,2020-12-25,EU,Paid Social,true
+1430,Taylor,Taylor,taylor.taylor3850@realemail.com,2024-07-13,EU,Email,true
+1431,Kai,Martin,kai.martin6340@realemail.com,2021-09-26,CA,Email,false
+1432,Hayden,Smith,hayden.smith5378@realemail.com,2022-05-22,UK,Direct,true
+1433,Elliot,Moore,elliot.moore6036@realemail.com,2024-07-25,US,Referral,false
+1434,Hayden,Taylor,hayden.taylor6136@realemail.com,2021-11-22,EU,Referral,true
+1435,Kai,Wilson,kai.wilson5091@realemail.com,2023-09-29,US,Referral,true
+1436,Morgan,Miller,morgan.miller4993@realemail.com,2024-09-24,EU,Organic Search,true
+1437,Taylor,Hernandez,taylor.hernandez8506@realemail.com,2021-03-17,CA,Referral,true
+1438,Casey,Williams,casey.williams0143@realemail.com,2024-01-10,UK,Paid Social,true
+1439,Jordan,Davis,jordan.davis5919@realemail.com,2024-05-13,IN,Influencer,true
+1440,Kai,Brown,kai.brown0388@realemail.com,2020-08-19,CA,Paid Social,true
+1441,Drew,Davis,drew.davis8066@realemail.com,2021-11-17,UK,Referral,true
+1442,Casey,Garcia,casey.garcia1400@realemail.com,2023-12-27,AU,Email,true
+1443,Skyler,Thomas,skyler.thomas9205@realemail.com,2021-11-26,CA,Influencer,true
+1444,Alex,Gonzalez,alex.gonzalez9853@realemail.com,2020-10-12,IN,Direct,true
+1445,Alex,Gonzalez,alex.gonzalez2495@realemail.com,2021-07-28,UK,Email,true
+1446,Quinn,Hernandez,quinn.hernandez1058@realemail.com,2024-11-11,UK,Influencer,true
+1447,Avery,Hernandez,avery.hernandez0832@realemail.com,2024-02-04,UK,Paid Social,true
+1448,Jesse,Brown,jesse.brown1472@realemail.com,2020-12-06,AU,Paid Social,true
+1449,Jamie,Smith,jamie.smith0601@realemail.com,2023-11-18,EU,Influencer,true
+1450,Rowan,Martinez,rowan.martinez0013@realemail.com,2024-10-11,UK,Influencer,false
+1451,Jesse,Rodriguez,jesse.rodriguez8618@realemail.com,2024-02-19,UK,Organic Search,true
+1452,Quinn,Garcia,quinn.garcia9090@realemail.com,2023-04-06,CA,Paid Social,true
+1453,Sage,Hernandez,sage.hernandez9799@realemail.com,2023-01-29,US,Influencer,false
+1454,Taylor,Miller,taylor.miller6839@realemail.com,2022-10-07,EU,Direct,true
+1455,Alex,Brown,alex.brown1743@realemail.com,2022-10-26,EU,Email,true
+1456,Sage,Lopez,sage.lopez3203@realemail.com,2020-10-01,CA,Direct,true
+1457,Casey,Miller,casey.miller6905@realemail.com,2021-02-10,US,Email,true
+1458,Kai,Williams,kai.williams0414@realemail.com,2023-03-15,CA,Influencer,true
+1459,Cameron,Garcia,cameron.garcia4594@realemail.com,2021-07-26,UK,Paid Social,true
+1460,Cameron,Smith,cameron.smith3588@realemail.com,2022-01-29,UK,Email,true
+1461,Casey,Williams,casey.williams2589@realemail.com,2021-07-26,US,Organic Search,false
+1462,Drew,Miller,drew.miller9410@realemail.com,2022-10-24,AU,Direct,true
+1463,Logan,Garcia,logan.garcia5094@realemail.com,2024-04-05,US,Direct,true
+1464,Skyler,Martinez,skyler.martinez1118@realemail.com,2023-09-06,CA,Direct,true
+1465,Jesse,Thomas,jesse.thomas7149@realemail.com,2021-07-06,CA,Organic Search,true
+1466,Quinn,Miller,quinn.miller7942@realemail.com,2024-08-12,AU,Referral,true
+1467,Drew,Davis,drew.davis6305@realemail.com,2021-11-02,IN,Influencer,true
+1468,Jesse,Moore,jesse.moore0526@realemail.com,2022-07-25,CA,Organic Search,true
+1469,Morgan,Lopez,morgan.lopez6524@realemail.com,2023-01-25,UK,Organic Search,true
+1470,Elliot,Taylor,elliot.taylor3445@realemail.com,2022-10-10,EU,Organic Search,true
+1471,Riley,Wilson,riley.wilson4985@realemail.com,2023-04-18,UK,Paid Social,false
+1472,Jordan,Garcia,jordan.garcia6685@realemail.com,2022-09-28,US,Influencer,true
+1473,Kai,Thomas,kai.thomas3314@realemail.com,2023-03-31,IN,Referral,false
+1474,Drew,Gonzalez,drew.gonzalez2101@realemail.com,2022-11-18,CA,Referral,true
+1475,Morgan,Williams,morgan.williams6926@realemail.com,2022-07-19,EU,Direct,false
+1476,Jesse,Moore,jesse.moore0849@realemail.com,2021-09-23,EU,Referral,true
+1477,Jesse,Miller,jesse.miller0250@realemail.com,2020-04-25,AU,Email,true
+1478,Jesse,Martinez,jesse.martinez6299@realemail.com,2020-05-13,IN,Organic Search,true
+1479,Hayden,Miller,hayden.miller0346@realemail.com,2022-08-16,UK,Email,true
+1480,Hayden,Jones,hayden.jones6677@realemail.com,2020-09-18,IN,Influencer,true
+1481,Avery,Wilson,avery.wilson4383@realemail.com,2022-07-18,IN,Organic Search,false
+1482,Quinn,Smith,quinn.smith2033@realemail.com,2024-02-29,US,Influencer,true
+1483,Rowan,Davis,rowan.davis1632@realemail.com,2024-02-06,CA,Paid Social,true
+1484,Taylor,Hernandez,taylor.hernandez1470@realemail.com,2023-09-27,AU,Referral,false
+1485,Quinn,Anderson,quinn.anderson0578@realemail.com,2022-10-16,IN,Direct,true
+1486,Avery,Taylor,avery.taylor8974@realemail.com,2023-08-13,AU,Referral,true
+1487,Skyler,Martinez,skyler.martinez8204@realemail.com,2022-08-29,AU,Referral,true
+1488,Riley,Moore,riley.moore2383@realemail.com,2020-09-03,US,Organic Search,true
+1489,Cameron,Martinez,cameron.martinez4814@realemail.com,2020-03-15,IN,Email,true
+1490,Rowan,Thomas,rowan.thomas1277@realemail.com,2024-12-15,UK,Direct,true
+1491,Jamie,Taylor,jamie.taylor0246@realemail.com,2023-12-12,EU,Paid Social,true
+1492,Cameron,Jones,cameron.jones5700@realemail.com,2020-10-21,US,Influencer,true
+1493,Taylor,Martin,taylor.martin8298@realemail.com,2024-03-12,AU,Paid Social,true
+1494,Drew,Garcia,drew.garcia1599@realemail.com,2020-08-10,AU,Direct,false
+1495,Riley,Davis,riley.davis7843@realemail.com,2020-03-02,AU,Influencer,true
+1496,Quinn,Williams,quinn.williams5079@realemail.com,2024-08-02,EU,Referral,true
+1497,Morgan,Smith,morgan.smith4527@realemail.com,2020-09-01,UK,Referral,true
+1498,Sam,Johnson,sam.johnson7823@realemail.com,2020-12-04,US,Organic Search,true
+1499,Riley,Williams,riley.williams5852@realemail.com,2022-12-23,US,Influencer,true
+1500,Riley,Martin,riley.martin7811@realemail.com,2022-04-21,CA,Influencer,true
+1501,Alex,Hernandez,alex.hernandez2451@realemail.com,2022-12-19,US,Organic Search,false
+1502,Drew,Williams,drew.williams8369@realemail.com,2020-08-07,IN,Paid Social,false
+1503,Kai,Johnson,kai.johnson2083@realemail.com,2020-09-24,AU,Direct,false
+1504,Rowan,Brown,rowan.brown5698@realemail.com,2022-12-04,IN,Influencer,true
+1505,Morgan,Anderson,morgan.anderson6461@realemail.com,2020-03-14,UK,Influencer,true
+1506,Jordan,Wilson,jordan.wilson5921@realemail.com,2023-09-20,AU,Direct,true
+1507,Avery,Smith,avery.smith1230@realemail.com,2021-06-30,IN,Referral,true
+1508,Logan,Thomas,logan.thomas4443@realemail.com,2020-11-02,EU,Referral,true
+1509,Jamie,Lopez,jamie.lopez6467@realemail.com,2024-02-23,IN,Email,true
+1510,Rowan,Johnson,rowan.johnson0826@realemail.com,2023-12-17,US,Influencer,true
+1511,Sage,Smith,sage.smith9220@realemail.com,2021-06-14,UK,Influencer,true
+1512,Sam,Jackson,sam.jackson3738@realemail.com,2024-02-20,CA,Influencer,false
+1513,Elliot,Rodriguez,elliot.rodriguez4292@realemail.com,2022-03-30,UK,Influencer,true
+1514,Quinn,Johnson,quinn.johnson2333@realemail.com,2023-10-11,CA,Influencer,true
+1515,Drew,Johnson,drew.johnson5179@realemail.com,2024-12-08,IN,Email,true
+1516,Alex,Williams,alex.williams3453@realemail.com,2023-09-30,US,Paid Social,true
+1517,Jordan,Davis,jordan.davis9236@realemail.com,2023-01-17,US,Organic Search,true
+1518,Riley,Brown,riley.brown7267@realemail.com,2022-01-04,EU,Email,false
+1519,Kai,Thomas,kai.thomas7214@realemail.com,2024-05-06,AU,Paid Social,false
+1520,Drew,Johnson,drew.johnson9371@realemail.com,2023-12-17,IN,Referral,true
+1521,Taylor,Brown,taylor.brown0910@realemail.com,2023-07-04,CA,Paid Social,true
+1522,Jordan,Rodriguez,jordan.rodriguez1300@realemail.com,2023-02-21,CA,Influencer,true
+1523,Riley,Rodriguez,riley.rodriguez4327@realemail.com,2021-11-27,AU,Direct,true
+1524,Logan,Williams,logan.williams3865@realemail.com,2022-04-24,EU,Influencer,true
+1525,Skyler,Lopez,skyler.lopez4262@realemail.com,2022-12-19,US,Paid Social,true
+1526,Quinn,Taylor,quinn.taylor6437@realemail.com,2023-06-11,UK,Email,true
+1527,Logan,Martinez,logan.martinez2599@realemail.com,2020-05-06,UK,Referral,true
+1528,Rowan,Anderson,rowan.anderson2161@realemail.com,2023-09-27,AU,Influencer,true
+1529,Avery,Davis,avery.davis9960@realemail.com,2022-12-06,US,Direct,true
+1530,Hayden,Garcia,hayden.garcia5702@realemail.com,2024-06-15,IN,Influencer,true
+1531,Avery,Jackson,avery.jackson2053@realemail.com,2022-08-12,EU,Direct,true
+1532,Hayden,Moore,hayden.moore2774@realemail.com,2023-06-17,AU,Organic Search,false
+1533,Quinn,Martin,quinn.martin2484@realemail.com,2021-09-14,US,Paid Social,true
+1534,Morgan,Williams,morgan.williams0346@realemail.com,2022-11-25,AU,Referral,true
+1535,Logan,Jackson,logan.jackson3389@realemail.com,2023-10-26,UK,Email,true
+1536,Taylor,Brown,taylor.brown1995@realemail.com,2023-07-18,AU,Organic Search,true
+1537,Alex,Brown,alex.brown4204@realemail.com,2020-05-10,CA,Organic Search,false
+1538,Jordan,Martinez,jordan.martinez7353@realemail.com,2021-07-17,CA,Referral,false
+1539,Cameron,Martin,cameron.martin9122@realemail.com,2024-05-26,EU,Direct,true
+1540,Hayden,Davis,hayden.davis9268@realemail.com,2020-11-14,US,Organic Search,false
+1541,Jamie,Jones,jamie.jones9963@realemail.com,2021-09-20,US,Paid Social,true
+1542,Sam,Williams,sam.williams3661@realemail.com,2024-09-12,CA,Email,false
+1543,Skyler,Martinez,skyler.martinez7997@realemail.com,2024-10-07,UK,Influencer,false
+1544,Casey,Garcia,casey.garcia9083@realemail.com,2021-04-09,AU,Direct,true
+1545,Sam,Davis,sam.davis5300@realemail.com,2023-12-27,AU,Paid Social,true
+1546,Alex,Wilson,alex.wilson5762@realemail.com,2021-12-20,AU,Referral,true
+1547,Jordan,Lopez,jordan.lopez6723@realemail.com,2020-07-20,US,Email,false
+1548,Cameron,Martinez,cameron.martinez9088@realemail.com,2024-07-29,AU,Influencer,true
+1549,Jesse,Wilson,jesse.wilson9330@realemail.com,2024-09-22,UK,Direct,true
+1550,Cameron,Smith,cameron.smith3213@realemail.com,2022-03-04,US,Paid Social,true
+1551,Hayden,Jones,hayden.jones0916@realemail.com,2024-08-28,UK,Organic Search,true
+1552,Skyler,Brown,skyler.brown7522@realemail.com,2024-02-17,CA,Direct,true
+1553,Sam,Jackson,sam.jackson3576@realemail.com,2020-06-30,CA,Paid Social,true
+1554,Cameron,Martin,cameron.martin4252@realemail.com,2021-01-01,EU,Email,true
+1555,Jamie,Anderson,jamie.anderson2788@realemail.com,2020-04-24,AU,Referral,true
+1556,Casey,Hernandez,casey.hernandez1078@realemail.com,2022-04-21,EU,Email,true
+1557,Morgan,Moore,morgan.moore4142@realemail.com,2023-12-15,IN,Direct,true
+1558,Jordan,Johnson,jordan.johnson8265@realemail.com,2023-12-22,IN,Organic Search,true
+1559,Rowan,Hernandez,rowan.hernandez3737@realemail.com,2024-11-23,IN,Referral,false
+1560,Hayden,Davis,hayden.davis3052@realemail.com,2021-03-06,AU,Direct,false
+1561,Hayden,Taylor,hayden.taylor4821@realemail.com,2022-08-26,EU,Referral,true
+1562,Skyler,Martin,skyler.martin1733@realemail.com,2020-09-24,US,Referral,true
+1563,Casey,Garcia,casey.garcia8199@realemail.com,2023-03-20,EU,Paid Social,true
+1564,Taylor,Jackson,taylor.jackson2832@realemail.com,2021-01-22,IN,Paid Social,true
+1565,Elliot,Davis,elliot.davis8956@realemail.com,2023-12-30,UK,Influencer,true
+1566,Logan,Lopez,logan.lopez0146@realemail.com,2024-04-01,US,Referral,true
+1567,Kai,Martinez,kai.martinez9549@realemail.com,2021-08-30,IN,Email,true
+1568,Drew,Taylor,drew.taylor1337@realemail.com,2022-07-19,US,Referral,true
+1569,Casey,Martinez,casey.martinez2573@realemail.com,2020-04-18,AU,Direct,false
+1570,Morgan,Martin,morgan.martin1131@realemail.com,2022-12-15,CA,Direct,true
+1571,Cameron,Moore,cameron.moore5883@realemail.com,2020-07-16,AU,Paid Social,false
+1572,Jamie,Taylor,jamie.taylor5451@realemail.com,2022-01-04,US,Paid Social,true
+1573,Riley,Martin,riley.martin4529@realemail.com,2021-09-15,UK,Referral,true
+1574,Skyler,Lopez,skyler.lopez1929@realemail.com,2023-04-27,UK,Paid Social,true
+1575,Jesse,Jackson,jesse.jackson9843@realemail.com,2024-01-25,AU,Email,true
+1576,Alex,Wilson,alex.wilson5397@realemail.com,2024-09-26,UK,Influencer,true
+1577,Quinn,Jones,quinn.jones0640@realemail.com,2021-11-16,US,Paid Social,true
+1578,Jamie,Johnson,jamie.johnson0525@realemail.com,2022-08-04,CA,Paid Social,true
+1579,Avery,Thomas,avery.thomas2121@realemail.com,2024-09-13,CA,Referral,false
+1580,Quinn,Gonzalez,quinn.gonzalez4816@realemail.com,2022-11-15,UK,Influencer,true
+1581,Taylor,Garcia,taylor.garcia4465@realemail.com,2023-05-25,EU,Direct,false
+1582,Jordan,Gonzalez,jordan.gonzalez5677@realemail.com,2023-03-26,IN,Email,true
+1583,Skyler,Brown,skyler.brown3927@realemail.com,2024-12-10,IN,Email,true
+1584,Kai,Wilson,kai.wilson8222@realemail.com,2020-01-17,CA,Organic Search,true
+1585,Quinn,Gonzalez,quinn.gonzalez0768@realemail.com,2023-09-30,AU,Influencer,true
+1586,Kai,Lopez,kai.lopez0596@realemail.com,2023-11-23,CA,Paid Social,false
+1587,Quinn,Smith,quinn.smith4201@realemail.com,2022-08-27,CA,Referral,true
+1588,Sage,Anderson,sage.anderson7136@realemail.com,2020-09-22,EU,Paid Social,true
+1589,Sage,Taylor,sage.taylor5367@realemail.com,2020-06-14,UK,Referral,true
+1590,Jamie,Johnson,jamie.johnson3038@realemail.com,2022-01-03,CA,Direct,true
+1591,Quinn,Gonzalez,quinn.gonzalez7915@realemail.com,2020-04-18,CA,Influencer,false
+1592,Logan,Martinez,logan.martinez7489@realemail.com,2021-04-30,IN,Email,true
+1593,Avery,Wilson,avery.wilson3868@realemail.com,2022-10-11,CA,Email,true
+1594,Jesse,Anderson,jesse.anderson3984@realemail.com,2024-12-09,CA,Paid Social,true
+1595,Avery,Rodriguez,avery.rodriguez8884@realemail.com,2022-06-23,CA,Referral,true
+1596,Sam,Davis,sam.davis1955@realemail.com,2023-03-30,AU,Email,true
+1597,Morgan,Hernandez,morgan.hernandez2697@realemail.com,2020-10-15,US,Influencer,false
+1598,Quinn,Thomas,quinn.thomas0969@realemail.com,2023-10-23,AU,Organic Search,false
+1599,Jordan,Lopez,jordan.lopez1783@realemail.com,2020-01-10,CA,Influencer,true
+1600,Elliot,Smith,elliot.smith7055@realemail.com,2022-10-25,IN,Referral,true
+1601,Rowan,Anderson,rowan.anderson7709@realemail.com,2023-05-23,UK,Direct,true
+1602,Quinn,Jackson,quinn.jackson1411@realemail.com,2023-02-03,IN,Paid Social,true
+1603,Skyler,Wilson,skyler.wilson0512@realemail.com,2023-06-07,IN,Referral,false
+1604,Quinn,Rodriguez,quinn.rodriguez6296@realemail.com,2020-02-17,EU,Organic Search,true
+1605,Alex,Lopez,alex.lopez7454@realemail.com,2021-06-29,EU,Direct,true
+1606,Jordan,Jackson,jordan.jackson6776@realemail.com,2023-06-05,IN,Direct,true
+1607,Hayden,Davis,hayden.davis7236@realemail.com,2021-11-02,UK,Direct,false
+1608,Kai,Martin,kai.martin6232@realemail.com,2024-08-22,EU,Paid Social,false
+1609,Sage,Davis,sage.davis1156@realemail.com,2023-03-12,AU,Organic Search,true
+1610,Kai,Martinez,kai.martinez9362@realemail.com,2024-02-20,IN,Email,true
+1611,Cameron,Jones,cameron.jones3336@realemail.com,2020-12-17,UK,Organic Search,true
+1612,Riley,Miller,riley.miller2913@realemail.com,2021-04-29,UK,Influencer,true
+1613,Avery,Rodriguez,avery.rodriguez8608@realemail.com,2024-11-14,CA,Influencer,true
+1614,Taylor,Gonzalez,taylor.gonzalez9514@realemail.com,2021-03-26,IN,Direct,true
+1615,Drew,Martin,drew.martin9026@realemail.com,2023-05-25,AU,Referral,true
+1616,Jordan,Taylor,jordan.taylor5254@realemail.com,2021-05-29,US,Paid Social,true
+1617,Taylor,Jones,taylor.jones8439@realemail.com,2024-07-15,US,Referral,true
+1618,Cameron,Anderson,cameron.anderson5631@realemail.com,2022-06-16,IN,Email,false
+1619,Rowan,Jackson,rowan.jackson0720@realemail.com,2022-03-19,IN,Direct,false
+1620,Alex,Lopez,alex.lopez2475@realemail.com,2020-06-27,AU,Email,true
+1621,Jamie,Williams,jamie.williams6353@realemail.com,2023-09-27,EU,Paid Social,true
+1622,Casey,Brown,casey.brown6861@realemail.com,2021-12-18,EU,Referral,true
+1623,Skyler,Davis,skyler.davis1150@realemail.com,2023-05-30,UK,Direct,true
+1624,Rowan,Jackson,rowan.jackson2567@realemail.com,2024-06-20,UK,Referral,true
+1625,Elliot,Brown,elliot.brown4565@realemail.com,2020-11-27,AU,Referral,true
+1626,Jordan,Taylor,jordan.taylor5114@realemail.com,2021-06-05,CA,Direct,true
+1627,Jamie,Martinez,jamie.martinez7531@realemail.com,2022-03-25,EU,Influencer,true
+1628,Kai,Williams,kai.williams3575@realemail.com,2021-08-07,EU,Direct,true
+1629,Taylor,Williams,taylor.williams3684@realemail.com,2022-08-03,CA,Organic Search,true
+1630,Jesse,Smith,jesse.smith2070@realemail.com,2021-06-16,IN,Influencer,true
+1631,Skyler,Anderson,skyler.anderson7832@realemail.com,2021-10-22,IN,Organic Search,true
+1632,Jesse,Anderson,jesse.anderson3982@realemail.com,2020-01-12,IN,Referral,true
+1633,Casey,Rodriguez,casey.rodriguez8561@realemail.com,2021-07-28,EU,Influencer,true
+1634,Morgan,Smith,morgan.smith9382@realemail.com,2024-02-10,IN,Paid Social,true
+1635,Elliot,Miller,elliot.miller7745@realemail.com,2023-04-21,AU,Direct,true
+1636,Taylor,Johnson,taylor.johnson5753@realemail.com,2023-04-07,EU,Paid Social,true
+1637,Morgan,Thomas,morgan.thomas0979@realemail.com,2020-09-15,IN,Email,true
+1638,Drew,Brown,drew.brown7458@realemail.com,2023-07-28,CA,Influencer,false
+1639,Casey,Taylor,casey.taylor9403@realemail.com,2023-03-06,IN,Direct,false
+1640,Hayden,Smith,hayden.smith0607@realemail.com,2020-10-03,CA,Organic Search,true
+1641,Alex,Jackson,alex.jackson1854@realemail.com,2021-03-20,EU,Referral,true
+1642,Riley,Thomas,riley.thomas1240@realemail.com,2024-05-31,EU,Paid Social,true
+1643,Morgan,Rodriguez,morgan.rodriguez0099@realemail.com,2022-11-25,US,Organic Search,true
+1644,Hayden,Miller,hayden.miller6415@realemail.com,2021-07-01,AU,Email,true
+1645,Morgan,Anderson,morgan.anderson7027@realemail.com,2022-06-28,IN,Referral,true
+1646,Drew,Williams,drew.williams7056@realemail.com,2023-01-23,IN,Organic Search,true
+1647,Kai,Anderson,kai.anderson7720@realemail.com,2021-08-31,AU,Referral,true
+1648,Cameron,Martinez,cameron.martinez5391@realemail.com,2021-09-13,IN,Influencer,true
+1649,Hayden,Wilson,hayden.wilson4823@realemail.com,2020-08-01,EU,Influencer,true
+1650,Drew,Davis,drew.davis6068@realemail.com,2021-07-17,AU,Paid Social,true
+1651,Quinn,Rodriguez,quinn.rodriguez4902@realemail.com,2022-04-01,IN,Email,false
+1652,Taylor,Johnson,taylor.johnson2645@realemail.com,2023-11-18,IN,Organic Search,true
+1653,Jesse,Martin,jesse.martin6873@realemail.com,2020-10-06,IN,Organic Search,true
+1654,Sage,Jones,sage.jones9489@realemail.com,2021-07-03,UK,Email,false
+1655,Kai,Wilson,kai.wilson1053@realemail.com,2020-06-15,UK,Influencer,true
+1656,Rowan,Martinez,rowan.martinez7565@realemail.com,2021-09-14,IN,Direct,true
+1657,Logan,Taylor,logan.taylor0908@realemail.com,2022-11-25,US,Referral,true
+1658,Logan,Taylor,logan.taylor8438@realemail.com,2021-02-23,CA,Email,true
+1659,Elliot,Smith,elliot.smith8024@realemail.com,2020-02-29,AU,Email,true
+1660,Skyler,Rodriguez,skyler.rodriguez2633@realemail.com,2021-10-04,CA,Organic Search,false
+1661,Elliot,Miller,elliot.miller3023@realemail.com,2020-09-30,EU,Referral,false
+1662,Avery,Gonzalez,avery.gonzalez0799@realemail.com,2020-01-24,CA,Influencer,false
+1663,Drew,Lopez,drew.lopez7525@realemail.com,2022-05-17,CA,Paid Social,true
+1664,Jesse,Miller,jesse.miller2713@realemail.com,2021-10-20,US,Referral,false
+1665,Sam,Wilson,sam.wilson9761@realemail.com,2021-09-09,EU,Referral,true
+1666,Skyler,Miller,skyler.miller2657@realemail.com,2023-09-05,EU,Direct,true
+1667,Jamie,Hernandez,jamie.hernandez0283@realemail.com,2023-10-26,UK,Organic Search,true
+1668,Taylor,Williams,taylor.williams1310@realemail.com,2020-06-19,AU,Paid Social,false
+1669,Drew,Rodriguez,drew.rodriguez9821@realemail.com,2023-04-19,CA,Direct,true
+1670,Sage,Rodriguez,sage.rodriguez8721@realemail.com,2022-08-13,UK,Referral,false
+1671,Elliot,Jones,elliot.jones3195@realemail.com,2024-01-20,US,Referral,true
+1672,Alex,Miller,alex.miller8663@realemail.com,2021-05-25,AU,Email,true
+1673,Sage,Rodriguez,sage.rodriguez0875@realemail.com,2024-03-02,UK,Direct,true
+1674,Cameron,Rodriguez,cameron.rodriguez0959@realemail.com,2023-01-22,IN,Influencer,true
+1675,Quinn,Martin,quinn.martin9249@realemail.com,2021-02-06,EU,Influencer,true
+1676,Sage,Brown,sage.brown2558@realemail.com,2021-07-12,EU,Direct,true
+1677,Drew,Martin,drew.martin7021@realemail.com,2020-05-29,EU,Paid Social,true
+1678,Jamie,Smith,jamie.smith4192@realemail.com,2024-09-13,EU,Direct,false
+1679,Taylor,Jackson,taylor.jackson0889@realemail.com,2024-09-09,US,Direct,true
+1680,Riley,Williams,riley.williams7777@realemail.com,2021-05-13,CA,Influencer,true
+1681,Rowan,Hernandez,rowan.hernandez6846@realemail.com,2023-08-30,EU,Direct,true
+1682,Logan,Martin,logan.martin0135@realemail.com,2021-07-27,IN,Paid Social,false
+1683,Rowan,Johnson,rowan.johnson9267@realemail.com,2024-12-09,IN,Email,true
+1684,Rowan,Jones,rowan.jones1502@realemail.com,2022-04-26,EU,Organic Search,false
+1685,Avery,Miller,avery.miller8800@realemail.com,2024-10-18,CA,Paid Social,true
+1686,Kai,Lopez,kai.lopez9142@realemail.com,2024-12-09,UK,Influencer,true
+1687,Skyler,Johnson,skyler.johnson7538@realemail.com,2021-06-17,US,Email,true
+1688,Quinn,Brown,quinn.brown0562@realemail.com,2020-06-05,UK,Organic Search,true
+1689,Alex,Rodriguez,alex.rodriguez5561@realemail.com,2024-09-15,IN,Paid Social,true
+1690,Rowan,Brown,rowan.brown2419@realemail.com,2024-11-28,CA,Direct,true
+1691,Quinn,Williams,quinn.williams8577@realemail.com,2022-02-27,CA,Direct,true
+1692,Jordan,Brown,jordan.brown6883@realemail.com,2021-12-29,EU,Email,true
+1693,Rowan,Johnson,rowan.johnson5949@realemail.com,2023-03-09,IN,Direct,true
+1694,Drew,Thomas,drew.thomas7623@realemail.com,2022-02-23,EU,Organic Search,true
+1695,Skyler,Lopez,skyler.lopez5971@realemail.com,2022-08-15,AU,Influencer,true
+1696,Casey,Thomas,casey.thomas1119@realemail.com,2021-02-09,CA,Referral,true
+1697,Riley,Hernandez,riley.hernandez9942@realemail.com,2021-12-14,IN,Direct,false
+1698,Taylor,Rodriguez,taylor.rodriguez6790@realemail.com,2022-09-06,US,Influencer,false
+1699,Jesse,Moore,jesse.moore7842@realemail.com,2021-05-25,EU,Paid Social,true
+1700,Rowan,Johnson,rowan.johnson8692@realemail.com,2021-12-08,US,Email,true
+1701,Jesse,Williams,jesse.williams6147@realemail.com,2022-06-02,AU,Paid Social,true
+1702,Cameron,Thomas,cameron.thomas0459@realemail.com,2020-07-19,UK,Organic Search,true
+1703,Elliot,Thomas,elliot.thomas5443@realemail.com,2020-08-14,IN,Referral,false
+1704,Quinn,Brown,quinn.brown6576@realemail.com,2022-12-04,UK,Email,true
+1705,Alex,Martinez,alex.martinez7982@realemail.com,2023-03-21,AU,Organic Search,true
+1706,Hayden,Lopez,hayden.lopez5176@realemail.com,2024-08-07,AU,Email,true
+1707,Rowan,Brown,rowan.brown4907@realemail.com,2023-08-12,CA,Email,true
+1708,Morgan,Miller,morgan.miller7106@realemail.com,2024-07-25,IN,Organic Search,false
+1709,Quinn,Anderson,quinn.anderson6208@realemail.com,2020-05-09,CA,Direct,true
+1710,Sage,Thomas,sage.thomas8863@realemail.com,2021-11-15,IN,Organic Search,true
+1711,Jesse,Davis,jesse.davis3984@realemail.com,2020-09-24,CA,Organic Search,true
+1712,Morgan,Moore,morgan.moore1835@realemail.com,2024-10-21,AU,Email,true
+1713,Casey,Garcia,casey.garcia1016@realemail.com,2023-09-21,UK,Paid Social,true
+1714,Kai,Brown,kai.brown5107@realemail.com,2021-10-27,AU,Organic Search,false
+1715,Skyler,Rodriguez,skyler.rodriguez2308@realemail.com,2021-06-17,AU,Email,true
+1716,Jordan,Wilson,jordan.wilson6612@realemail.com,2023-11-30,US,Email,true
+1717,Cameron,Garcia,cameron.garcia9843@realemail.com,2020-07-15,US,Referral,true
+1718,Morgan,Martinez,morgan.martinez8044@realemail.com,2020-05-06,IN,Organic Search,true
+1719,Jordan,Johnson,jordan.johnson2965@realemail.com,2021-05-08,AU,Email,true
+1720,Sam,Jackson,sam.jackson1781@realemail.com,2024-10-17,UK,Referral,true
+1721,Elliot,Johnson,elliot.johnson0323@realemail.com,2022-02-27,UK,Email,true
+1722,Rowan,Lopez,rowan.lopez5424@realemail.com,2022-09-02,EU,Email,true
+1723,Kai,Lopez,kai.lopez7390@realemail.com,2021-07-30,IN,Direct,true
+1724,Alex,Rodriguez,alex.rodriguez3512@realemail.com,2024-07-09,UK,Paid Social,true
+1725,Jordan,Jones,jordan.jones1442@realemail.com,2022-01-05,US,Referral,true
+1726,Cameron,Hernandez,cameron.hernandez7029@realemail.com,2023-02-28,CA,Paid Social,true
+1727,Hayden,Jones,hayden.jones3688@realemail.com,2023-04-27,EU,Referral,true
+1728,Jesse,Garcia,jesse.garcia5541@realemail.com,2023-06-06,EU,Referral,true
+1729,Jamie,Rodriguez,jamie.rodriguez2355@realemail.com,2022-10-18,EU,Referral,false
+1730,Morgan,Jones,morgan.jones8315@realemail.com,2023-08-25,UK,Email,true
+1731,Quinn,Williams,quinn.williams6079@realemail.com,2024-09-16,AU,Influencer,true
+1732,Jordan,Jones,jordan.jones8532@realemail.com,2020-01-02,US,Influencer,true
+1733,Hayden,Martinez,hayden.martinez5173@realemail.com,2020-04-04,AU,Direct,true
+1734,Rowan,Martinez,rowan.martinez7428@realemail.com,2021-02-01,US,Organic Search,true
+1735,Riley,Johnson,riley.johnson4435@realemail.com,2024-08-03,US,Paid Social,true
+1736,Elliot,Johnson,elliot.johnson7298@realemail.com,2023-01-23,CA,Email,true
+1737,Kai,Brown,kai.brown2555@realemail.com,2020-06-04,US,Influencer,true
+1738,Elliot,Moore,elliot.moore8312@realemail.com,2024-08-20,EU,Referral,false
+1739,Riley,Lopez,riley.lopez6781@realemail.com,2024-11-14,AU,Referral,true
+1740,Skyler,Lopez,skyler.lopez9743@realemail.com,2020-02-21,UK,Referral,true
+1741,Cameron,Martinez,cameron.martinez9678@realemail.com,2024-12-14,CA,Email,true
+1742,Morgan,Garcia,morgan.garcia6671@realemail.com,2024-04-03,IN,Paid Social,true
+1743,Elliot,Martinez,elliot.martinez5593@realemail.com,2023-04-27,CA,Referral,true
+1744,Kai,Gonzalez,kai.gonzalez3559@realemail.com,2020-10-21,EU,Influencer,true
+1745,Elliot,Thomas,elliot.thomas6399@realemail.com,2020-08-14,EU,Influencer,true
+1746,Skyler,Lopez,skyler.lopez4063@realemail.com,2020-08-10,CA,Direct,false
+1747,Logan,Wilson,logan.wilson8961@realemail.com,2022-09-05,UK,Direct,true
+1748,Hayden,Rodriguez,hayden.rodriguez5694@realemail.com,2023-04-10,UK,Referral,true
+1749,Riley,Lopez,riley.lopez5039@realemail.com,2024-07-20,IN,Influencer,true
+1750,Rowan,Thomas,rowan.thomas6047@realemail.com,2022-01-29,AU,Direct,true
+1751,Elliot,Williams,elliot.williams8986@realemail.com,2023-04-15,EU,Email,true
+1752,Elliot,Gonzalez,elliot.gonzalez2734@realemail.com,2024-12-30,AU,Influencer,true
+1753,Quinn,Smith,quinn.smith1174@realemail.com,2022-03-28,UK,Paid Social,false
+1754,Kai,Moore,kai.moore9784@realemail.com,2022-06-22,EU,Influencer,true
+1755,Sam,Williams,sam.williams6765@realemail.com,2022-07-10,AU,Referral,true
+1756,Riley,Jones,riley.jones4623@realemail.com,2024-07-31,CA,Referral,true
+1757,Riley,Jones,riley.jones9408@realemail.com,2022-06-30,UK,Referral,true
+1758,Riley,Davis,riley.davis5152@realemail.com,2021-09-27,IN,Influencer,true
+1759,Morgan,Brown,morgan.brown4800@realemail.com,2023-12-23,IN,Influencer,true
+1760,Rowan,Thomas,rowan.thomas1535@realemail.com,2021-09-23,AU,Influencer,true
+1761,Casey,Thomas,casey.thomas4034@realemail.com,2024-05-05,CA,Paid Social,true
+1762,Elliot,Taylor,elliot.taylor0108@realemail.com,2021-04-22,IN,Email,true
+1763,Avery,Wilson,avery.wilson5905@realemail.com,2023-11-05,US,Direct,true
+1764,Quinn,Jones,quinn.jones7003@realemail.com,2020-04-24,CA,Referral,true
+1765,Quinn,Jones,quinn.jones6360@realemail.com,2023-08-08,US,Influencer,true
+1766,Kai,Lopez,kai.lopez4937@realemail.com,2024-05-14,IN,Organic Search,true
+1767,Taylor,Williams,taylor.williams0987@realemail.com,2020-04-27,US,Organic Search,true
+1768,Sam,Rodriguez,sam.rodriguez9804@realemail.com,2021-08-31,EU,Email,false
+1769,Drew,Lopez,drew.lopez1426@realemail.com,2021-05-09,US,Direct,true
+1770,Sam,Rodriguez,sam.rodriguez7211@realemail.com,2021-06-03,UK,Organic Search,true
+1771,Jamie,Martin,jamie.martin2352@realemail.com,2020-09-08,CA,Paid Social,true
+1772,Morgan,Anderson,morgan.anderson5118@realemail.com,2021-02-09,US,Paid Social,true
+1773,Sage,Thomas,sage.thomas4181@realemail.com,2024-12-21,CA,Influencer,false
+1774,Hayden,Martin,hayden.martin8703@realemail.com,2024-04-14,CA,Referral,true
+1775,Kai,Smith,kai.smith3688@realemail.com,2021-03-29,UK,Paid Social,true
+1776,Avery,Garcia,avery.garcia0237@realemail.com,2022-01-10,IN,Referral,false
+1777,Jesse,Johnson,jesse.johnson2548@realemail.com,2023-06-19,CA,Influencer,true
+1778,Sam,Gonzalez,sam.gonzalez9121@realemail.com,2023-09-15,UK,Influencer,true
+1779,Avery,Jones,avery.jones9090@realemail.com,2023-12-14,AU,Paid Social,true
+1780,Logan,Anderson,logan.anderson3872@realemail.com,2022-02-13,UK,Referral,false
+1781,Casey,Williams,casey.williams4435@realemail.com,2024-03-13,UK,Influencer,true
+1782,Cameron,Martinez,cameron.martinez9956@realemail.com,2023-10-18,EU,Direct,true
+1783,Elliot,Gonzalez,elliot.gonzalez4799@realemail.com,2020-08-27,EU,Organic Search,false
+1784,Skyler,Davis,skyler.davis1926@realemail.com,2023-05-26,US,Direct,false
+1785,Skyler,Thomas,skyler.thomas1800@realemail.com,2023-07-17,US,Paid Social,true
+1786,Sam,Moore,sam.moore9034@realemail.com,2020-04-30,UK,Influencer,true
+1787,Morgan,Gonzalez,morgan.gonzalez2192@realemail.com,2020-10-15,IN,Organic Search,true
+1788,Morgan,Gonzalez,morgan.gonzalez9299@realemail.com,2023-08-06,CA,Direct,true
+1789,Logan,Martinez,logan.martinez5929@realemail.com,2022-03-07,IN,Email,false
+1790,Taylor,Garcia,taylor.garcia8964@realemail.com,2022-11-12,AU,Paid Social,false
+1791,Jordan,Jackson,jordan.jackson6178@realemail.com,2020-03-06,IN,Referral,true
+1792,Skyler,Miller,skyler.miller2396@realemail.com,2022-08-09,EU,Referral,false
+1793,Elliot,Jackson,elliot.jackson1219@realemail.com,2020-04-24,AU,Referral,false
+1794,Taylor,Gonzalez,taylor.gonzalez5222@realemail.com,2023-05-30,EU,Organic Search,true
+1795,Jordan,Lopez,jordan.lopez2236@realemail.com,2021-01-28,UK,Organic Search,true
+1796,Sam,Gonzalez,sam.gonzalez8570@realemail.com,2021-10-03,EU,Paid Social,true
+1797,Cameron,Johnson,cameron.johnson2391@realemail.com,2021-10-31,IN,Influencer,true
+1798,Sam,Hernandez,sam.hernandez4000@realemail.com,2020-07-07,UK,Referral,true
+1799,Sage,Taylor,sage.taylor1291@realemail.com,2023-10-13,AU,Direct,false
+1800,Casey,Williams,casey.williams2043@realemail.com,2024-11-30,US,Email,false
+1801,Riley,Jackson,riley.jackson3833@realemail.com,2020-03-30,AU,Organic Search,true
+1802,Elliot,Brown,elliot.brown2304@realemail.com,2023-09-06,AU,Paid Social,false
+1803,Alex,Jones,alex.jones3218@realemail.com,2020-04-03,EU,Referral,true
+1804,Jesse,Rodriguez,jesse.rodriguez9599@realemail.com,2022-09-06,CA,Influencer,true
+1805,Rowan,Garcia,rowan.garcia1090@realemail.com,2020-03-29,CA,Referral,true
+1806,Morgan,Martinez,morgan.martinez9205@realemail.com,2021-01-29,IN,Influencer,false
+1807,Casey,Thomas,casey.thomas7111@realemail.com,2020-09-03,CA,Influencer,true
+1808,Jordan,Gonzalez,jordan.gonzalez1906@realemail.com,2024-05-05,IN,Organic Search,true
+1809,Jesse,Williams,jesse.williams8941@realemail.com,2020-06-24,US,Email,true
+1810,Taylor,Hernandez,taylor.hernandez9394@realemail.com,2024-07-07,AU,Email,true
+1811,Jesse,Martin,jesse.martin3196@realemail.com,2024-08-11,IN,Paid Social,true
+1812,Jesse,Moore,jesse.moore3778@realemail.com,2023-01-06,IN,Email,false
+1813,Logan,Hernandez,logan.hernandez1400@realemail.com,2024-09-09,US,Influencer,true
+1814,Jordan,Smith,jordan.smith6316@realemail.com,2020-10-06,UK,Email,true
+1815,Rowan,Garcia,rowan.garcia0914@realemail.com,2020-07-05,AU,Direct,true
+1816,Morgan,Taylor,morgan.taylor4935@realemail.com,2021-01-17,EU,Organic Search,true
+1817,Sam,Gonzalez,sam.gonzalez9546@realemail.com,2023-10-03,UK,Direct,false
+1818,Logan,Johnson,logan.johnson4458@realemail.com,2020-08-25,US,Referral,true
+1819,Elliot,Smith,elliot.smith5097@realemail.com,2020-05-23,US,Referral,true
+1820,Quinn,Martin,quinn.martin1783@realemail.com,2020-11-09,EU,Influencer,true
+1821,Alex,Smith,alex.smith8650@realemail.com,2024-11-19,CA,Direct,true
+1822,Sam,Davis,sam.davis6783@realemail.com,2024-08-04,UK,Influencer,true
+1823,Elliot,Gonzalez,elliot.gonzalez1225@realemail.com,2024-06-02,AU,Referral,true
+1824,Sam,Martin,sam.martin2035@realemail.com,2021-02-20,CA,Paid Social,true
+1825,Drew,Smith,drew.smith2743@realemail.com,2020-07-26,AU,Organic Search,false
+1826,Logan,Johnson,logan.johnson9440@realemail.com,2020-08-01,US,Email,false
+1827,Riley,Martinez,riley.martinez9059@realemail.com,2021-04-30,US,Referral,false
+1828,Sage,Garcia,sage.garcia7341@realemail.com,2021-07-17,US,Organic Search,true
+1829,Sage,Wilson,sage.wilson7879@realemail.com,2021-06-10,CA,Organic Search,true
+1830,Hayden,Martinez,hayden.martinez8341@realemail.com,2022-09-07,AU,Referral,true
+1831,Alex,Anderson,alex.anderson1847@realemail.com,2023-06-09,UK,Influencer,true
+1832,Cameron,Davis,cameron.davis5521@realemail.com,2020-06-09,UK,Direct,false
+1833,Morgan,Gonzalez,morgan.gonzalez6191@realemail.com,2020-05-13,UK,Paid Social,true
+1834,Kai,Smith,kai.smith0287@realemail.com,2024-10-20,IN,Direct,true
+1835,Drew,Jones,drew.jones2259@realemail.com,2023-11-11,CA,Direct,true
+1836,Hayden,Moore,hayden.moore6133@realemail.com,2022-09-21,IN,Referral,true
+1837,Jesse,Johnson,jesse.johnson7289@realemail.com,2022-06-09,CA,Direct,true
+1838,Taylor,Anderson,taylor.anderson4147@realemail.com,2021-12-30,AU,Referral,true
+1839,Cameron,Davis,cameron.davis7011@realemail.com,2024-07-03,EU,Organic Search,false
+1840,Sage,Taylor,sage.taylor0903@realemail.com,2021-04-24,IN,Influencer,true
+1841,Sam,Brown,sam.brown7754@realemail.com,2021-08-28,EU,Referral,true
+1842,Cameron,Moore,cameron.moore5486@realemail.com,2024-11-12,US,Direct,true
+1843,Cameron,Thomas,cameron.thomas8872@realemail.com,2023-09-08,US,Organic Search,false
+1844,Cameron,Smith,cameron.smith9264@realemail.com,2021-07-20,UK,Referral,true
+1845,Quinn,Garcia,quinn.garcia7048@realemail.com,2020-06-26,US,Referral,true
+1846,Cameron,Moore,cameron.moore2156@realemail.com,2021-08-15,IN,Influencer,false
+1847,Logan,Wilson,logan.wilson2224@realemail.com,2021-04-02,UK,Paid Social,true
+1848,Elliot,Wilson,elliot.wilson9157@realemail.com,2023-06-18,UK,Organic Search,true
+1849,Drew,Martinez,drew.martinez1156@realemail.com,2023-05-28,AU,Email,true
+1850,Rowan,Jackson,rowan.jackson9472@realemail.com,2023-06-09,UK,Organic Search,true
+1851,Hayden,Miller,hayden.miller6396@realemail.com,2020-01-22,AU,Influencer,true
+1852,Alex,Garcia,alex.garcia7087@realemail.com,2020-06-13,US,Paid Social,true
+1853,Elliot,Davis,elliot.davis8307@realemail.com,2021-10-31,IN,Referral,true
+1854,Sage,Moore,sage.moore8731@realemail.com,2022-08-16,AU,Influencer,true
+1855,Hayden,Wilson,hayden.wilson9191@realemail.com,2024-12-19,CA,Direct,true
+1856,Sam,Smith,sam.smith9939@realemail.com,2020-06-07,US,Direct,true
+1857,Elliot,Williams,elliot.williams3330@realemail.com,2023-07-04,CA,Paid Social,true
+1858,Avery,Martinez,avery.martinez5250@realemail.com,2022-05-12,CA,Influencer,true
+1859,Logan,Brown,logan.brown8389@realemail.com,2021-01-05,AU,Paid Social,true
+1860,Jesse,Martinez,jesse.martinez8674@realemail.com,2020-02-09,UK,Influencer,true
+1861,Avery,Lopez,avery.lopez8080@realemail.com,2021-05-28,UK,Direct,true
+1862,Kai,Johnson,kai.johnson6539@realemail.com,2021-05-31,EU,Influencer,true
+1863,Drew,Smith,drew.smith2846@realemail.com,2022-03-05,EU,Influencer,true
+1864,Quinn,Jones,quinn.jones5534@realemail.com,2021-09-14,UK,Influencer,true
+1865,Quinn,Moore,quinn.moore8728@realemail.com,2024-06-22,CA,Direct,true
+1866,Casey,Williams,casey.williams0409@realemail.com,2020-11-15,AU,Organic Search,true
+1867,Rowan,Moore,rowan.moore3460@realemail.com,2024-01-13,EU,Paid Social,true
+1868,Kai,Taylor,kai.taylor6289@realemail.com,2021-10-10,UK,Email,true
+1869,Sam,Anderson,sam.anderson2063@realemail.com,2021-01-19,US,Paid Social,true
+1870,Kai,Moore,kai.moore3818@realemail.com,2020-12-04,AU,Organic Search,true
+1871,Cameron,Rodriguez,cameron.rodriguez3298@realemail.com,2024-11-08,UK,Paid Social,true
+1872,Cameron,Williams,cameron.williams0950@realemail.com,2022-05-27,US,Paid Social,false
+1873,Avery,Moore,avery.moore7946@realemail.com,2020-04-23,UK,Paid Social,true
+1874,Avery,Thomas,avery.thomas0060@realemail.com,2024-07-13,IN,Referral,true
+1875,Elliot,Miller,elliot.miller4702@realemail.com,2024-07-08,AU,Organic Search,true
+1876,Elliot,Smith,elliot.smith6070@realemail.com,2021-09-12,UK,Paid Social,true
+1877,Casey,Davis,casey.davis6839@realemail.com,2024-12-16,EU,Email,true
+1878,Kai,Martinez,kai.martinez6058@realemail.com,2021-08-23,UK,Organic Search,true
+1879,Drew,Smith,drew.smith7678@realemail.com,2022-10-17,US,Influencer,true
+1880,Casey,Taylor,casey.taylor2543@realemail.com,2023-04-29,CA,Referral,false
+1881,Drew,Martinez,drew.martinez3937@realemail.com,2024-11-12,IN,Email,true
+1882,Rowan,Williams,rowan.williams5255@realemail.com,2020-03-21,CA,Organic Search,false
+1883,Skyler,Wilson,skyler.wilson4083@realemail.com,2022-04-16,EU,Paid Social,true
+1884,Alex,Brown,alex.brown3710@realemail.com,2024-03-19,UK,Influencer,true
+1885,Drew,Williams,drew.williams0463@realemail.com,2021-07-05,AU,Paid Social,true
+1886,Sam,Wilson,sam.wilson4598@realemail.com,2023-07-09,AU,Paid Social,true
+1887,Rowan,Martinez,rowan.martinez9206@realemail.com,2024-10-11,UK,Organic Search,false
+1888,Kai,Wilson,kai.wilson5891@realemail.com,2023-12-31,CA,Influencer,true
+1889,Sage,Williams,sage.williams1885@realemail.com,2022-09-10,EU,Influencer,true
+1890,Avery,Miller,avery.miller0649@realemail.com,2024-04-27,CA,Email,true
+1891,Skyler,Davis,skyler.davis3349@realemail.com,2021-02-27,AU,Influencer,true
+1892,Jordan,Davis,jordan.davis5377@realemail.com,2022-11-18,US,Paid Social,true
+1893,Casey,Smith,casey.smith8753@realemail.com,2020-12-24,AU,Referral,true
+1894,Jamie,Lopez,jamie.lopez0563@realemail.com,2020-11-09,IN,Influencer,true
+1895,Jordan,Anderson,jordan.anderson0044@realemail.com,2021-08-15,IN,Email,true
+1896,Riley,Anderson,riley.anderson7584@realemail.com,2022-12-11,US,Organic Search,true
+1897,Rowan,Miller,rowan.miller8268@realemail.com,2023-10-10,CA,Email,true
+1898,Riley,Williams,riley.williams0018@realemail.com,2022-05-19,IN,Referral,true
+1899,Avery,Hernandez,avery.hernandez1981@realemail.com,2024-11-26,UK,Paid Social,true
+1900,Sam,Gonzalez,sam.gonzalez7735@realemail.com,2024-04-14,IN,Paid Social,true
+1901,Taylor,Moore,taylor.moore4268@realemail.com,2023-08-10,AU,Organic Search,true
+1902,Jamie,Lopez,jamie.lopez0611@realemail.com,2022-09-09,AU,Organic Search,false
+1903,Jamie,Hernandez,jamie.hernandez3503@realemail.com,2020-08-24,EU,Email,true
+1904,Morgan,Brown,morgan.brown2766@realemail.com,2024-01-08,EU,Paid Social,true
+1905,Elliot,Miller,elliot.miller7720@realemail.com,2021-09-22,UK,Referral,true
+1906,Alex,Hernandez,alex.hernandez7542@realemail.com,2020-09-04,US,Organic Search,true
+1907,Riley,Wilson,riley.wilson9729@realemail.com,2022-04-26,IN,Referral,true
+1908,Sage,Martinez,sage.martinez7736@realemail.com,2024-06-07,UK,Organic Search,false
+1909,Hayden,Brown,hayden.brown1540@realemail.com,2022-09-06,EU,Paid Social,true
+1910,Casey,Davis,casey.davis4078@realemail.com,2021-07-27,AU,Organic Search,true
+1911,Cameron,Miller,cameron.miller4659@realemail.com,2021-05-10,EU,Email,true
+1912,Quinn,Williams,quinn.williams0406@realemail.com,2022-09-07,AU,Direct,true
+1913,Jordan,Miller,jordan.miller0502@realemail.com,2023-10-06,US,Referral,true
+1914,Elliot,Johnson,elliot.johnson4144@realemail.com,2020-10-14,AU,Paid Social,false
+1915,Jordan,Gonzalez,jordan.gonzalez3431@realemail.com,2020-09-19,CA,Direct,false
+1916,Alex,Miller,alex.miller0683@realemail.com,2023-12-01,UK,Referral,true
+1917,Jordan,Jones,jordan.jones2787@realemail.com,2023-11-13,IN,Organic Search,true
+1918,Casey,Smith,casey.smith3756@realemail.com,2023-10-29,UK,Organic Search,false
+1919,Cameron,Brown,cameron.brown5374@realemail.com,2020-10-13,US,Email,false
+1920,Casey,Gonzalez,casey.gonzalez3353@realemail.com,2024-01-27,AU,Direct,true
+1921,Jamie,Taylor,jamie.taylor1149@realemail.com,2024-07-31,CA,Referral,true
+1922,Morgan,Wilson,morgan.wilson1064@realemail.com,2020-08-05,EU,Email,true
+1923,Sage,Anderson,sage.anderson4603@realemail.com,2020-02-14,UK,Paid Social,true
+1924,Elliot,Garcia,elliot.garcia9522@realemail.com,2020-01-18,AU,Referral,true
+1925,Quinn,Wilson,quinn.wilson2121@realemail.com,2020-10-09,IN,Influencer,true
+1926,Kai,Brown,kai.brown2649@realemail.com,2022-04-06,UK,Influencer,false
+1927,Drew,Rodriguez,drew.rodriguez8219@realemail.com,2023-09-24,UK,Organic Search,false
+1928,Logan,Taylor,logan.taylor6325@realemail.com,2021-08-27,EU,Paid Social,true
+1929,Elliot,Davis,elliot.davis5032@realemail.com,2024-10-10,EU,Paid Social,false
+1930,Kai,Martinez,kai.martinez7744@realemail.com,2022-12-13,IN,Email,true
+1931,Hayden,Thomas,hayden.thomas4152@realemail.com,2024-01-27,AU,Email,true
+1932,Morgan,Jackson,morgan.jackson7935@realemail.com,2020-10-08,CA,Direct,false
+1933,Avery,Martin,avery.martin7678@realemail.com,2024-10-01,IN,Direct,false
+1934,Hayden,Thomas,hayden.thomas3426@realemail.com,2020-06-04,CA,Organic Search,false
+1935,Avery,Lopez,avery.lopez8147@realemail.com,2024-06-27,US,Referral,true
+1936,Skyler,Miller,skyler.miller6687@realemail.com,2021-11-06,IN,Referral,true
+1937,Drew,Brown,drew.brown8355@realemail.com,2020-07-05,IN,Organic Search,true
+1938,Jamie,Smith,jamie.smith6702@realemail.com,2022-12-02,US,Email,true
+1939,Jesse,Wilson,jesse.wilson1199@realemail.com,2022-07-13,AU,Paid Social,true
+1940,Kai,Gonzalez,kai.gonzalez9029@realemail.com,2020-08-02,US,Direct,true
+1941,Riley,Jones,riley.jones0308@realemail.com,2024-11-01,AU,Organic Search,true
+1942,Jordan,Wilson,jordan.wilson5122@realemail.com,2024-01-14,UK,Organic Search,false
+1943,Hayden,Moore,hayden.moore1990@realemail.com,2020-09-24,EU,Direct,true
+1944,Cameron,Rodriguez,cameron.rodriguez4308@realemail.com,2020-07-29,CA,Direct,false
+1945,Morgan,Garcia,morgan.garcia3750@realemail.com,2023-03-06,AU,Referral,true
+1946,Morgan,Lopez,morgan.lopez0855@realemail.com,2021-02-15,US,Referral,true
+1947,Rowan,Miller,rowan.miller4662@realemail.com,2024-01-05,EU,Referral,false
+1948,Avery,Brown,avery.brown4202@realemail.com,2023-05-28,CA,Paid Social,true
+1949,Riley,Rodriguez,riley.rodriguez3012@realemail.com,2022-09-05,CA,Referral,false
+1950,Casey,Wilson,casey.wilson8453@realemail.com,2022-01-16,IN,Organic Search,false
+1951,Morgan,Johnson,morgan.johnson0263@realemail.com,2020-12-31,IN,Paid Social,true
+1952,Riley,Rodriguez,riley.rodriguez7662@realemail.com,2022-11-03,US,Paid Social,true
+1953,Taylor,Hernandez,taylor.hernandez6893@realemail.com,2024-10-13,UK,Direct,true
+1954,Rowan,Garcia,rowan.garcia7279@realemail.com,2023-12-28,UK,Referral,true
+1955,Elliot,Davis,elliot.davis2185@realemail.com,2021-12-20,IN,Direct,true
+1956,Alex,Miller,alex.miller3930@realemail.com,2023-06-11,IN,Influencer,true
+1957,Sam,Brown,sam.brown6310@realemail.com,2020-08-05,CA,Referral,true
+1958,Rowan,Johnson,rowan.johnson0285@realemail.com,2020-07-13,US,Email,true
+1959,Elliot,Rodriguez,elliot.rodriguez4048@realemail.com,2020-05-23,AU,Influencer,false
+1960,Skyler,Williams,skyler.williams6694@realemail.com,2022-04-27,US,Paid Social,true
+1961,Elliot,Moore,elliot.moore1140@realemail.com,2020-09-07,EU,Referral,true
+1962,Casey,Wilson,casey.wilson9742@realemail.com,2023-01-11,US,Organic Search,true
+1963,Sam,Gonzalez,sam.gonzalez6500@realemail.com,2021-02-24,IN,Influencer,true
+1964,Elliot,Williams,elliot.williams9124@realemail.com,2020-05-30,US,Paid Social,true
+1965,Kai,Johnson,kai.johnson0163@realemail.com,2024-09-28,US,Paid Social,true
+1966,Logan,Brown,logan.brown6238@realemail.com,2021-06-04,CA,Organic Search,false
+1967,Rowan,Jackson,rowan.jackson0654@realemail.com,2023-11-16,EU,Direct,true
+1968,Logan,Davis,logan.davis2696@realemail.com,2021-12-09,US,Email,true
+1969,Jamie,Martinez,jamie.martinez9500@realemail.com,2024-08-25,IN,Organic Search,false
+1970,Cameron,Lopez,cameron.lopez2348@realemail.com,2024-01-06,CA,Direct,true
+1971,Elliot,Garcia,elliot.garcia6014@realemail.com,2021-04-16,US,Organic Search,true
+1972,Sage,Gonzalez,sage.gonzalez8557@realemail.com,2024-05-20,CA,Email,true
+1973,Taylor,Moore,taylor.moore8280@realemail.com,2020-01-14,US,Paid Social,true
+1974,Rowan,Martin,rowan.martin0576@realemail.com,2021-10-24,US,Referral,false
+1975,Rowan,Davis,rowan.davis9103@realemail.com,2024-11-24,AU,Email,false
+1976,Elliot,Miller,elliot.miller2902@realemail.com,2023-12-12,UK,Organic Search,true
+1977,Jamie,Wilson,jamie.wilson9054@realemail.com,2024-02-28,CA,Email,true
+1978,Skyler,Anderson,skyler.anderson2173@realemail.com,2024-12-19,US,Direct,true
+1979,Jamie,Lopez,jamie.lopez2601@realemail.com,2022-08-27,UK,Paid Social,false
+1980,Hayden,Garcia,hayden.garcia6022@realemail.com,2024-04-18,EU,Direct,true
+1981,Morgan,Martin,morgan.martin3249@realemail.com,2022-10-10,UK,Email,false
+1982,Taylor,Anderson,taylor.anderson4813@realemail.com,2024-12-20,CA,Influencer,true
+1983,Quinn,Hernandez,quinn.hernandez4481@realemail.com,2020-06-15,UK,Influencer,true
+1984,Jamie,Wilson,jamie.wilson2146@realemail.com,2024-01-28,AU,Direct,true
+1985,Sam,Taylor,sam.taylor1564@realemail.com,2022-11-27,CA,Organic Search,true
+1986,Elliot,Lopez,elliot.lopez7567@realemail.com,2023-02-08,IN,Email,true
+1987,Jordan,Hernandez,jordan.hernandez1692@realemail.com,2020-05-13,UK,Organic Search,false
+1988,Casey,Wilson,casey.wilson0409@realemail.com,2020-04-05,EU,Email,true
+1989,Logan,Miller,logan.miller5232@realemail.com,2024-08-03,UK,Referral,true
+1990,Jesse,Miller,jesse.miller6708@realemail.com,2023-06-23,EU,Email,false
+1991,Logan,Miller,logan.miller3442@realemail.com,2024-10-09,AU,Paid Social,true
+1992,Alex,Taylor,alex.taylor2705@realemail.com,2021-10-23,CA,Email,false
+1993,Quinn,Jones,quinn.jones4870@realemail.com,2022-03-15,AU,Influencer,false
+1994,Sage,Brown,sage.brown8762@realemail.com,2022-04-10,US,Organic Search,true
+1995,Sam,Garcia,sam.garcia4783@realemail.com,2022-09-29,AU,Email,true
+1996,Rowan,Martin,rowan.martin4213@realemail.com,2023-07-25,AU,Direct,true
+1997,Jamie,Anderson,jamie.anderson1126@realemail.com,2021-10-17,IN,Email,true
+1998,Cameron,Davis,cameron.davis6947@realemail.com,2024-02-13,AU,Referral,false
+1999,Jordan,Thomas,jordan.thomas5095@realemail.com,2021-07-02,CA,Direct,true
+2000,Hayden,Johnson,hayden.johnson3860@realemail.com,2023-01-06,IN,Organic Search,true

@@ -1,0 +1,301 @@
+product_id,product_name,category,subcategory,price,cost,is_discontinued
+1,Wireless Mouse,Electronics,,281.65,120.60,false
+2,Mechanical Keyboard,Electronics,,340.09,183.48,false
+3,Bluetooth Speaker,Electronics,,369.07,226.31,true
+4,USB-C Cable,Electronics,,296.68,130.06,false
+5,Laptop Stand,Electronics,,235.25,101.39,false
+6,Webcam,Electronics,,190.26,102.02,false
+7,Noise-Cancelling Headphones,Electronics,,263.49,155.55,false
+8,Portable SSD,Electronics,,357.93,235.09,false
+9,Smartwatch,Electronics,,150.86,82.15,false
+10,Gaming Controller,Electronics,,228.01,103.46,false
+11,Ceramic Mug,Home & Kitchen,,176.97,89.96,false
+12,Stainless Steel Pan,Home & Kitchen,,161.29,76.57,true
+13,Electric Kettle,Home & Kitchen,,97.73,67.30,false
+14,Kitchen Knife Set,Home & Kitchen,,106.54,58.97,true
+15,Cutting Board,Home & Kitchen,,254.29,154.59,false
+16,Blender,Home & Kitchen,,386.04,198.24,false
+17,Toaster,Home & Kitchen,,353.82,224.44,false
+18,Air Fryer,Home & Kitchen,,318.44,162.45,true
+19,Vacuum Cleaner,Home & Kitchen,,20.40,12.62,false
+20,Food Storage Set,Home & Kitchen,,344.16,189.59,false
+21,Yoga Mat,Sports & Outdoors,,299.77,208.31,false
+22,Dumbbell Set,Sports & Outdoors,,193.70,77.61,false
+23,Water Bottle,Sports & Outdoors,,393.39,259.30,false
+24,Camping Tent,Sports & Outdoors,,74.40,50.21,true
+25,Hiking Backpack,Sports & Outdoors,,157.60,84.15,false
+26,Running Shoes,Sports & Outdoors,,122.89,62.78,true
+27,Fitness Tracker,Sports & Outdoors,,65.87,36.34,false
+28,Resistance Bands,Sports & Outdoors,,82.43,55.02,false
+29,Bike Helmet,Sports & Outdoors,,34.87,20.51,false
+30,Sleeping Bag,Sports & Outdoors,,190.99,97.33,false
+31,Face Cleanser,Beauty & Personal Care,,136.27,62.90,false
+32,Moisturizer,Beauty & Personal Care,,318.14,214.82,true
+33,Shampoo,Beauty & Personal Care,,330.23,150.83,false
+34,Conditioner,Beauty & Personal Care,,297.79,199.29,false
+35,Body Lotion,Beauty & Personal Care,,335.83,134.86,false
+36,Sunscreen,Beauty & Personal Care,,229.35,149.71,false
+37,Lip Balm,Beauty & Personal Care,,258.60,126.91,false
+38,Hair Dryer,Beauty & Personal Care,,200.72,101.31,false
+39,Electric Toothbrush,Beauty & Personal Care,,49.89,28.52,false
+40,Razor Set,Beauty & Personal Care,,226.87,158.37,false
+41,Productivity Book,Books,,89.26,53.44,false
+42,Fantasy Novel,Books,,309.17,177.36,false
+43,Sci-Fi Novel,Books,,232.40,121.22,false
+44,Cookbook,Books,,57.92,25.40,false
+45,Self-Help Guide,Books,,382.91,229.59,false
+46,Mystery Novel,Books,,252.91,163.56,false
+47,Thriller Book,Books,,202.34,134.03,false
+48,Biography,Books,,72.09,36.32,false
+49,History Book,Books,,123.44,79.86,false
+50,Programming Guide,Books,,311.33,172.16,false
+51,Toaster 51,Home & Kitchen,,340.30,166.28,false
+52,Stainless Steel Pan 52,Home & Kitchen,,51.91,26.85,false
+53,Shampoo 53,Beauty & Personal Care,,200.65,84.41,false
+54,Body Lotion 54,Beauty & Personal Care,,316.28,128.75,false
+55,Yoga Mat 55,Sports & Outdoors,,396.81,225.64,false
+56,Electric Kettle 56,Home & Kitchen,,372.10,254.40,false
+57,Food Storage Set 57,Home & Kitchen,,140.14,97.72,false
+58,Yoga Mat 58,Sports & Outdoors,,218.95,106.62,true
+59,Bluetooth Speaker 59,Electronics,,213.06,113.50,false
+60,USB-C Cable 60,Electronics,,275.96,183.91,false
+61,Conditioner 61,Beauty & Personal Care,,175.74,73.05,false
+62,Electric Kettle 62,Home & Kitchen,,78.99,39.53,false
+63,Razor Set 63,Beauty & Personal Care,,199.37,128.70,false
+64,Blender 64,Home & Kitchen,,245.58,153.11,false
+65,Toaster 65,Home & Kitchen,,76.41,52.31,false
+66,Dumbbell Set 66,Sports & Outdoors,,206.27,140.18,false
+67,Noise-Cancelling Headphones 67,Electronics,,134.74,70.82,false
+68,Kitchen Knife Set 68,Home & Kitchen,,277.33,161.50,false
+69,Toaster 69,Home & Kitchen,,156.10,65.59,false
+70,Running Shoes 70,Sports & Outdoors,,315.23,148.61,false
+71,Mechanical Keyboard 71,Electronics,,167.32,78.72,false
+72,Yoga Mat 72,Sports & Outdoors,,370.40,185.20,false
+73,Ceramic Mug 73,Home & Kitchen,,222.38,149.20,false
+74,Razor Set 74,Beauty & Personal Care,,224.24,139.01,false
+75,Shampoo 75,Beauty & Personal Care,,347.15,165.53,false
+76,Biography 76,Books,,297.26,156.24,false
+77,Electric Toothbrush 77,Beauty & Personal Care,,338.07,137.78,false
+78,Electric Kettle 78,Home & Kitchen,,33.23,23.21,false
+79,Thriller Book 79,Books,,19.52,10.95,false
+80,Yoga Mat 80,Sports & Outdoors,,392.68,214.44,false
+81,Toaster 81,Home & Kitchen,,191.34,86.90,false
+82,Bike Helmet 82,Sports & Outdoors,,278.93,174.01,false
+83,Mystery Novel 83,Books,,80.10,41.29,false
+84,Toaster 84,Home & Kitchen,,124.05,76.07,false
+85,Stainless Steel Pan 85,Home & Kitchen,,114.41,66.34,false
+86,Body Lotion 86,Beauty & Personal Care,,365.04,244.67,false
+87,Blender 87,Home & Kitchen,,84.63,57.32,false
+88,Razor Set 88,Beauty & Personal Care,,42.74,22.27,false
+89,Programming Guide 89,Books,,285.99,162.37,false
+90,Dumbbell Set 90,Sports & Outdoors,,206.30,98.42,false
+91,USB-C Cable 91,Electronics,,371.67,256.55,false
+92,Running Shoes 92,Sports & Outdoors,,50.16,24.47,false
+93,Camping Tent 93,Sports & Outdoors,,28.93,12.39,false
+94,USB-C Cable 94,Electronics,,66.86,38.55,false
+95,Portable SSD 95,Electronics,,69.49,38.22,false
+96,Webcam 96,Electronics,,264.06,165.76,true
+97,Webcam 97,Electronics,,234.59,126.95,false
+98,Biography 98,Books,,115.13,53.99,false
+99,Vacuum Cleaner 99,Home & Kitchen,,283.04,154.24,false
+100,Gaming Controller 100,Electronics,,371.65,236.95,false
+101,Smartwatch 101,Electronics,,167.15,94.51,true
+102,Biography 102,Books,,102.20,53.86,false
+103,Vacuum Cleaner 103,Home & Kitchen,,252.38,153.61,true
+104,Portable SSD 104,Electronics,,188.19,130.47,false
+105,Mystery Novel 105,Books,,338.11,206.17,false
+106,Programming Guide 106,Books,,66.50,29.85,false
+107,Electric Toothbrush 107,Beauty & Personal Care,,65.37,42.30,false
+108,Conditioner 108,Beauty & Personal Care,,261.20,122.11,false
+109,Gaming Controller 109,Electronics,,97.22,52.52,false
+110,Vacuum Cleaner 110,Home & Kitchen,,326.74,203.75,false
+111,Productivity Book 111,Books,,225.30,143.96,false
+112,Conditioner 112,Beauty & Personal Care,,121.23,81.21,false
+113,Laptop Stand 113,Electronics,,75.33,33.85,false
+114,Blender 114,Home & Kitchen,,156.49,84.21,false
+115,Bike Helmet 115,Sports & Outdoors,,353.64,186.51,false
+116,History Book 116,Books,,368.79,152.03,false
+117,Stainless Steel Pan 117,Home & Kitchen,,350.39,189.80,true
+118,Noise-Cancelling Headphones 118,Electronics,,351.34,187.68,false
+119,Laptop Stand 119,Electronics,,86.31,49.70,false
+120,Fantasy Novel 120,Books,,388.54,157.65,false
+121,Camping Tent 121,Sports & Outdoors,,251.05,135.61,false
+122,Thriller Book 122,Books,,222.97,118.53,false
+123,Mystery Novel 123,Books,,106.64,68.88,false
+124,Gaming Controller 124,Electronics,,320.32,150.97,false
+125,Stainless Steel Pan 125,Home & Kitchen,,327.79,183.94,false
+126,Fantasy Novel 126,Books,,68.11,31.07,false
+127,Sleeping Bag 127,Sports & Outdoors,,126.84,71.65,false
+128,Wireless Mouse 128,Electronics,,220.39,88.83,false
+129,Portable SSD 129,Electronics,,265.34,140.57,false
+130,Programming Guide 130,Books,,200.63,109.47,false
+131,Electric Toothbrush 131,Beauty & Personal Care,,91.11,62.36,false
+132,Bluetooth Speaker 132,Electronics,,356.02,160.92,false
+133,Fitness Tracker 133,Sports & Outdoors,,47.71,23.66,false
+134,Kitchen Knife Set 134,Home & Kitchen,,378.20,239.96,false
+135,Programming Guide 135,Books,,387.74,232.43,false
+136,Gaming Controller 136,Electronics,,222.85,93.74,false
+137,Face Cleanser 137,Beauty & Personal Care,,288.60,166.09,false
+138,Fantasy Novel 138,Books,,331.78,226.80,false
+139,Hiking Backpack 139,Sports & Outdoors,,321.64,134.36,false
+140,Sci-Fi Novel 140,Books,,120.30,64.27,false
+141,Electric Kettle 141,Home & Kitchen,,53.20,26.90,false
+142,Thriller Book 142,Books,,249.44,151.95,false
+143,Body Lotion 143,Beauty & Personal Care,,374.36,153.03,false
+144,Sunscreen 144,Beauty & Personal Care,,321.56,183.50,false
+145,Productivity Book 145,Books,,94.23,47.86,false
+146,Kitchen Knife Set 146,Home & Kitchen,,44.01,19.32,false
+147,Thriller Book 147,Books,,344.67,185.92,false
+148,Cutting Board 148,Home & Kitchen,,119.97,56.91,false
+149,Water Bottle 149,Sports & Outdoors,,70.07,48.03,false
+150,Cookbook 150,Books,,181.60,108.74,false
+151,Kitchen Knife Set 151,Home & Kitchen,,214.50,92.45,false
+152,Air Fryer 152,Home & Kitchen,,359.63,246.38,false
+153,Fantasy Novel 153,Books,,174.41,90.61,false
+154,Electric Toothbrush 154,Beauty & Personal Care,,343.92,171.92,false
+155,Fantasy Novel 155,Books,,190.98,109.36,false
+156,Webcam 156,Electronics,,344.64,191.52,false
+157,Sunscreen 157,Beauty & Personal Care,,87.60,60.16,true
+158,Sunscreen 158,Beauty & Personal Care,,214.14,135.71,false
+159,History Book 159,Books,,217.33,146.49,false
+160,Cookbook 160,Books,,132.63,83.95,false
+161,Hiking Backpack 161,Sports & Outdoors,,291.83,149.67,false
+162,Razor Set 162,Beauty & Personal Care,,270.73,152.63,false
+163,Vacuum Cleaner 163,Home & Kitchen,,20.58,8.88,false
+164,Blender 164,Home & Kitchen,,395.54,169.65,false
+165,Blender 165,Home & Kitchen,,273.91,188.64,true
+166,Resistance Bands 166,Sports & Outdoors,,314.43,161.35,false
+167,History Book 167,Books,,245.05,116.69,false
+168,Hiking Backpack 168,Sports & Outdoors,,156.48,97.40,false
+169,Electric Kettle 169,Home & Kitchen,,65.85,45.53,false
+170,Body Lotion 170,Beauty & Personal Care,,67.45,40.67,false
+171,Blender 171,Home & Kitchen,,132.85,56.22,false
+172,Wireless Mouse 172,Electronics,,43.91,28.43,false
+173,Thriller Book 173,Books,,178.93,121.98,false
+174,Self-Help Guide 174,Books,,232.35,103.52,false
+175,Electric Kettle 175,Home & Kitchen,,372.30,228.73,false
+176,Toaster 176,Home & Kitchen,,367.34,204.80,false
+177,Wireless Mouse 177,Electronics,,218.39,112.38,false
+178,Mystery Novel 178,Books,,308.38,176.52,false
+179,Toaster 179,Home & Kitchen,,237.43,96.50,false
+180,Food Storage Set 180,Home & Kitchen,,323.47,188.30,true
+181,Bike Helmet 181,Sports & Outdoors,,259.05,109.17,false
+182,Moisturizer 182,Beauty & Personal Care,,183.61,106.95,false
+183,Self-Help Guide 183,Books,,78.33,37.13,false
+184,Programming Guide 184,Books,,200.81,90.97,false
+185,Moisturizer 185,Beauty & Personal Care,,48.99,25.56,false
+186,Body Lotion 186,Beauty & Personal Care,,146.92,100.03,false
+187,Water Bottle 187,Sports & Outdoors,,234.45,96.50,false
+188,Self-Help Guide 188,Books,,61.43,33.26,false
+189,Gaming Controller 189,Electronics,,299.32,170.49,false
+190,Air Fryer 190,Home & Kitchen,,22.53,15.60,false
+191,Noise-Cancelling Headphones 191,Electronics,,226.42,145.96,false
+192,Laptop Stand 192,Electronics,,90.00,48.22,false
+193,Razor Set 193,Beauty & Personal Care,,85.60,37.93,false
+194,Dumbbell Set 194,Sports & Outdoors,,212.39,116.29,false
+195,Bike Helmet 195,Sports & Outdoors,,282.87,132.57,false
+196,Programming Guide 196,Books,,160.55,77.19,false
+197,Cutting Board 197,Home & Kitchen,,208.34,121.92,false
+198,Electric Toothbrush 198,Beauty & Personal Care,,116.63,80.55,false
+199,Water Bottle 199,Sports & Outdoors,,378.96,214.07,false
+200,Water Bottle 200,Sports & Outdoors,,67.84,39.56,false
+201,Smartwatch 201,Electronics,,68.26,38.47,false
+202,Electric Kettle 202,Home & Kitchen,,268.66,121.77,false
+203,Programming Guide 203,Books,,6.30,3.73,false
+204,Sunscreen 204,Beauty & Personal Care,,197.94,82.40,false
+205,History Book 205,Books,,150.21,82.46,false
+206,Running Shoes 206,Sports & Outdoors,,31.78,19.47,false
+207,Ceramic Mug 207,Home & Kitchen,,326.57,222.24,false
+208,Laptop Stand 208,Electronics,,389.11,219.13,false
+209,Body Lotion 209,Beauty & Personal Care,,188.28,80.61,true
+210,Hiking Backpack 210,Sports & Outdoors,,211.85,133.34,false
+211,Toaster 211,Home & Kitchen,,323.51,137.42,false
+212,Hiking Backpack 212,Sports & Outdoors,,324.30,130.64,false
+213,Cookbook 213,Books,,37.84,19.08,false
+214,Webcam 214,Electronics,,163.02,93.67,false
+215,Camping Tent 215,Sports & Outdoors,,252.10,168.59,false
+216,Dumbbell Set 216,Sports & Outdoors,,301.09,199.68,false
+217,Noise-Cancelling Headphones 217,Electronics,,395.04,240.33,false
+218,Cutting Board 218,Home & Kitchen,,385.74,245.84,false
+219,Biography 219,Books,,30.27,19.71,false
+220,Razor Set 220,Beauty & Personal Care,,131.34,66.87,false
+221,Portable SSD 221,Electronics,,33.76,13.95,false
+222,Blender 222,Home & Kitchen,,345.59,200.61,false
+223,Wireless Mouse 223,Electronics,,23.99,9.83,false
+224,Razor Set 224,Beauty & Personal Care,,8.13,5.10,false
+225,Stainless Steel Pan 225,Home & Kitchen,,338.57,164.75,false
+226,Mechanical Keyboard 226,Electronics,,348.65,140.57,false
+227,Sci-Fi Novel 227,Books,,303.25,204.71,false
+228,Programming Guide 228,Books,,335.11,229.53,false
+229,Moisturizer 229,Beauty & Personal Care,,324.76,188.19,false
+230,Kitchen Knife Set 230,Home & Kitchen,,323.29,138.81,false
+231,Gaming Controller 231,Electronics,,64.44,30.46,false
+232,Cookbook 232,Books,,182.33,104.40,false
+233,Thriller Book 233,Books,,245.00,122.85,false
+234,Fantasy Novel 234,Books,,268.61,135.16,false
+235,Kitchen Knife Set 235,Home & Kitchen,,43.63,29.46,false
+236,Air Fryer 236,Home & Kitchen,,383.46,235.22,true
+237,Self-Help Guide 237,Books,,199.63,129.85,false
+238,Sci-Fi Novel 238,Books,,200.57,133.97,false
+239,Electric Kettle 239,Home & Kitchen,,320.95,152.42,false
+240,Portable SSD 240,Electronics,,117.00,64.24,false
+241,Air Fryer 241,Home & Kitchen,,101.41,63.30,false
+242,Air Fryer 242,Home & Kitchen,,67.91,36.38,false
+243,Mechanical Keyboard 243,Electronics,,297.01,132.44,false
+244,Dumbbell Set 244,Sports & Outdoors,,146.67,91.42,false
+245,Mechanical Keyboard 245,Electronics,,310.10,171.01,false
+246,Razor Set 246,Beauty & Personal Care,,62.04,41.71,false
+247,Hair Dryer 247,Beauty & Personal Care,,202.30,98.93,false
+248,Lip Balm 248,Beauty & Personal Care,,149.84,66.23,false
+249,Thriller Book 249,Books,,124.21,66.91,false
+250,Razor Set 250,Beauty & Personal Care,,178.43,114.78,true
+251,Hair Dryer 251,Beauty & Personal Care,,113.15,46.50,false
+252,Electric Toothbrush 252,Beauty & Personal Care,,24.03,10.46,false
+253,Ceramic Mug 253,Home & Kitchen,,286.72,173.81,false
+254,Moisturizer 254,Beauty & Personal Care,,396.05,222.89,false
+255,Fitness Tracker 255,Sports & Outdoors,,339.07,170.23,false
+256,Water Bottle 256,Sports & Outdoors,,343.78,155.18,false
+257,Air Fryer 257,Home & Kitchen,,63.30,29.29,false
+258,Body Lotion 258,Beauty & Personal Care,,171.69,108.47,false
+259,Self-Help Guide 259,Books,,201.35,127.87,false
+260,Conditioner 260,Beauty & Personal Care,,294.26,148.94,false
+261,Sunscreen 261,Beauty & Personal Care,,297.20,155.77,false
+262,Moisturizer 262,Beauty & Personal Care,,265.12,137.26,true
+263,History Book 263,Books,,116.93,78.61,false
+264,Mechanical Keyboard 264,Electronics,,38.50,26.01,false
+265,Resistance Bands 265,Sports & Outdoors,,366.02,193.39,false
+266,Laptop Stand 266,Electronics,,7.51,3.76,false
+267,Camping Tent 267,Sports & Outdoors,,208.17,124.76,false
+268,Bike Helmet 268,Sports & Outdoors,,226.31,93.16,false
+269,Dumbbell Set 269,Sports & Outdoors,,79.59,41.28,false
+270,Stainless Steel Pan 270,Home & Kitchen,,246.69,122.13,false
+271,Shampoo 271,Beauty & Personal Care,,327.62,198.03,true
+272,Toaster 272,Home & Kitchen,,120.04,67.34,false
+273,Noise-Cancelling Headphones 273,Electronics,,341.96,173.82,false
+274,Electric Toothbrush 274,Beauty & Personal Care,,53.21,29.06,false
+275,Electric Toothbrush 275,Beauty & Personal Care,,59.35,37.32,true
+276,Running Shoes 276,Sports & Outdoors,,342.04,214.35,true
+277,Laptop Stand 277,Electronics,,219.37,108.38,true
+278,Fitness Tracker 278,Sports & Outdoors,,334.45,229.09,false
+279,Blender 279,Home & Kitchen,,313.02,189.27,false
+280,Stainless Steel Pan 280,Home & Kitchen,,319.72,130.67,false
+281,Face Cleanser 281,Beauty & Personal Care,,263.43,168.07,false
+282,Razor Set 282,Beauty & Personal Care,,381.21,230.01,false
+283,Moisturizer 283,Beauty & Personal Care,,390.13,207.11,false
+284,Electric Kettle 284,Home & Kitchen,,111.58,55.64,false
+285,Biography 285,Books,,258.56,123.86,false
+286,Laptop Stand 286,Electronics,,362.28,196.61,false
+287,Portable SSD 287,Electronics,,257.71,133.24,false
+288,Thriller Book 288,Books,,66.37,39.41,false
+289,Mystery Novel 289,Books,,90.69,60.99,false
+290,Mystery Novel 290,Books,,25.70,14.59,false
+291,Self-Help Guide 291,Books,,25.51,17.03,false
+292,Kitchen Knife Set 292,Home & Kitchen,,136.17,62.12,false
+293,Mechanical Keyboard 293,Electronics,,58.98,39.39,false
+294,Moisturizer 294,Beauty & Personal Care,,200.35,127.59,false
+295,Biography 295,Books,,307.36,176.20,false
+296,Electric Toothbrush 296,Beauty & Personal Care,,93.52,50.47,false
+297,Conditioner 297,Beauty & Personal Care,,30.06,16.59,false
+298,Cookbook 298,Books,,253.90,157.83,false
+299,Mechanical Keyboard 299,Electronics,,277.33,140.03,false
+300,Fantasy Novel 300,Books,,60.59,26.12,false
